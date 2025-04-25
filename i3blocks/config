@@ -13,6 +13,11 @@ interval=1
 command=~/.config/i3blocks/memory
 interval=1
 
+#[vpn]
+#command=/usr/local/bin/vpn-status
+#interval=1
+#signal=10
+
 [network]
 command=~/.config/i3blocks/network
 interval=1
@@ -26,7 +31,7 @@ command=~/.config/i3blocks/volume
 interval=1
 
 [label]
-command=echo 'Arch Linux '
+command=echo "$(uname -r | cut -d '-' -f 1) "
 interval=once
 align=center
 color=#ffffff
