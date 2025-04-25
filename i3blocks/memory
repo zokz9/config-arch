@@ -1,9 +1,0 @@
-#!/bin/bash
-if [ -n "$BLOCK_BUTTON" ]; then
-# Запускаем терминал (замените 'konsole' на нужный вам терминал).
-konsole -e htop &
-fi
-# Получаем информацию об использовании памяти
-MEMORY_USED=$(free -m | awk 'NR==2{printf "%.1f", $3/1024}')
-MEMORY_TOTAL=$(free -m | awk 'NR==2{printf "%.1f", $2/1024}')
-echo "$MEMORY_USED/$MEMORY_TOTAL GB"
