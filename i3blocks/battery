@@ -1,8 +1,0 @@
-#!/bin/bash
-BATTERY_STATUS=$(cat /sys/class/power_supply/BAT0/status)
-BATTERY_PERCENT=$(cat /sys/class/power_supply/BAT0/capacity)
-if [ "$BATTERY_STATUS" = "Charging" ]; then
-    echo "⚡ $BATTERY_PERCENT%"
-else
-    echo "🔋 $BATTERY_PERCENT%"
-fi

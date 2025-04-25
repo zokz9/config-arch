@@ -1,8 +1,0 @@
-#!/bin/bash
-VOLUME=$(pamixer --get-volume)
-MUTE=$(pamixer --get-mute)
-if [ "$MUTE" = "true" ]; then
-    echo "🔊 $VOLUME%"
-else
-    echo "🔊 $VOLUME%"
-fi
