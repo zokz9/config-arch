@@ -1,0 +1,6 @@
+2025/04/09-22:04:21.190 7b2f Creating DB /home/zokz/.config/chromium/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb since it was missing.
+2025/04/09-22:04:21.205 7b2f Reusing MANIFEST /home/zokz/.config/chromium/Default/IndexedDB/https_platform.openai.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/09-22:04:37.767 7b2f Level-0 table #5: started
+2025/04/09-22:04:37.785 7b2f Level-0 table #5: 1157 bytes OK
+2025/04/09-22:04:37.793 7b2f Delete type=0 #3
+2025/04/09-22:04:37.793 7b2f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,60 @@
+2025-04-22 15:18:39.383 | error | main | invoke | Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:18:39.438 | error | main | invoke | Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:18:39.439 | error | main | invoke | Error: net::ERR_NETWORK_IO_SUSPENDED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:35.064 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:35.066 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:35.067 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:36.148 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:37.151 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:38.150 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:39.151 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:40.150 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:41.149 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:42.148 | error | main | invoke | Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:42.642 | error | main | invoke | Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)
+2025-04-22 15:57:42.644 | error | main | invoke | Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+    at SimpleURLLoaderWrapper.emit (node:domain:488:12)

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 16.0.0, 2025-03-24T18:54:47. -->
+<qtcreator>
+ <data>
+  <variable>AutoTest.MessageFilter</variable>
+  <valuelist type="QVariantList">
+   <value type="int">3</value>
+   <value type="int">20</value>
+   <value type="int">0</value>
+   <value type="int">7</value>
+   <value type="int">12</value>
+   <value type="int">11</value>
+   <value type="int">22</value>
+   <value type="int">14</value>
+   <value type="int">6</value>
+   <value type="int">9</value>
+   <value type="int">4</value>
+   <value type="int">8</value>
+   <value type="int">21</value>
+   <value type="int">1</value>
+   <value type="int">10</value>
+   <value type="int">2</value>
+   <value type="int">5</value>
+   <value type="int">13</value>
+   <value type="int">16</value>
+   <value type="int">15</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>AutoTest.ShowDurations</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>DeployProjectDependencies</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">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</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/zokz/coding/qtcreator/weather/weather.pro</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/zokz/coding/qtcreator/weather/weather.pro</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-Find</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/zokz/coding/qtcreator/weather</value>
+    <value type="int">200000</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/zokz/coding/qtcreator/weather</value>
+    <value type="int">299998</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/zokz/coding/qtcreator/weather</value>
+    <value type="int">299999</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/zokz/coding/qtcreator/weather</value>
+    <value type="int">300000</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">Find</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>

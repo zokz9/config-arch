@@ -1,0 +1,383 @@
+{
+	"file_history":
+	[
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4192,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1741373288,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1006.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			17.0,
+			85.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/zokz/.config/rofi/config.rasi"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1886.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/zokz/.config/rofi/config.rasi",
+					"settings":
+					{
+						"buffer_size": 193,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							9,
+							2,
+							"left_delete",
+							null,
+							"AgAAAKADAAAAAAAAoAMAAAAAAADtAwAACndpbmRvdyB7CiAgICAvKiDQndCw0YHRgtGA0L7QudC60Lgg0L7QutC90LAgKi8KICAgIGJhY2tncm91bmQtY29sb3I6ICM0MDQwNDA7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjNTA1MDUwOwogICAgYm9yZGVyLXJhZGl1czogMTBweDsKICAgIHBhZGRpbmc6IDIwcHg7Cn0KCmlucHV0YmFyIHsKICAgIC8qINCd0LDRgdGC0YDQvtC50LrQuCDRgdGC0YDQvtC60Lgg0LLQstC+0LTQsCAqLwogICAgYmFja2dyb3VuZC1jb2xvcjogIzUwNTA1MDsKICAgIHRleHQtY29sb3I6ICNGRkZGRkY7CiAgICBwYWRkaW5nOiAxMHB4OwogICAgYm9yZGVyLXJhZGl1czogNXB4Owp9CgpsaXN0dmlldyB7CiAgICAvKiDQndCw0YHRgtGA0L7QudC60Lgg0YHQv9C40YHQutCwICovCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjNDA0MDQwOwogICAgcGFkZGluZzogMTBweDsKICAgIGJvcmRlci1yYWRpdXM6IDVweDsKfQoKZWxlbWVudCB7CiAgICAvKiDQndCw0YHRgtGA0L7QudC60Lgg0Y3Qu9C10LzQtdC90YLQvtCyINGB0L/QuNGB0LrQsCAqLwogICAgYmFja2dyb3VuZC1jb2xvcjogIzQwNDA0MDsKICAgIHRleHQtY29sb3I6ICNGRkZGRkY7CiAgICBwYWRkaW5nOiA1cHg7CiAgICBib3JkZXItcmFkaXVzOiA1cHg7Cn0KCmVsZW1lbnQgc2VsZWN0ZWQgewogICAgLyog0J3QsNGB0YLRgNC+0LnQutC4INCy0YvQtNC10LvQtdC90L3QvtCz0L4g0Y3Qu9C10LzQtdC90YLQsCAqLwogICAgYmFja2dyb3VuZC1jb2xvcjogIzUwNTA1MDsKICAgIHRleHQtY29sb3I6ICNGRkZGRkY7Cn0KCmVsZW1lbnQtdGV4dCB7CiAgICAvKiDQndCw0YHRgtGA0L7QudC60Lgg0YLQtdC60YHRgtCwINGN0LvQtdC80LXQvdGC0L7QsiAqLwogICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgICB0ZXh0LWNvbG9yOiAjRkZGRkZGOwp9CgplbGVtZW50LWljb24gewogICAgLyog0J3QsNGB0YLRgNC+0LnQutC4INC40LrQvtC90L7QuiDRjdC70LXQvNC10L3RgtC+0LIgKi8KICAgIHNpemU6IDI0cHg7Cn0KnwMAAAAAAACfAwAAAAAAAAEAAAAK",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgAwAAAAAAAPkGAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/zokz/.config/rofi/config.rasi",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 193,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,15,37,1901,1043,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

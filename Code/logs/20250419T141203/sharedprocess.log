@@ -1,0 +1,15 @@
+2025-04-19 14:37:33.904 [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+2025-04-19 14:37:34.047 [info] Installing extension: jeff-hykin.better-cpp-syntax {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zokz/.vscode/extensions/extensions.json","path":"/home/zokz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.2","date":"2025-04-10T01:21:25.295Z"}}
+2025-04-19 14:37:36.931 [info] Extension signature verification result for jeff-hykin.better-cpp-syntax: Success. Internal Code: 0. Executed: true. Duration: 1835ms.
+2025-04-19 14:37:37.008 [info] Extracted extension to file:///home/zokz/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.27.1: jeff-hykin.better-cpp-syntax
+2025-04-19 14:37:37.038 [info] Renamed to /home/zokz/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.27.1
+2025-04-19 14:37:37.086 [info] Extension installed successfully: jeff-hykin.better-cpp-syntax vscode-userdata:/home/zokz/.vscode/extensions/extensions.json
+2025-04-19 14:43:48.079 [info] Getting Manifest... formulahendry.code-runner
+2025-04-19 14:43:49.194 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zokz/.vscode/extensions/extensions.json","path":"/home/zokz/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.2","date":"2025-04-10T01:21:25.295Z"}}
+2025-04-19 14:43:52.681 [info] Extension signature verification result for formulahendry.code-runner: Success. Internal Code: 0. Executed: true. Duration: 1736ms.
+2025-04-19 14:43:53.112 [info] Extracted extension to file:///home/zokz/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2025-04-19 14:43:53.167 [info] Renamed to /home/zokz/.vscode/extensions/formulahendry.code-runner-0.12.2
+2025-04-19 14:43:53.235 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/zokz/.vscode/extensions/extensions.json
+2025-04-19 14:51:11.613 [info] Uninstalling extension from the profile: formulahendry.code-runner@0.12.2 vscode-userdata:/home/zokz/.vscode/extensions/extensions.json
+2025-04-19 14:51:11.734 [info] Marked extension as removed formulahendry.code-runner-0.12.2
+2025-04-19 14:51:12.099 [info] Successfully uninstalled extension from the profile formulahendry.code-runner@0.12.2 vscode-userdata:/home/zokz/.vscode/extensions/extensions.json

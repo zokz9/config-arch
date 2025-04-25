@@ -1,0 +1,14 @@
+* {
+    background:     #2e3440;
+    foreground:     #000000;
+    border-color:   #4c566a;
+    selected-bg:    #434c5e;
+    selected-fg:    #eceff4;
+    selected-active-background: #7D8FA9;  /* Серо-синий цвет выделения */
+    selected-active-foreground: #FFFFFF;  /* Цвет текста выделенного элемента (белый) */
+}
+
+window {
+    transparency:   "real";
+    background-color: rgba(46, 52, 64, 0.1);
+}

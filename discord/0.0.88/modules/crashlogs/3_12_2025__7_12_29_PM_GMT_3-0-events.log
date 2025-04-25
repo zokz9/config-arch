@@ -1,0 +1,18 @@
+3/12/2025, 7:12:29 PM GMT+3 0: 
+
+----------------------------------------------
+3/12/2025, 7:12:29 PM GMT+3 1: Discord starting: {"releaseChannel":"stable","version":"0.0.88"}, modulepath: /home/zokz/.config/discord/0.0.88/modules
+3/12/2025, 7:12:29 PM GMT+3 2: ✅ webContents.created web1 ""
+3/12/2025, 7:12:29 PM GMT+3 3: ✅ window.created win1 "discord"
+3/12/2025, 7:12:29 PM GMT+3 4: ✅ webContents.did-finish-load web1
+3/12/2025, 7:12:44 PM GMT+3 5: ✅ webContents.created web2 ""
+3/12/2025, 7:12:45 PM GMT+3 6: ✅ window.created win2 "Discord"
+3/12/2025, 7:12:50 PM GMT+3 7: ✅ webContents.did-finish-load web2
+3/12/2025, 7:12:50 PM GMT+3 8: window.close win1
+3/12/2025, 7:12:51 PM GMT+3 9: webContents.destroyed web1
+3/12/2025, 7:12:51 PM GMT+3 10: window.closed win1
+3/12/2025, 7:15:26 PM GMT+3 11: window.close win2
+3/12/2025, 7:16:39 PM GMT+3 12: before-quit
+3/12/2025, 7:16:39 PM GMT+3 13: window.close win2
+3/12/2025, 7:16:39 PM GMT+3 14: webContents.destroyed web2
+3/12/2025, 7:16:39 PM GMT+3 15: window.closed win2

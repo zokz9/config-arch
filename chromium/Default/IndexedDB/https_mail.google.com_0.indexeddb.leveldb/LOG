@@ -1,0 +1,6 @@
+2025/03/25-22:18:02.965 d40 Reusing MANIFEST /home/zokz/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/25-22:18:02.966 d40 Recovering log #4
+2025/03/25-22:18:02.969 d40 Reusing old log /home/zokz/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/03/25-22:18:32.343 d4b Level-0 table #8: started
+2025/03/25-22:18:32.397 d4b Level-0 table #8: 3063697 bytes OK
+2025/03/25-22:18:32.409 d4b Delete type=0 #4

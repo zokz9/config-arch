@@ -1,0 +1,36 @@
+00:00:00.491176 VirtualBox GUI VM Selector Window 7.1.8 r168469 linux.amd64 (Apr 15 2025 18:05:05) release log
+00:00:00.491178 Log opened 2025-04-25T10:57:34.526431000Z
+00:00:00.491178 Build Type: release
+00:00:00.491181 OS Product: Linux
+00:00:00.491182 OS Release: 6.14.3-arch1-1
+00:00:00.491183 OS Version: #1 SMP PREEMPT_DYNAMIC Sun, 20 Apr 2025 12:38:52 +0000
+00:00:00.491222 DMI Product Name: VivoBook_ASUS Laptop E410MA_R429MA
+00:00:00.491232 DMI Product Version: 1.0       
+00:00:00.491240 Firmware type: UEFI
+00:00:00.491704 Secure Boot: Disabled
+00:00:00.491755 Host RAM: 3733MB (3.6GB) total, 3292MB (3.2GB) available
+00:00:00.491758 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.491758 Process ID: 1267
+00:00:00.491758 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.491804 Qt version: 6.9.0
+00:00:00.493373 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.508933 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.504833 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.695501 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 964x540 x 800x800
+00:00:11.371931 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:18.365684 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:21.478469 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:27.684509 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:32.227063 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:33.311847 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:35.470267 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:37.887725 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:39.727107 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:41.189086 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:42.166633 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:42.952495 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:43.530937 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:44.214863 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:46.048501 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:32.745572 GUI: UICommon: Handling aboutToQuit request..
+00:06:33.785224 GUI: UICommon: aboutToQuit request handled!

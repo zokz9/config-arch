@@ -1,0 +1,6 @@
+2025/04/13-19:26:13.863 820 Creating DB /home/zokz/.config/chromium/Default/WebStorage/58/IndexedDB/indexeddb.leveldb since it was missing.
+2025/04/13-19:26:13.884 820 Reusing MANIFEST /home/zokz/.config/chromium/Default/WebStorage/58/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/13-19:26:31.766 821 Level-0 table #5: started
+2025/04/13-19:26:31.775 821 Level-0 table #5: 12081 bytes OK
+2025/04/13-19:26:31.783 821 Delete type=0 #3
+2025/04/13-19:26:31.784 821 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

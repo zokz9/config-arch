@@ -1,0 +1,14 @@
+2025-04-19 16:32:23.734 [info] Using the Electron fetcher.
+2025-04-19 16:32:23.734 [info] Initializing Git extension service.
+2025-04-19 16:32:23.734 [info] Successfully activated the vscode.git extension.
+2025-04-19 16:32:23.734 [info] Enablement state of the vscode.git extension: true.
+2025-04-19 16:32:23.734 [info] Successfully registered Git commit message provider.
+2025-04-19 16:32:28.370 [error] Timed out waiting for authentication provider to register: Failed to get copilot token
+2025-04-19 16:32:28.370 [error] GitHub Copilot could not connect to server. Extension activation failed: "Timed out waiting for authentication provider to register"
+2025-04-19 16:32:28.370 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-19 16:32:28.370 [error] Timed out waiting for authentication provider to register
+2025-04-19 16:32:28.370 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-19 16:32:28.370 [error] Timed out waiting for authentication provider to register
+2025-04-19 16:32:28.370 [info] activationBlocker from 'languageModelAccess' took for 3428ms
+2025-04-19 16:32:28.373 [error] Error getting a session: Timed out waiting for authentication provider to register
+2025-04-19 16:32:28.373 [error] Error getting a session: Timed out waiting for authentication provider to register

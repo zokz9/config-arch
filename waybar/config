@@ -1,0 +1,107 @@
+{
+    "gtk-layer-shell": true,
+    "output": "eDP-1",
+    "layer": "top",
+    "position": "top",
+    "height": 34,
+    "spacing": 4,
+    "margin-top": 6,
+    "margin-left": 6,
+    "margin-right": 6,
+    "modules-left": ["custom/launcher","hyprland/workspaces","wlr/taskbar"],
+    "modules-center": ["clock"],
+    "modules-right": ["custom/kernel", "pulseaudio", "network", "cpu", "memory", "battery"],
+	 
+    "custom/taskbar-spacer": {
+        "format": "    ",  // Невидимый отступ (4 пробела)
+        "tooltip": false
+    },
+
+    "custom/taskbar-wrapper": {
+        "format": "{}",
+        "exec": "echo",  // Пустая команда
+        "return-type": "json",
+        "on-click": "",
+        "wlr/taskbar": {
+            "format": "{icon}",
+            "icon-size": 16,
+            "icon-theme": "Papirus-Dark",
+            "on-click": "minimize",
+            "on-click-right": "close",
+            "ignore-list": ["kitty", "waybar", "firefox"]
+     }
+	  },
+
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "format-icons": {
+            "1": "1", "2": "2", "3": "3", "4": "4", "5": "5"
+        },
+        "on-click": "activate"
+    },
+
+    "custom/launcher": {
+        "format": "󰣇",  // Иконка Hyprland
+        "on-click": "rofi -show drun -theme ~/.config/rofi/onedark.rasi"
+    },
+
+    "clock": {
+        "format": " {:%H:%M}",
+        "tooltip-format": "  {:%d %B %Y}"
+    },
+
+    "pulseaudio": {
+        "format": " {icon} {volume}% ",
+        "format-muted": " 󰖁 Mute ",
+        "format-icons": ["󰕿", "󰖀", "󰕾"]
+    },
+
+    "network": {
+        "format-wifi": " 󰖩 {essid} ",
+        "format-disconnected": " 󰖪 No Net "
+    },
+
+    "cpu": {
+        "format": " 󰍛 {usage}% ",
+        "interval": 5
+    },
+
+    "memory": {
+        "format": " 󰾆 {percentage}% ",
+        "interval": 5
+    },
+
+    "battery": {
+        "format": " {icon} {capacity}% ",
+        "format-icons": ["󰁺", "󰁼", "󰁾", "󰂁", "󰁹"],
+        "states": {
+            "warning": 30,
+            "critical": 15
+        }
+    },
+
+    "custom/kernel": {
+        "format": "  {} ",
+        "exec": "uname -r | sed 's/-.*//'",  // или "uname -r | sed 's/-.*//'"
+        "interval": "once",
+        "tooltip": false
+    },
+
+    "wlr/taskbar": {
+    	"format": "{icon}",
+    	"icon-size": 16,
+    	"icon-theme": "Papirus-Dark",
+    	"tooltip": false,
+    	"on-click": "activate",
+    	"on-click-middle": "close",
+    	"on-click-right": "close",
+	"sort-by": "app_id",
+    	"ignore-list": ["waybar","kitty"],
+    "app_ids-mapping": {
+        "org.wezfurlong.wezterm": "wezterm",
+        "com.spotify.Client": "spotify",
+	"Firefox": "firefox",
+    }
+}
+}
+}

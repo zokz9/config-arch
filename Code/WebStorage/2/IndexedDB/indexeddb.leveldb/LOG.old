@@ -1,0 +1,13 @@
+2025/04/12-14:33:18.803 834 Reusing MANIFEST /home/zokz/.config/Code/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/12-14:33:18.803 834 Recovering log #4
+2025/04/12-14:33:18.804 834 Reusing old log /home/zokz/.config/Code/WebStorage/2/IndexedDB/indexeddb.leveldb/000004.log 
+2025/04/12-14:33:18.974 850 Level-0 table #8: started
+2025/04/12-14:33:18.980 850 Level-0 table #8: 4781 bytes OK
+2025/04/12-14:33:18.991 850 Delete type=0 #4
+2025/04/12-14:33:18.992 834 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/12-14:34:37.388 834 Compacting 1@1 + 1@2 files
+2025/04/12-14:34:37.403 834 Generated table #9@1: 42 keys, 3179 bytes
+2025/04/12-14:34:37.404 834 Compacted 1@1 + 1@2 files => 3179 bytes
+2025/04/12-14:34:37.412 834 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/12-14:34:37.413 834 Delete type=2 #8
+2025/04/12-14:34:37.413 834 Delete type=2 #5

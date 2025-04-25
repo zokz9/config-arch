@@ -1,0 +1,58 @@
+2025-04-19 14:12:06.751 [info] Extension host with pid 3575 started
+2025-04-19 14:12:07.206 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github-enterprise'
+2025-04-19 14:12:07.356 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-19 14:12:07.751 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-19 14:12:07.992 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-19 14:12:08.045 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-19 14:12:08.216 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-19 14:12:08.348 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-19 14:12:08.629 [info] Eager extensions activated
+2025-04-19 14:12:08.914 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:12:08.932 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:43:48.461 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-04-19 14:43:48.794 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:43:50.031 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:43:51.608 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2025-04-19 14:43:54.206 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:44:12.875 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:44:16.478 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:44:18.960 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:44:19.456 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:44:24.545 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-04-19 14:44:40.277 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-19 14:44:40.615 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:2570)
+    at R.logOutputMessage (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+    at R.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+    at ChildProcess.emit (node:events:518:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-19 14:44:40.670 [info] Extension host with pid 3575 exiting with code 0
+2025-04-19 14:44:43.810 [info] Extension host with pid 4409 started
+2025-04-19 14:44:43.810 [info] Skipping acquiring lock for /home/zokz/.config/Code/User/workspaceStorage/37e5ea9785e4f647f335479bd69208a8.
+2025-04-19 14:44:43.963 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github-enterprise'
+2025-04-19 14:44:44.110 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-04-19 14:44:44.171 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-19 14:44:44.261 [info] Eager extensions activated
+2025-04-19 14:44:44.329 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:44:44.338 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:44:44.406 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-19 14:44:44.427 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-19 14:44:44.584 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-19 14:44:44.755 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-19 14:44:50.644 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-04-19 14:44:51.656 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:44:51.747 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:44:52.996 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-04-19 14:44:54.426 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2025-04-19 14:46:33.874 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:46:37.052 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:47:50.800 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:49:00.175 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:49:04.692 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:49:05.369 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:49:06.341 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:49:21.077 [warning] ms-vscode.cpptools - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.extract.function'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-04-19 14:50:12.521 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-04-19 14:50:23.976 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

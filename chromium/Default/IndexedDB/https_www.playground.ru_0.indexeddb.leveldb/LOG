@@ -1,0 +1,6 @@
+2025/03/07-17:46:04.504 6451c Creating DB /home/zokz/.config/chromium/Default/IndexedDB/https_www.playground.ru_0.indexeddb.leveldb since it was missing.
+2025/03/07-17:46:04.526 6451c Reusing MANIFEST /home/zokz/.config/chromium/Default/IndexedDB/https_www.playground.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/07-18:10:02.374 64519 Level-0 table #5: started
+2025/03/07-18:10:02.377 64519 Level-0 table #5: 4499 bytes OK
+2025/03/07-18:10:02.380 64519 Delete type=0 #3
+2025/03/07-18:10:02.381 64519 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

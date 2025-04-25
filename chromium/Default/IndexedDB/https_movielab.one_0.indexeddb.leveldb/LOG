@@ -1,0 +1,31 @@
+2025/03/26-21:02:21.922 13f80 Creating DB /home/zokz/.config/chromium/Default/IndexedDB/https_movielab.one_0.indexeddb.leveldb since it was missing.
+2025/03/26-21:02:21.938 13f80 Reusing MANIFEST /home/zokz/.config/chromium/Default/IndexedDB/https_movielab.one_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/26-21:02:21.974 13f80 Level-0 table #5: started
+2025/03/26-21:02:21.986 13f80 Level-0 table #5: 1319 bytes OK
+2025/03/26-21:02:21.994 13f80 Delete type=0 #3
+2025/03/26-21:02:21.995 13f8b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/26-21:02:22.531 13f80 Level-0 table #7: started
+2025/03/26-21:02:22.537 13f80 Level-0 table #7: 1901 bytes OK
+2025/03/26-21:02:22.548 13f80 Delete type=0 #4
+2025/03/26-21:02:22.549 13f80 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/26-21:02:22.663 13f81 Level-0 table #9: started
+2025/03/26-21:02:22.670 13f81 Level-0 table #9: 1779 bytes OK
+2025/03/26-21:02:22.677 13f81 Delete type=0 #6
+2025/03/26-21:02:22.678 13f80 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 215 : 1
+2025/03/26-21:02:22.678 13f80 Compacting 1@0 + 1@1 files
+2025/03/26-21:02:22.684 13f80 Generated table #10@0: 85 keys, 1665 bytes
+2025/03/26-21:02:22.685 13f80 Compacted 1@0 + 1@1 files => 1665 bytes
+2025/03/26-21:02:22.694 13f80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/26-21:02:22.694 13f80 Delete type=2 #9
+2025/03/26-21:02:22.695 13f80 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 215 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/26-21:02:22.833 13f81 Level-0 table #12: started
+2025/03/26-21:02:22.839 13f81 Level-0 table #12: 579 bytes OK
+2025/03/26-21:02:22.846 13f81 Delete type=0 #8
+2025/03/26-21:02:22.846 13f81 Delete type=2 #7
+2025/03/26-21:02:22.847 13f81 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 238 : 1
+2025/03/26-21:02:22.847 13f81 Compacting 1@0 + 1@1 files
+2025/03/26-21:02:22.852 13f81 Generated table #13@0: 92 keys, 1646 bytes
+2025/03/26-21:02:22.852 13f81 Compacted 1@0 + 1@1 files => 1646 bytes
+2025/03/26-21:02:22.859 13f81 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/26-21:02:22.860 13f81 Delete type=2 #12
+2025/03/26-21:02:22.860 13f81 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 238 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

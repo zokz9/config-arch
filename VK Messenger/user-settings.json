@@ -1,0 +1,10 @@
+{
+	"isTrayActive": true,
+	"isAutoUpdates": true,
+	"autoStartMode": "disabled",
+	"downloadLocation": "/home/zokz/Downloads",
+	"disableHTTP2": false,
+	"disableHardwareAcceleration": false,
+	"disableInProcessGPU": false,
+	"lang": "ru"
+}

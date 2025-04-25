@@ -1,0 +1,4 @@
+2025/04/12-16:57:34.856 fa8 Reusing MANIFEST /home/zokz/.config/Code/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/04/12-16:57:34.857 fa8 Recovering log #7
+2025/04/12-16:57:34.857 fa8 Reusing old log /home/zokz/.config/Code/WebStorage/2/IndexedDB/indexeddb.leveldb/000007.log 
+2025/04/12-16:57:34.902 fc1 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,11 @@
+2025/03/10-19:09:25.837 1393 Creating DB /home/zokz/.config/chromium/Default/IndexedDB/https_msk.t2.ru_0.indexeddb.leveldb since it was missing.
+2025/03/10-19:09:25.845 1393 Reusing MANIFEST /home/zokz/.config/chromium/Default/IndexedDB/https_msk.t2.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/10-19:09:26.329 13b4 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/10-19:09:26.355 1394 Level-0 table #5: started
+2025/03/10-19:09:26.360 1394 Level-0 table #5: 10205 bytes OK
+2025/03/10-19:09:26.362 1394 Delete type=0 #3
+2025/03/10-19:09:26.363 1394 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/10-19:09:26.817 1392 Level-0 table #7: started
+2025/03/10-19:09:26.819 1392 Level-0 table #7: 5718 bytes OK
+2025/03/10-19:09:26.822 1392 Delete type=0 #4
+2025/03/10-19:09:26.823 1392 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,11 @@
+configuration {
+    modi: "drun,run,window";
+    show-icons: true;
+    icon-theme: "Papirus";
+    font: "Ubuntu 14";
+    width: 50%;
+    lines: 10;
+    padding: 20;
+    border-radius: 10px;
+}
+

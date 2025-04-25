@@ -1,0 +1,27 @@
+2025-04-25 16:42:18.024 [info] Extension host with pid 1143 started
+2025-04-25 16:42:18.024 [info] Skipping acquiring lock for /home/zokz/.config/Code/User/workspaceStorage/9690be6b8ea95244f988613ae599c10b.
+2025-04-25 16:42:18.752 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github-enterprise'
+2025-04-25 16:42:18.819 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-04-25 16:42:18.882 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+2025-04-25 16:42:20.150 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-04-25 16:42:20.413 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-04-25 16:42:20.612 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-04-25 16:42:20.922 [info] Eager extensions activated
+2025-04-25 16:42:21.529 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 16:42:21.538 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 16:42:21.587 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 16:42:22.904 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-04-25 16:42:25.763 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-25 16:42:25.785 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-25 16:42:25.935 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-04-25 16:42:40.346 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-04-25 16:43:03.760 [info] Extension host terminating: renderer closed the MessagePort
+2025-04-25 16:43:04.236 [error] Error: Channel has been closed
+    at s (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:2431)
+    at Object.appendLine (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:2570)
+    at R.logOutputMessage (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+    at R.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+    at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+    at ChildProcess.emit (node:events:518:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-04-25 16:43:04.283 [info] Extension host with pid 1143 exiting with code 0

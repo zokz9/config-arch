@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "sessionId": "bd1ba9c3-149f-4037-8881-8c0854420e20",
+  "linearHistory": [
+    {
+      "requestId": "request_540a0dce-26b7-40c6-985f-2a478be05196",
+      "stops": [
+        {
+          "workingSet": [],
+          "entries": []
+        }
+      ]
+    }
+  ],
+  "linearHistoryIndex": 1,
+  "initialFileContents": [],
+  "recentSnapshot": {
+    "workingSet": [],
+    "entries": []
+  }
+}

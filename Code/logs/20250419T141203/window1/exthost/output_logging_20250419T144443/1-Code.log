@@ -1,0 +1,21 @@
+[Running] cd "/home/zokz/coding/c++/pattern/" && g++ main.cpp -o main && "/home/zokz/coding/c++/pattern/"main
+main.cpp:15:5: ошибка: ISO C++ запрещает декларации «katana» без типа [-fpermissive]
+   15 |     katana() {
+      |     ^~~~~~
+main.cpp: In member function «int klaymore::katana()»:
+main.cpp:18:5: предупреждение: в функции, которая должна возвращать значение, отсутствует оператор return [-Wreturn-type]
+   18 |     }
+      |     ^
+main.cpp: In member function «virtual sword* JapanFactory::CreateSword()»:
+main.cpp:43:20: ошибка: «Katana» не является именем типа; имелось в виду «katana»?
+   43 |         return new Katana;
+      |                    ^~~~~~
+      |                    katana
+main.cpp: In member function «virtual sword* ScandinavFactory::CreateSword()»:
+main.cpp:50:20: ошибка: «Klaymore» не является именем типа; имелось в виду «klaymore»?
+   50 |         return new Klaymore;
+      |                    ^~~~~~~~
+      |                    klaymore
+
+[Done] exited with code=1 in 0.968 seconds
+

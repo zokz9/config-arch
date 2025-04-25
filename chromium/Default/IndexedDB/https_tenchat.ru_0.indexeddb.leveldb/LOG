@@ -1,0 +1,6 @@
+2025/03/10-19:03:59.772 1392 Creating DB /home/zokz/.config/chromium/Default/IndexedDB/https_tenchat.ru_0.indexeddb.leveldb since it was missing.
+2025/03/10-19:03:59.808 1392 Reusing MANIFEST /home/zokz/.config/chromium/Default/IndexedDB/https_tenchat.ru_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/10-19:09:28.069 1393 Level-0 table #5: started
+2025/03/10-19:09:28.075 1393 Level-0 table #5: 1829 bytes OK
+2025/03/10-19:09:28.078 1393 Delete type=0 #3
+2025/03/10-19:09:28.079 1393 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

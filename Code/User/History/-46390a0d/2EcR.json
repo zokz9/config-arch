@@ -1,0 +1,6 @@
+{
+    "github.copilot.advanced": {
+        "authProvider": "github-enterprise"
+    },
+    "workbench.sideBar.location": "right"
+}

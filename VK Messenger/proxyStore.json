@@ -1,0 +1,11 @@
+{
+	"settings": {
+		"isActive": false,
+		"isManualProxyActive": false,
+		"isPasswordRequired": false,
+		"host": "",
+		"port": "",
+		"username": "",
+		"password": ""
+	}
+}

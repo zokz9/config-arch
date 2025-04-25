@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "requesterUsername": "",
+  "responderUsername": "",
+  "initialLocation": "panel",
+  "requests": [
+    {
+      "requestId": "request_540a0dce-26b7-40c6-985f-2a478be05196",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 39
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 40
+            },
+            "text": "как мне понять как изменять треугольник",
+            "kind": "text"
+          }
+        ],
+        "text": "как мне понять как изменять треугольник"
+      },
+      "variableData": {
+        "variables": [
+          {
+            "id": "vscode.implicit.viewport",
+            "name": "file:main.cpp",
+            "value": {
+              "uri": {
+                "$mid": 1,
+                "fsPath": "/home/zokz/coding/c++/opengl/main.cpp",
+                "external": "file:///home/zokz/coding/c%2B%2B/opengl/main.cpp",
+                "path": "/home/zokz/coding/c++/opengl/main.cpp",
+                "scheme": "file"
+              },
+              "range": {
+                "startLineNumber": 59,
+                "startColumn": 1,
+                "endLineNumber": 88,
+                "endColumn": 82
+              }
+            },
+            "isFile": true,
+            "modelDescription": "User's current visible code"
+          }
+        ]
+      },
+      "response": [
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Signing in to GitHub.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Getting Copilot ready.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Copilot is almost ready.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        {
+          "kind": "warning",
+          "content": {
+            "value": "Copilot took too long to get ready. Please try again.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        }
+      ],
+      "responseId": "response_2d311d61-9306-4cdd-9eb4-23c6a81bd0a3",
+      "result": {},
+      "isCanceled": false,
+      "agent": {
+        "id": "setup.chat",
+        "name": "GitHub Copilot",
+        "isDefault": true,
+        "isCore": true,
+        "isToolsAgent": false,
+        "slashCommands": [],
+        "disambiguation": [],
+        "locations": [
+          "panel"
+        ],
+        "metadata": {
+          "welcomeMessageContent": {
+            "title": "Ask Copilot",
+            "message": {
+              "value": "Copilot is powered by AI, so mistakes are possible. Review output carefully before use.",
+              "isTrusted": false,
+              "supportThemeIcons": false,
+              "supportHtml": false
+            },
+            "icon": {
+              "id": "copilot-large"
+            }
+          },
+          "helpTextPrefix": {
+            "value": "You need to set up Copilot to use Chat.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        "description": "Ask Copilot",
+        "extensionId": {
+          "value": "nullExtensionDescription",
+          "_lower": "nullextensiondescription"
+        },
+        "extensionDisplayName": "Null Extension Description",
+        "extensionPublisherId": "vscode"
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1744456653308
+    }
+  ],
+  "sessionId": "bd1ba9c3-149f-4037-8881-8c0854420e20",
+  "creationDate": 1744456441025,
+  "isImported": false,
+  "lastMessageDate": 1744456653309
+}

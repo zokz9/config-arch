@@ -1,0 +1,140 @@
+00:00:00.003262 main     VirtualBox XPCOM Server 7.1.8 r168469 linux.amd64 (Apr 15 2025 18:05:05) release log
+00:00:00.003266 main     Log opened 2025-04-25T10:57:34.195739000Z
+00:00:00.003266 main     Build Type: release
+00:00:00.003270 main     OS Product: Linux
+00:00:00.003271 main     OS Release: 6.14.3-arch1-1
+00:00:00.003271 main     OS Version: #1 SMP PREEMPT_DYNAMIC Sun, 20 Apr 2025 12:38:52 +0000
+00:00:00.003323 main     DMI Product Name: VivoBook_ASUS Laptop E410MA_R429MA
+00:00:00.003338 main     DMI Product Version: 1.0       
+00:00:00.003345 main     Firmware type: UEFI
+00:00:00.003966 main     Secure Boot: Disabled
+00:00:00.004021 main     Host RAM: 3733MB (3.6GB) total, 3289MB (3.2GB) available
+00:00:00.004024 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.004024 main     Process ID: 1282
+00:00:00.004025 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.006522 main     IPC socket path: /tmp/.vbox-zokz-ipc/ipcd
+00:00:00.042866 DCon01   VirtualBox: object creation starts
+00:00:00.044310 DCon01   Home directory: '/home/zokz/.config/VirtualBox'
+00:00:00.045732 DCon01   Loading settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.051825 DCon01   Successfully initialised host USB using sysfs
+00:00:00.065913 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.067755 DCon01   HostDnsMonitor: initializing
+00:00:00.068086 DCon01   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.068093 DCon01   NAT: resolv.conf: FIXME: ignoring IPv6 zone %wlo1
+00:00:00.068095 DCon01   NAT: resolv.conf: nameserver fe80::1
+00:00:00.068108 DCon01   HostDnsMonitor: updating information
+00:00:00.068128 DCon01   HostDnsMonitor: old information
+00:00:00.068132 DCon01     no server entries
+00:00:00.068134 DCon01     no domain set
+00:00:00.068136 DCon01     no search string entries
+00:00:00.068138 DCon01   HostDnsMonitor: new information
+00:00:00.068140 DCon01     server 1: 192.168.0.1
+00:00:00.068142 DCon01     server 2: fe80::1%wlo1
+00:00:00.068144 DCon01     no domain set
+00:00:00.068146 DCon01     no search string entries
+00:00:00.072457 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.076139 DCon01   Platform architecture set to 'x86'
+00:00:00.078486 DCon01   Loading settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:00.078965 DCon01   Platform architecture set to 'x86'
+00:00:00.080014 DCon01   VirtualBox: object created
+00:00:01.554208 DCon01   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:01.749491 DCon01   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:01.795362 DCon01   Saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.806130 DCon01   Finished saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml"
+00:00:08.662048 DCon01   Launched VM: 1342805056 pid: 1319 (0x527) frontend: GUI/Qt name: Win
+00:00:08.740406 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:08.779740 DCon06   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:09.278999 DCon03   Platform architecture set to 'x86'
+00:00:09.353693 DCon04   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:09.400767 DCon04   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:10.317410 DCon09   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:10.421589 DCon02   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:10.483454 DCon02   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:10.686096 DCon05   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:10.753207 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:10.929588 DCon01   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:00:10.986118 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:10.993031 DCon01   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:10.997247 DCon01   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:11.001499 DCon01   HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:11.001838 DCon01   HostDnsMonitorProxy::GetNameServers:
+00:00:11.001847 DCon01     name server 1: 192.168.0.1
+00:00:11.001850 DCon01     name server 2: fe80::1%wlo1
+00:00:11.002083 DCon01   HostDnsMonitorProxy::GetSearchStrings:
+00:00:11.002088 DCon01     no search string entries
+00:00:11.060688 DCon07   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:11.130799 DCon11   Saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:11.141083 DCon11   Finished saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml"
+00:00:11.168792 DCon03   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:11.187227 DCon03   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:11.251390 DCon04   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:11.296944 DCon10   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:18.128130 DCon15   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:18.153006 DCon15   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:18.228829 DCon15   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:18.278229 DCon15   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:18.415270 DCon01   Saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:18.433920 DCon01   Finished saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml"
+00:00:20.805198 DCon05   Saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:20.823813 DCon05   Finished saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml"
+00:00:20.826510 DCon03   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:20.839444 DCon03   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:21.352656 DCon10   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:21.399322 DCon01   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:27.421839 DCon03   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:27.435136 DCon03   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:27.543126 DCon04   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:27.590854 DCon10   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:31.850997 DCon10   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:31.881337 DCon10   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:32.127609 DCon05   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:32.220610 DCon01   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:33.034861 DCon19   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:33.047212 DCon19   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:33.185732 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:33.256212 DCon14   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:35.207610 DCon19   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:35.222361 DCon19   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:35.335706 DCon10   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:35.449321 DCon19   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:37.327826 DCon15   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:37.349700 DCon15   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:38.075906 DCon02   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:38.268460 DCon19   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:39.343268 DCon01   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:39.356324 DCon01   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:39.644042 DCon16   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:39.807208 DCon10   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:40.937071 DCon20   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:40.948651 DCon20   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:41.061068 DCon14   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:41.128570 DCon04   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:41.920353 DCon14   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:41.935629 DCon14   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:42.034826 DCon17   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:42.289691 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:42.711823 DCon01   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:42.727958 DCon01   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:42.811987 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:42.884457 DCon10   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:43.305901 DCon04   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:43.317760 DCon04   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:43.414390 DCon02   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:43.467276 DCon02   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:43.992961 DCon18   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:44.006644 DCon18   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:44.071108 DCon23   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:44.188735 DCon04   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:45.801803 DCon03   Saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox" with version "1.19-linux"
+00:00:45.822806 DCon03   Finished saving settings file "/home/zokz/VirtualBox VMs/Win/Win.vbox"
+00:00:45.940899 DCon17   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:46.035740 DCon17   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:00:55.073489 DCon19   Saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:55.094175 DCon19   Finished saving settings file "/home/zokz/.config/VirtualBox/VirtualBox.xml"
+00:06:34.553970 Watcher  Reaper: Pid 1319 (0x527) exited normally: 1 (0x1)
+00:06:39.082500 main     VirtualBox: object deletion starts
+00:06:39.083197 main     ERROR [COM]: aRC=VBOX_E_INVALID_OBJECT_STATE (0x80bb0007) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/zokz/VirtualBox VMs/Win/Win.vdi' is locked for writing by another task}, preserve=false aResultDetail=0
+00:06:39.087605 main     HostDnsMonitor: shutting down ...
+00:06:39.088069 main     HostDnsMonitor: shut down
+00:06:39.103645 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:06:39.104147 main     VirtualBox: object deleted

@@ -1,0 +1,47 @@
+{
+   "checksum": "845b7588774e624e0bf37c0c41811722",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13385757920665379",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13385759421761755",
+            "date_last_used": "0",
+            "guid": "6569ba53-9210-491e-9303-a52cfde64695",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DeepSeek - Into the Unknown",
+            "type": "url",
+            "url": "https://chat.deepseek.com/a/chat/s/2fdfca16-b407-4e3a-8efe-59c6c458df03"
+         } ],
+         "date_added": "13385757920665382",
+         "date_last_used": "0",
+         "date_modified": "13385759421761755",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13385757920665384",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

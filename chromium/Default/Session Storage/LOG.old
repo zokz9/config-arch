@@ -1,0 +1,4 @@
+2025/04/23-16:30:42.039 4 Reusing MANIFEST /home/zokz/.config/chromium/Default/Session Storage/MANIFEST-000001
+2025/04/23-16:30:42.042 4 Recovering log #100
+2025/04/23-16:30:42.043 4 (ignoring error) /home/zokz/.config/chromium/Default/Session Storage/000100.log: dropping 268 bytes; Corruption: missing start of fragmented record(2)
+2025/04/23-16:30:42.044 4 Reusing old log /home/zokz/.config/chromium/Default/Session Storage/000100.log 

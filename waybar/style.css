@@ -1,0 +1,76 @@
+* {
+    font-family: "JetBrains Mono Nerd Font", monospace;
+    font-size: 13px;
+    border: 2;
+    border-radius: 2;
+    min-height: 0;
+}
+
+window#waybar {
+    background: rgba(0, 0, 0, 0);
+}
+
+.modules-left, .modules-center, .modules-right {
+    background: rgba(10,15,20,0.6);
+    padding: 0 12px;
+    margin: 4px 0;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#taskbar-wrapper {
+    background: rgba(10, 15, 20, 0.6);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 0 12px;
+    margin-left: 8px;  /* Отступ от modules-left */
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#workspaces button {
+    padding: 0 4px;
+    color: #6c7086;
+    background: transparent;
+}
+
+#workspaces button.active {
+    color: #ffffff;
+    background: rgba(137, 180, 250, 0.1);
+}
+
+#clock {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#pulseaudio {
+    color: #ffffff;
+}
+
+#network {
+    color: #ffffff;
+}
+
+#cpu {
+    color: #ffffff;
+}
+
+#memory {
+    color: #ffffff;
+}
+
+#battery {
+    color: #ffffff;
+}
+
+#custom-kernel {
+    color: #ffffff;
+}
+
+
+#custom-launcher {
+    color: #ffffff;
+    font-size: 20px;
+    padding-right: 10px;
+}

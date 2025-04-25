@@ -1,0 +1,74 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "5c93666b606027b318d0895bfe8b502d8238f60543a7cd0c1fd0bc087e82171c",
+    "telemetry.devDeviceId": "a44f3ad0-eef3-422c-b73c-47d54a2d895c",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/zokz/coding/c%2B%2B/opengl"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/zokz/coding/c%2B%2B/opengl": "__default__profile__",
+            "file:///home/zokz/coding/c%2B%2B/pattern": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/zokz/coding/c%2B%2B/opengl",
+            "backupPath": "/home/zokz/.config/Code/Backups/d34e13dcb8b6578e65dc8708fd8c4a5b",
+            "uiState": {
+                "mode": 1,
+                "x": 25,
+                "y": 68,
+                "width": 926,
+                "height": 987
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                338,
+                []
+            ]
+        }
+    }
+}

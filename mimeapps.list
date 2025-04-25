@@ -1,0 +1,8 @@
+[Default Applications]
+application/x-ms-dos-executable;application/x-wine-extension-msp;application/x-msi;application/x-msdos-program;text/win-bat;=PortProton.desktop
+application/x-msdownload=ru.linux_gaming.PortProton.desktop
+x-scheme-handler/terminal=org.kde.konsole.desktop
+
+[Added Associations]
+application/vnd.microsoft.portable-executable=ru.linux_gaming.PortProton.desktop;
+application/x-msdownload=ru.linux_gaming.PortProton.desktop;
