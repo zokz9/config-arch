@@ -64,10 +64,14 @@ window#waybar {
     color: #ffffff;
 }
 
+#custom-kernelicon {
+    color: #ffffff;
+    font-size: 17px;
+}
+
 #custom-kernel {
     color: #ffffff;
 }
-
 
 #custom-launcher {
     color: #ffffff;

@@ -1,0 +1,2 @@
+grim ~/Pictures/screenshot.png
+notify-send "Скриншот экрана сделан!" "Pictures/screenshot.png" -t 1000

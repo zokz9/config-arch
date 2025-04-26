@@ -4,19 +4,19 @@
     "telemetry.devDeviceId": "a44f3ad0-eef3-422c-b73c-47d54a2d895c",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1744455478003"
+                "folderUri": "file:///home/zokz/coding/c%2B%2B/opengl"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "windowControlHeight": 35,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1744455478003": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/zokz/coding/c%2B%2B/opengl": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "theme": "vs-dark",
     "themeBackground": "#1f1f1f",
@@ -42,7 +42,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 170,
             "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -50,13 +50,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/zokz/.config/Code - OSS/Backups/1744455478003",
+            "folder": "file:///home/zokz/coding/c%2B%2B/opengl",
+            "backupPath": "/home/zokz/.config/Code - OSS/Backups/d34e13dcb8b6578e65dc8708fd8c4a5b",
             "uiState": {
                 "mode": 1,
-                "x": 512,
-                "y": 94,
-                "width": 1200,
-                "height": 800
+                "x": 25,
+                "y": 68,
+                "width": 1870,
+                "height": 987
             }
         },
         "openedWindows": []

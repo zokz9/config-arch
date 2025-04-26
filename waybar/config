@@ -10,7 +10,7 @@
     "margin-right": 6,
     "modules-left": ["custom/launcher","hyprland/workspaces","wlr/taskbar"],
     "modules-center": ["clock"],
-    "modules-right": ["custom/kernel", "pulseaudio", "network", "cpu", "memory", "battery"],
+    "modules-right": ["custom/kernelicon","custom/kernel", "pulseaudio", "network", "cpu", "memory", "battery"],
 	 
     "custom/taskbar-spacer": {
         "format": "    ",  // Невидимый отступ (4 пробела)
@@ -37,8 +37,11 @@
         "format-icons": {
             "1": "1", "2": "2", "3": "3", "4": "4", "5": "5"
         },
-        "on-click": "activate"
-    },
+        "on-click": "activate",
+        "persistent-workspaces": {
+            "*": 5  // Фиксированное количество рабочих столов (1-6)
+      }
+     },
 
     "custom/launcher": {
         "format": "󰣇",  // Иконка Hyprland
@@ -81,8 +84,16 @@
     },
 
     "custom/kernel": {
-        "format": "  {} ",
+        "format": "{} ",
         "exec": "uname -r | sed 's/-.*//'",  // или "uname -r | sed 's/-.*//'"
+        "interval": "once",
+        "tooltip": false
+    },
+    
+    
+    
+    "custom/kernelicon": {
+        "format": " ",
         "interval": "once",
         "tooltip": false
     },

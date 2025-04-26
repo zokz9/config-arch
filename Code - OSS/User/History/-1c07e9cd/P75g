@@ -1,0 +1,24 @@
+#!/bin/bash
+LOG_FILE="compile.log"
+
+echo "Компиляция проекта..."
+g++ main.cpp -o main -lglfw -lGLEW -lGL -lGLU > "$LOG_FILE" 2>&1
+COMPILE_STATUS=$?
+
+echo "Проверка ошибок компиляции..."
+sleep 1
+if [ $COMPILE_STATUS -ne 0 ]; then
+    echo -e "\n❌ Ошибка компиляции! Логи:"
+    cat "$LOG_FILE"  # Выводим логи только один раз
+    exit 1
+else
+    echo "Компиляция успешна! Запуск проекта..."
+    export XDG_SESSION_TYPE=x11
+    sleep 1
+    ./main 2>&1 | tee -a "$LOG_FILE"
+    
+    if [ ${PIPESTATUS[0]} -ne 0 ]; then
+        echo -e "\n❌ Ошибка при выполнении программы!"
+        exit 1
+    fi
+fi 

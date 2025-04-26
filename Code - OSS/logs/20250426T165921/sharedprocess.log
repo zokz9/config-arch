@@ -1,0 +1,7 @@
+2025-04-26 17:00:01.933 [info] Getting Manifest... llvm-vs-code-extensions.vscode-clangd
+2025-04-26 17:00:03.325 [info] Installing extension: llvm-vs-code-extensions.vscode-clangd {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/zokz/.vscode-oss/extensions/extensions.json","path":"/home/zokz/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.3","date":"2025-04-16T19:59:52.773Z"}}
+2025-04-26 17:00:06.075 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-04-26 17:00:06.075 [info] Extension signature verification is not done: llvm-vs-code-extensions.vscode-clangd
+2025-04-26 17:00:06.182 [info] Extracted extension to file:///home/zokz/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.33-universal: llvm-vs-code-extensions.vscode-clangd
+2025-04-26 17:00:06.195 [info] Renamed to /home/zokz/.vscode-oss/extensions/llvm-vs-code-extensions.vscode-clangd-0.1.33-universal
+2025-04-26 17:00:06.235 [info] Extension installed successfully: llvm-vs-code-extensions.vscode-clangd vscode-userdata:/home/zokz/.vscode-oss/extensions/extensions.json
