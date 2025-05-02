@@ -1,0 +1,57 @@
+2025-05-01 21:45:52.946 [info] Extension host with pid 1310 started
+2025-05-01 21:45:52.946 [info] Skipping acquiring lock for /home/zokz/.config/Code - OSS/User/workspaceStorage/9690be6b8ea95244f988613ae599c10b.
+2025-05-01 21:45:53.414 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-01 21:45:53.460 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: false, activationEvent: 'onLanguage:cpp'
+2025-05-01 21:45:54.341 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-01 21:45:54.420 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-01 21:45:54.570 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-01 21:45:54.801 [info] Eager extensions activated
+2025-05-01 21:45:55.073 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-01 21:45:55.084 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-01 21:45:56.278 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-01 21:45:56.313 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-01 21:45:56.487 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-01 21:45:58.622 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.622 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.624 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.624 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.625 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.625 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.626 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.626 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.626 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.626 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.630 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.630 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.631 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.631 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.632 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.632 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.633 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.633 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.634 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.634 [error] {"a":true,"b":null}
+2025-05-01 21:45:58.637 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:45:58.638 [error] {"a":true,"b":null}
+2025-05-01 21:46:03.347 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10007
+2025-05-01 21:46:08.084 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10007
+2025-05-01 21:49:26.305 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.308 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.311 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.311 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.315 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.315 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.316 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.316 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.316 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.316 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.320 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.320 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.517 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.517 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.517 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.517 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.720 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.720 [error] {"a":true,"b":null}
+2025-05-01 21:49:26.720 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 21:49:26.720 [error] {"a":true,"b":null}

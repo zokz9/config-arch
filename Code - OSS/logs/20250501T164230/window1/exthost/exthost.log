@@ -1,0 +1,37 @@
+2025-05-01 16:42:34.667 [info] Extension host with pid 1962 started
+2025-05-01 16:42:34.667 [info] Skipping acquiring lock for /home/zokz/.config/Code - OSS/User/workspaceStorage/9690be6b8ea95244f988613ae599c10b.
+2025-05-01 16:42:35.291 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-01 16:42:35.386 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: false, activationEvent: 'onLanguage:cpp'
+2025-05-01 16:42:36.386 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-01 16:42:36.535 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-01 16:42:36.689 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-01 16:42:36.965 [info] Eager extensions activated
+2025-05-01 16:42:37.094 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-01 16:42:37.101 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-01 16:42:38.298 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-01 16:42:38.319 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-01 16:42:38.502 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-01 16:42:39.827 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:39.827 [error] {"a":true,"b":null}
+2025-05-01 16:42:39.907 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:39.907 [error] {"a":true,"b":null}
+2025-05-01 16:42:39.919 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:39.919 [error] {"a":true,"b":null}
+2025-05-01 16:42:39.925 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:39.925 [error] {"a":true,"b":null}
+2025-05-01 16:42:39.934 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:39.934 [error] {"a":true,"b":null}
+2025-05-01 16:42:39.938 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:39.938 [error] {"a":true,"b":null}
+2025-05-01 16:42:39.980 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:39.980 [error] {"a":true,"b":null}
+2025-05-01 16:42:39.997 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:39.997 [error] {"a":true,"b":null}
+2025-05-01 16:42:40.000 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:40.000 [error] {"a":true,"b":null}
+2025-05-01 16:42:40.010 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:40.010 [error] {"a":true,"b":null}
+2025-05-01 16:42:40.013 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-05-01 16:42:40.016 [error] {"a":true,"b":null}
+2025-05-01 16:42:46.588 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10007
+2025-05-01 16:42:50.794 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10007

@@ -1,0 +1,2 @@
+2025-05-01 21:03:05.334 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/zokz/.cache/mozilla/firefox/3u5c2720.default-release/cache2/trash1692802756' failed: No such file or directory (EUNKNOWN) (path: /home/zokz)
+2025-05-01 21:03:05.334 [error] [File Watcher (universal)] inotify_add_watch on '/home/zokz/.cache/mozilla/firefox/3u5c2720.default-release/cache2/trash1692802756' failed: No such file or directory

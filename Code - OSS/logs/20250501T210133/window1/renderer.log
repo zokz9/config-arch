@@ -1,0 +1,12 @@
+2025-05-01 21:01:35.788 [info] Started local extension host with pid 1135.
+2025-05-01 21:01:42.296 [info] [perf] Render performance baseline is 109ms
+2025-05-01 21:01:53.892 [info] Extension host (LocalProcess pid: 1135) is unresponsive.
+2025-05-01 21:01:54.794 [info] Extension host (LocalProcess pid: 1135) is responsive.
+2025-05-01 21:01:54.925 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-01 21:01:55.888 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-01 21:02:00.234 [info] Extension host (LocalProcess pid: 1135) is unresponsive.
+2025-05-01 21:02:00.798 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-01 21:02:01.062 [info] Extension host (LocalProcess pid: 1135) is responsive.
+2025-05-01 21:02:01.065 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-01 21:03:05.323 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/zokz/.cache/mozilla/firefox/3u5c2720.default-release/cache2/trash1692802756' failed: No such file or directory (EUNKNOWN) (path: /home/zokz)
+2025-05-01 21:03:05.332 [error] [File Watcher (universal)] inotify_add_watch on '/home/zokz/.cache/mozilla/firefox/3u5c2720.default-release/cache2/trash1692802756' failed: No such file or directory

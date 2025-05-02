@@ -1,0 +1,105 @@
+I[20:41:40.470] clangd version 19.1.7
+I[20:41:40.470] Features: linux
+I[20:41:40.470] PID: 1154
+I[20:41:40.470] Working directory: /home/zokz/coding/c++/opengl
+I[20:41:40.470] argv[0]: /usr/bin/clangd
+I[20:41:40.470] Starting LSP over stdin/stdout
+I[20:41:40.474] <-- initialize(0)
+I[20:41:40.487] --> reply:initialize(0) 12 ms
+I[20:41:40.493] <-- initialized
+I[20:41:40.518] <-- textDocument/didOpen
+I[20:41:40.523] --> textDocument/publishDiagnostics
+I[20:41:40.523] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[20:41:40.524] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 1 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[20:41:40.549] --> textDocument/clangd.fileStatus
+I[20:41:41.013] <-- textDocument/documentLink(1)
+I[20:41:41.014] <-- textDocument/inlayHint(2)
+I[20:41:41.353] <-- textDocument/foldingRange(3)
+I[20:41:41.353] <-- textDocument/codeAction(4)
+I[20:41:41.358] --> reply:textDocument/foldingRange(3) 4 ms
+I[20:41:41.393] <-- textDocument/documentSymbol(5)
+I[20:41:41.685] <-- textDocument/semanticTokens/full(6)
+I[20:41:41.905] <-- $/cancelRequest
+I[20:41:41.905] <-- $/cancelRequest
+I[20:41:41.905] <-- textDocument/codeAction(7)
+I[20:41:42.170] <-- textDocument/documentLink(8)
+I[20:41:43.162] <-- $/cancelRequest
+I[20:41:43.163] <-- textDocument/documentSymbol(9)
+I[20:41:43.171] <-- $/cancelRequest
+I[20:41:43.172] <-- textDocument/codeAction(10)
+I[20:41:43.172] <-- $/cancelRequest
+I[20:41:43.172] <-- textDocument/codeAction(11)
+I[20:41:43.246] <-- $/cancelRequest
+I[20:41:43.246] <-- textDocument/documentLink(12)
+I[20:41:43.593] <-- $/setTrace
+I[20:41:43.593] unhandled notification $/setTrace
+I[20:41:44.013] <-- $/cancelRequest
+I[20:41:44.019] <-- $/cancelRequest
+I[20:41:44.020] <-- textDocument/codeAction(13)
+I[20:41:44.023] <-- $/cancelRequest
+I[20:41:44.063] <-- textDocument/documentLink(14)
+I[20:41:44.139] <-- $/setTrace
+I[20:41:44.139] unhandled notification $/setTrace
+I[20:41:44.312] <-- textDocument/documentSymbol(15)
+I[20:41:44.328] <-- $/cancelRequest
+I[20:41:44.335] <-- textDocument/documentLink(16)
+I[20:41:44.361] <-- $/cancelRequest
+I[20:41:44.366] <-- textDocument/inlayHint(17)
+I[20:41:44.395] <-- textDocument/documentSymbol(18)
+I[20:41:44.472] <-- textDocument/foldingRange(19)
+I[20:41:44.472] --> reply:textDocument/foldingRange(19) 0 ms
+I[20:41:44.857] Built preamble of size 12567532 for file /home/zokz/coding/c++/opengl/main.cpp version 1 in 4.31 seconds
+I[20:41:44.858] --> workspace/semanticTokens/refresh(0)
+I[20:41:44.858] Indexing c++17 standard library in the context of /home/zokz/coding/c++/opengl/main.cpp
+I[20:41:44.863] <-- reply(0)
+I[20:41:45.066] --> textDocument/publishDiagnostics
+I[20:41:45.067] --> textDocument/inactiveRegions
+I[20:41:45.068] --> reply:textDocument/documentLink(1) 4054 ms, error: Task was cancelled.
+I[20:41:45.068] --> reply:textDocument/inlayHint(2) 4054 ms, error: Task was cancelled.
+I[20:41:45.068] --> reply:textDocument/codeAction(4) 3714 ms, error: Task was cancelled.
+I[20:41:45.068] --> reply:textDocument/documentSymbol(5) 3674 ms, error: Task was cancelled.
+I[20:41:45.069] --> reply:textDocument/semanticTokens/full(6) 3384 ms
+I[20:41:45.070] --> reply:textDocument/codeAction(7) 3164 ms, error: Task was cancelled.
+I[20:41:45.070] --> reply:textDocument/documentLink(8) 2900 ms, error: Task was cancelled.
+I[20:41:45.070] --> reply:textDocument/documentSymbol(9) 1907 ms, error: Task was cancelled.
+I[20:41:45.070] --> reply:textDocument/codeAction(10) 1898 ms, error: Task was cancelled.
+I[20:41:45.070] --> reply:textDocument/codeAction(11) 1898 ms, error: Task was cancelled.
+I[20:41:45.070] --> reply:textDocument/documentLink(12) 1823 ms, error: Task was cancelled.
+I[20:41:45.070] --> reply:textDocument/codeAction(13) 1050 ms
+I[20:41:45.070] --> reply:textDocument/documentLink(14) 1007 ms, error: Task was cancelled.
+I[20:41:45.072] --> reply:textDocument/documentSymbol(15) 759 ms
+I[20:41:45.073] --> reply:textDocument/documentLink(16) 738 ms
+[Error - 8:41:45 PM] Request textDocument/documentLink failed.
+[object Object]
+I[20:41:45.080] --> reply:textDocument/inlayHint(17) 713 ms
+I[20:41:45.084] --> reply:textDocument/documentSymbol(18) 689 ms
+I[20:41:45.084] --> textDocument/clangd.fileStatus
+[Error - 8:41:45 PM] Request textDocument/inlayHint failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/documentSymbol failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/documentLink failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/documentSymbol failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/documentLink failed.
+[object Object]
+[Error - 8:41:45 PM] Request textDocument/documentLink failed.
+[object Object]
+I[20:41:45.396] <-- textDocument/codeAction(20)
+I[20:41:45.398] --> reply:textDocument/codeAction(20) 2 ms
+I[20:41:45.398] --> textDocument/clangd.fileStatus
+I[20:41:47.187] <-- textDocument/semanticTokens/full/delta(21)
+I[20:41:47.188] --> reply:textDocument/semanticTokens/full/delta(21) 0 ms
+I[20:41:47.189] --> textDocument/clangd.fileStatus
+I[20:41:50.845] Indexed c++17 standard library (incomplete due to errors): 14365 symbols, 10019 filtered

@@ -1,0 +1,4 @@
+2025-05-01 18:06:14.354 [info] Revived process, old id 9690be6b8ea95244f988613ae599c10b-1 -> new id 1
+2025-05-01 18:06:14.998 [info] Expanding terminal instance, old id 9690be6b8ea95244f988613ae599c10b-1 -> new id 1
+2025-05-01 18:06:15.884 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2025-05-01 18:06:15.884 [info] Persistent process reconnection "1"
