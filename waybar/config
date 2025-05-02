@@ -10,27 +10,15 @@
     "margin-right": 6,
     "modules-left": ["custom/launcher","hyprland/workspaces","wlr/taskbar"],
     "modules-center": ["clock"],
-    "modules-right": ["custom/kernelicon","custom/kernel", "pulseaudio", "network", "cpu", "memory", "battery"],
+    "modules-right": ["custom/kernelicon","custom/kernel", "pulseaudio", "backlight", "network", "cpu", "memory", "battery"],
 	 
-    "custom/taskbar-spacer": {
-        "format": "    ",  // Невидимый отступ (4 пробела)
-        "tooltip": false
-    },
-
-    "custom/taskbar-wrapper": {
-        "format": "{}",
-        "exec": "echo",  // Пустая команда
-        "return-type": "json",
-        "on-click": "",
-        "wlr/taskbar": {
-            "format": "{icon}",
-            "icon-size": 16,
-            "icon-theme": "Papirus-Dark",
-            "on-click": "minimize",
-            "on-click-right": "close",
-            "ignore-list": ["kitty", "waybar", "firefox"]
-     }
-	  },
+    "backlight": {
+    	"device": "intel_backlight",  // Замените на свой (см. /sys/class/backlight/)
+    	"format": " {icon} {percent}% ",
+    	"format-icons": ["🌕", "🌖", "🌗", "🌘", "🌑"],
+    	// "on-scroll-up": "brightnessctl set +1%",
+    	// "on-scroll-down": "brightnessctl set 1%-"
+        },
 
     "hyprland/workspaces": {
         "format": "{icon}",

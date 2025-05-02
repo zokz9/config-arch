@@ -18,6 +18,11 @@ window#waybar {
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+#backlight {
+    color: #ffffff;
+    background: transparent;
+}
+
 #taskbar-wrapper {
     background: rgba(10, 15, 20, 0.6);
     border-radius: 16px;

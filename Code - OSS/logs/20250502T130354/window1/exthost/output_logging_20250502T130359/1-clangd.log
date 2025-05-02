@@ -1,0 +1,262 @@
+I[13:04:00.312] clangd version 19.1.7
+I[13:04:00.312] Features: linux
+I[13:04:00.312] PID: 3368
+I[13:04:00.312] Working directory: /home/zokz/coding/c++/opengl
+I[13:04:00.312] argv[0]: /usr/bin/clangd
+I[13:04:00.314] Starting LSP over stdin/stdout
+I[13:04:00.320] <-- initialize(0)
+I[13:04:00.328] --> reply:initialize(0) 8 ms
+I[13:04:00.335] <-- initialized
+I[13:04:00.365] <-- textDocument/didOpen
+I[13:04:00.372] --> textDocument/publishDiagnostics
+I[13:04:00.373] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:00.373] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 1 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:00.401] --> textDocument/clangd.fileStatus
+I[13:04:01.161] <-- textDocument/codeAction(1)
+I[13:04:01.196] <-- textDocument/documentLink(2)
+I[13:04:01.200] <-- textDocument/inlayHint(3)
+I[13:04:01.658] <-- textDocument/foldingRange(4)
+I[13:04:01.659] <-- $/setTrace
+I[13:04:01.659] unhandled notification $/setTrace
+I[13:04:01.659] <-- textDocument/documentSymbol(5)
+I[13:04:01.662] --> reply:textDocument/foldingRange(4) 3 ms
+I[13:04:01.816] <-- textDocument/semanticTokens/full(6)
+I[13:04:02.338] <-- $/cancelRequest
+I[13:04:02.338] <-- $/cancelRequest
+I[13:04:02.338] <-- textDocument/codeAction(7)
+I[13:04:02.403] <-- textDocument/documentLink(8)
+I[13:04:02.832] <-- $/cancelRequest
+I[13:04:03.049] <-- $/cancelRequest
+I[13:04:03.049] <-- textDocument/documentSymbol(9)
+I[13:04:03.049] <-- textDocument/documentLink(10)
+I[13:04:03.524] <-- $/cancelRequest
+I[13:04:03.525] <-- textDocument/inlayHint(11)
+I[13:04:03.543] <-- $/cancelRequest
+I[13:04:03.549] <-- textDocument/codeAction(12)
+I[13:04:03.549] <-- $/cancelRequest
+I[13:04:03.549] <-- textDocument/codeAction(13)
+I[13:04:03.680] <-- $/cancelRequest
+I[13:04:03.683] <-- $/cancelRequest
+I[13:04:03.683] <-- textDocument/codeAction(14)
+I[13:04:03.683] <-- $/cancelRequest
+I[13:04:03.703] <-- textDocument/documentLink(15)
+I[13:04:03.985] <-- $/setTrace
+I[13:04:03.985] unhandled notification $/setTrace
+I[13:04:03.991] <-- textDocument/documentSymbol(16)
+I[13:04:04.327] <-- $/setTrace
+I[13:04:04.327] unhandled notification $/setTrace
+I[13:04:04.474] <-- textDocument/foldingRange(17)
+I[13:04:04.475] <-- $/cancelRequest
+I[13:04:04.475] --> reply:textDocument/foldingRange(17) 1 ms
+I[13:04:04.482] <-- textDocument/documentLink(18)
+I[13:04:04.554] <-- textDocument/inlayHint(19)
+I[13:04:04.566] <-- textDocument/documentSymbol(20)
+I[13:04:04.621] Built preamble of size 12721512 for file /home/zokz/coding/c++/opengl/main.cpp version 1 in 4.22 seconds
+I[13:04:04.622] --> workspace/semanticTokens/refresh(0)
+I[13:04:04.623] Indexing c++17 standard library in the context of /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:04.625] <-- reply(0)
+I[13:04:04.827] --> textDocument/publishDiagnostics
+I[13:04:04.827] --> textDocument/inactiveRegions
+I[13:04:04.828] --> reply:textDocument/codeAction(1) 3667 ms, error: Task was cancelled.
+I[13:04:04.829] --> reply:textDocument/documentLink(2) 3632 ms, error: Task was cancelled.
+I[13:04:04.829] --> reply:textDocument/inlayHint(3) 3628 ms, error: Task was cancelled.
+I[13:04:04.829] --> reply:textDocument/documentSymbol(5) 3169 ms, error: Task was cancelled.
+I[13:04:04.829] --> reply:textDocument/semanticTokens/full(6) 3012 ms
+I[13:04:04.829] --> reply:textDocument/codeAction(7) 2491 ms, error: Task was cancelled.
+I[13:04:04.830] --> reply:textDocument/documentLink(8) 2426 ms, error: Task was cancelled.
+I[13:04:04.830] --> reply:textDocument/documentSymbol(9) 1780 ms, error: Task was cancelled.
+I[13:04:04.830] --> reply:textDocument/documentLink(10) 1780 ms, error: Task was cancelled.
+[Error - 1:04:04 PM] Request textDocument/codeAction failed.
+[object Object]
+I[13:04:04.836] --> reply:textDocument/inlayHint(11) 1310 ms
+I[13:04:04.837] --> reply:textDocument/codeAction(12) 1287 ms, error: Task was cancelled.
+I[13:04:04.837] --> reply:textDocument/codeAction(13) 1287 ms, error: Task was cancelled.
+I[13:04:04.837] --> reply:textDocument/codeAction(14) 1154 ms
+I[13:04:04.837] --> reply:textDocument/documentLink(15) 1133 ms, error: Task was cancelled.
+I[13:04:04.838] --> reply:textDocument/documentSymbol(16) 847 ms
+I[13:04:04.839] --> reply:textDocument/documentLink(18) 356 ms
+I[13:04:04.840] --> reply:textDocument/inlayHint(19) 285 ms
+I[13:04:04.840] --> reply:textDocument/documentSymbol(20) 273 ms
+I[13:04:04.840] --> textDocument/clangd.fileStatus
+[Error - 1:04:04 PM] Request textDocument/documentLink failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/inlayHint failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/documentSymbol failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/documentLink failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/documentSymbol failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/documentLink failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 1:04:04 PM] Request textDocument/documentLink failed.
+[object Object]
+I[13:04:05.096] <-- textDocument/codeAction(21)
+I[13:04:05.098] --> reply:textDocument/codeAction(21) 1 ms
+I[13:04:05.098] --> textDocument/clangd.fileStatus
+I[13:04:06.235] <-- textDocument/documentHighlight(22)
+I[13:04:06.236] --> reply:textDocument/documentHighlight(22) 0 ms
+I[13:04:06.236] --> textDocument/clangd.fileStatus
+I[13:04:06.472] <-- textDocument/codeAction(23)
+I[13:04:06.472] --> reply:textDocument/codeAction(23) 0 ms
+I[13:04:06.472] --> textDocument/clangd.fileStatus
+I[13:04:07.020] <-- textDocument/semanticTokens/full/delta(24)
+I[13:04:07.022] --> reply:textDocument/semanticTokens/full/delta(24) 1 ms
+I[13:04:07.022] --> textDocument/clangd.fileStatus
+I[13:04:07.499] <-- textDocument/inlayHint(25)
+I[13:04:07.500] --> reply:textDocument/inlayHint(25) 1 ms
+I[13:04:07.502] --> textDocument/clangd.fileStatus
+I[13:04:09.180] <-- textDocument/inlayHint(26)
+I[13:04:09.181] --> reply:textDocument/inlayHint(26) 1 ms
+I[13:04:09.182] --> textDocument/clangd.fileStatus
+I[13:04:11.770] Indexed c++17 standard library (incomplete due to errors): 14348 symbols, 10015 filtered
+I[13:04:13.043] <-- textDocument/inlayHint(27)
+I[13:04:13.050] --> reply:textDocument/inlayHint(27) 6 ms
+I[13:04:13.052] --> textDocument/clangd.fileStatus
+I[13:04:13.423] <-- textDocument/didSave
+I[13:04:13.423] File version went from 1 to 1
+I[13:04:13.425] --> textDocument/clangd.fileStatus
+I[13:04:13.624] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:13.625] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 1 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:13.627] --> textDocument/clangd.fileStatus
+I[13:04:13.627] --> textDocument/clangd.fileStatus
+I[13:04:13.630] --> textDocument/clangd.fileStatus
+I[13:04:13.631] --> textDocument/clangd.fileStatus
+I[13:04:40.578] <-- textDocument/inlayHint(28)
+I[13:04:40.579] --> reply:textDocument/inlayHint(28) 0 ms
+I[13:04:40.579] --> textDocument/clangd.fileStatus
+I[13:04:41.488] <-- textDocument/codeAction(29)
+I[13:04:41.489] --> reply:textDocument/codeAction(29) 0 ms
+I[13:04:41.489] --> textDocument/clangd.fileStatus
+I[13:04:42.365] <-- textDocument/codeAction(30)
+I[13:04:42.365] --> reply:textDocument/codeAction(30) 0 ms
+I[13:04:42.365] --> textDocument/clangd.fileStatus
+I[13:04:42.723] <-- textDocument/codeAction(31)
+I[13:04:42.724] --> reply:textDocument/codeAction(31) 0 ms
+I[13:04:42.724] --> textDocument/clangd.fileStatus
+I[13:04:43.333] <-- textDocument/documentHighlight(32)
+I[13:04:43.333] --> reply:textDocument/documentHighlight(32) 0 ms
+I[13:04:43.333] --> textDocument/clangd.fileStatus
+I[13:04:43.533] <-- textDocument/codeAction(33)
+I[13:04:43.533] --> reply:textDocument/codeAction(33) 0 ms
+I[13:04:43.533] --> textDocument/clangd.fileStatus
+I[13:04:43.812] <-- textDocument/didChange
+I[13:04:43.812] --> textDocument/clangd.fileStatus
+I[13:04:43.908] <-- textDocument/didChange
+I[13:04:43.908] --> textDocument/clangd.fileStatus
+I[13:04:44.109] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:44.112] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 3 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:44.114] --> textDocument/clangd.fileStatus
+I[13:04:44.163] <-- textDocument/codeAction(34)
+I[13:04:44.216] --> textDocument/publishDiagnostics
+I[13:04:44.216] --> textDocument/inactiveRegions
+I[13:04:44.216] --> reply:textDocument/codeAction(34) 53 ms
+I[13:04:44.216] --> textDocument/clangd.fileStatus
+I[13:04:44.260] <-- textDocument/documentSymbol(35)
+I[13:04:44.261] --> reply:textDocument/documentSymbol(35) 0 ms
+I[13:04:44.261] --> textDocument/clangd.fileStatus
+I[13:04:44.291] <-- textDocument/didChange
+I[13:04:44.291] --> textDocument/clangd.fileStatus
+I[13:04:44.492] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:44.494] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 4 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:44.495] --> textDocument/clangd.fileStatus
+I[13:04:44.547] <-- textDocument/codeAction(36)
+I[13:04:44.589] --> textDocument/publishDiagnostics
+I[13:04:44.589] --> textDocument/inactiveRegions
+I[13:04:44.590] --> reply:textDocument/codeAction(36) 42 ms
+I[13:04:44.590] --> textDocument/clangd.fileStatus
+I[13:04:44.643] <-- textDocument/documentSymbol(37)
+I[13:04:44.644] --> reply:textDocument/documentSymbol(37) 0 ms
+I[13:04:44.644] --> textDocument/clangd.fileStatus
+I[13:04:44.688] <-- textDocument/foldingRange(38)
+I[13:04:44.689] --> reply:textDocument/foldingRange(38) 0 ms
+I[13:04:44.762] <-- textDocument/documentSymbol(39)
+I[13:04:44.762] --> reply:textDocument/documentSymbol(39) 0 ms
+I[13:04:44.763] --> textDocument/clangd.fileStatus
+I[13:04:44.845] <-- textDocument/codeAction(40)
+I[13:04:44.845] --> reply:textDocument/codeAction(40) 0 ms
+I[13:04:44.845] --> textDocument/clangd.fileStatus
+I[13:04:44.872] <-- textDocument/inlayHint(41)
+I[13:04:44.873] --> reply:textDocument/inlayHint(41) 0 ms
+I[13:04:44.873] --> textDocument/clangd.fileStatus
+I[13:04:44.938] <-- textDocument/didChange
+I[13:04:44.938] --> textDocument/clangd.fileStatus
+I[13:04:44.966] <-- textDocument/didChange
+I[13:04:44.966] --> textDocument/clangd.fileStatus
+I[13:04:45.066] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:45.067] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 6 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:45.068] --> textDocument/clangd.fileStatus
+I[13:04:45.068] --> textDocument/clangd.fileStatus
+I[13:04:45.070] --> textDocument/clangd.fileStatus
+I[13:04:45.070] --> textDocument/clangd.fileStatus
+I[13:04:45.141] <-- textDocument/didChange
+I[13:04:45.141] --> textDocument/clangd.fileStatus
+I[13:04:45.241] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:45.243] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 7 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:45.244] --> textDocument/clangd.fileStatus
+I[13:04:45.337] --> textDocument/publishDiagnostics
+I[13:04:45.337] --> textDocument/inactiveRegions
+I[13:04:45.337] --> textDocument/clangd.fileStatus
+I[13:04:45.407] <-- textDocument/foldingRange(42)
+I[13:04:45.408] --> reply:textDocument/foldingRange(42) 0 ms
+I[13:04:45.428] <-- textDocument/didChange
+I[13:04:45.428] --> textDocument/clangd.fileStatus
+I[13:04:45.478] <-- textDocument/semanticTokens/full/delta(43)
+I[13:04:45.478] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:45.481] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 8 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:45.482] --> textDocument/clangd.fileStatus
+I[13:04:45.575] --> textDocument/publishDiagnostics
+I[13:04:45.575] --> textDocument/inactiveRegions
+I[13:04:45.577] --> reply:textDocument/semanticTokens/full/delta(43) 98 ms
+I[13:04:45.577] --> textDocument/clangd.fileStatus
+I[13:04:45.632] <-- textDocument/foldingRange(44)
+I[13:04:45.632] --> reply:textDocument/foldingRange(44) 0 ms
+I[13:04:45.780] <-- textDocument/documentSymbol(45)
+I[13:04:45.780] <-- textDocument/documentSymbol(46)
+I[13:04:45.780] --> reply:textDocument/documentSymbol(45) 0 ms
+I[13:04:45.780] --> reply:textDocument/documentSymbol(46) 0 ms
+I[13:04:45.781] --> textDocument/clangd.fileStatus
+I[13:04:45.831] <-- textDocument/codeAction(47)
+I[13:04:45.831] --> reply:textDocument/codeAction(47) 0 ms
+I[13:04:45.831] --> textDocument/clangd.fileStatus
+I[13:04:45.912] <-- textDocument/inlayHint(48)
+I[13:04:45.913] --> reply:textDocument/inlayHint(48) 0 ms
+I[13:04:45.913] --> textDocument/clangd.fileStatus
+I[13:04:46.230] <-- textDocument/inlayHint(49)
+I[13:04:46.230] --> reply:textDocument/inlayHint(49) 0 ms
+I[13:04:46.231] --> textDocument/clangd.fileStatus
+I[13:04:46.430] <-- textDocument/documentLink(50)
+I[13:04:46.431] --> reply:textDocument/documentLink(50) 1 ms
+I[13:04:46.431] --> textDocument/clangd.fileStatus
+I[13:04:47.369] <-- textDocument/didSave
+I[13:04:47.369] File version went from 8 to 8
+I[13:04:47.370] --> textDocument/clangd.fileStatus
+I[13:04:47.462] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:47.462] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 8 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[13:04:47.464] --> textDocument/clangd.fileStatus
+I[13:04:47.464] --> textDocument/clangd.fileStatus
+I[13:04:47.466] --> textDocument/clangd.fileStatus
+I[13:04:47.466] --> textDocument/clangd.fileStatus

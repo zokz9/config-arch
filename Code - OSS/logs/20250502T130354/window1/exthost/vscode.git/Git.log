@@ -1,0 +1,31 @@
+2025-05-02 13:04:02.033 [info] [main] Log level: Info
+2025-05-02 13:04:02.033 [info] [main] Validating found git in: "git"
+2025-05-02 13:04:02.033 [info] [main] Using git "2.49.0" from "git"
+2025-05-02 13:04:02.033 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-02 13:04:02.033 [info] > git rev-parse --show-toplevel [17ms]
+2025-05-02 13:04:02.034 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2025-05-02 13:04:02.034 [info] [Model][openRepository] Opened repository: /home/zokz
+2025-05-02 13:04:02.039 [info] > git rev-parse --show-toplevel [11ms]
+2025-05-02 13:04:02.041 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-02 13:04:02.043 [info] > git config --get commit.template [31ms]
+2025-05-02 13:04:02.068 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-02 13:04:02.090 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2025-05-02 13:04:02.091 [warning] [Git][getBranch] No such branch: master
+2025-05-02 13:04:02.151 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [17ms]
+2025-05-02 13:04:03.043 [info] > git check-ignore -v -z --stdin [120ms]
+2025-05-02 13:04:03.048 [info] > git show --textconv :coding/c++/opengl/main.cpp [53ms]
+2025-05-02 13:04:03.049 [info] > git ls-files --stage -- coding/c++/opengl/main.cpp [30ms]
+2025-05-02 13:04:03.095 [info] > git hash-object -t tree /dev/null [26ms]
+2025-05-02 13:04:03.096 [warning] [GitFileSystemProvider][stat] File not found - git:/home/zokz/coding/c%2B%2B/opengl/main.cpp.git?%7B%22path%22%3A%22%2Fhome%2Fzokz%2Fcoding%2Fc%2B%2B%2Fopengl%2Fmain.cpp%22%2C%22ref%22%3A%22%22%7D
+2025-05-02 13:04:03.103 [info] > git hash-object -t tree /dev/null [15ms]
+2025-05-02 13:04:03.105 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/zokz/coding/c%2B%2B/opengl/main.cpp.git?%7B%22path%22%3A%22%2Fhome%2Fzokz%2Fcoding%2Fc%2B%2B%2Fopengl%2Fmain.cpp%22%2C%22ref%22%3A%22%22%7D
+2025-05-02 13:04:13.026 [info] > git status -z -uall [10921ms] (cancelled)
+2025-05-02 13:04:13.027 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1998ms]
+2025-05-02 13:04:13.027 [warning] [Git][getBranch] No such branch: master
+2025-05-02 13:04:13.028 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-05-02 13:04:13.047 [info] > git config --get commit.template [19ms]
+2025-05-02 13:04:13.062 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-02 13:04:13.068 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-05-02 13:04:13.068 [warning] [Git][getBranch] No such branch: master
+2025-05-02 13:04:13.103 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-05-02 13:04:17.249 [info] > git status -z -uall [4167ms] (cancelled)

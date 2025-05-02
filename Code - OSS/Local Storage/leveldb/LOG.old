@@ -1,3 +1,3 @@
-2025/05/01-21:20:27.563 810 Reusing MANIFEST /home/zokz/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
-2025/05/01-21:20:27.571 810 Recovering log #3
-2025/05/01-21:20:27.571 810 Reusing old log /home/zokz/.config/Code - OSS/Local Storage/leveldb/000003.log 
+2025/05/01-21:45:48.405 4ec Reusing MANIFEST /home/zokz/.config/Code - OSS/Local Storage/leveldb/MANIFEST-000001
+2025/05/01-21:45:48.421 4ec Recovering log #3
+2025/05/01-21:45:48.421 4ec Reusing old log /home/zokz/.config/Code - OSS/Local Storage/leveldb/000003.log 
