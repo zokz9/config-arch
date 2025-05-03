@@ -15,7 +15,7 @@
     "backlight": {
     	"device": "intel_backlight",  // Замените на свой (см. /sys/class/backlight/)
     	"format": " {icon} {percent}% ",
-    	"format-icons": ["🌕", "🌖", "🌗", "🌘", "🌑"],
+    	"format-icons": ["🌑","🌘","🌗","🌖","🌕"],
     	// "on-scroll-up": "brightnessctl set +1%",
     	// "on-scroll-down": "brightnessctl set 1%-"
         },
