@@ -1,0 +1,388 @@
+I[00:21:14.225] clangd version 19.1.7
+I[00:21:14.225] Features: linux
+I[00:21:14.225] PID: 6556
+I[00:21:14.226] Working directory: /home/zokz/coding/c++/opengl
+I[00:21:14.226] argv[0]: /usr/bin/clangd
+I[00:21:14.226] Starting LSP over stdin/stdout
+I[00:21:14.230] <-- initialize(0)
+I[00:21:14.236] --> reply:initialize(0) 6 ms
+I[00:21:14.242] <-- initialized
+I[00:21:14.275] <-- textDocument/didOpen
+I[00:21:14.286] --> textDocument/publishDiagnostics
+I[00:21:14.287] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[00:21:14.287] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 1 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[00:21:14.316] --> textDocument/clangd.fileStatus
+I[00:21:14.884] <-- textDocument/documentLink(1)
+I[00:21:14.888] <-- textDocument/inlayHint(2)
+I[00:21:15.195] <-- textDocument/codeAction(3)
+I[00:21:15.195] <-- textDocument/foldingRange(4)
+I[00:21:15.199] --> reply:textDocument/foldingRange(4) 4 ms
+I[00:21:15.385] <-- textDocument/documentSymbol(5)
+I[00:21:15.386] <-- textDocument/semanticTokens/full(6)
+I[00:21:15.484] <-- $/cancelRequest
+I[00:21:15.559] <-- $/cancelRequest
+I[00:21:15.559] <-- textDocument/codeAction(7)
+I[00:21:15.597] <-- textDocument/documentLink(8)
+I[00:21:16.910] <-- $/cancelRequest
+I[00:21:16.911] <-- textDocument/documentSymbol(9)
+I[00:21:17.016] <-- $/cancelRequest
+I[00:21:17.036] <-- textDocument/documentLink(10)
+I[00:21:17.178] <-- $/cancelRequest
+I[00:21:17.180] <-- textDocument/codeAction(11)
+I[00:21:17.186] <-- $/cancelRequest
+I[00:21:17.186] <-- textDocument/codeAction(12)
+I[00:21:17.457] <-- $/setTrace
+I[00:21:17.457] unhandled notification $/setTrace
+I[00:21:17.869] <-- $/cancelRequest
+I[00:21:17.869] <-- $/cancelRequest
+I[00:21:17.871] <-- textDocument/codeAction(13)
+I[00:21:17.877] <-- $/cancelRequest
+I[00:21:17.901] <-- textDocument/documentLink(14)
+I[00:21:18.006] <-- $/setTrace
+I[00:21:18.006] unhandled notification $/setTrace
+I[00:21:18.010] <-- $/cancelRequest
+I[00:21:18.052] <-- textDocument/documentLink(15)
+I[00:21:18.075] Built preamble of size 12721512 for file /home/zokz/coding/c++/opengl/main.cpp version 1 in 3.75 seconds
+I[00:21:18.077] --> workspace/semanticTokens/refresh(0)
+I[00:21:18.077] --> textDocument/clangd.fileStatus
+I[00:21:18.078] Indexing c++17 standard library in the context of /home/zokz/coding/c++/opengl/main.cpp
+I[00:21:18.079] --> textDocument/clangd.fileStatus
+I[00:21:18.082] <-- reply(0)
+I[00:21:18.223] <-- textDocument/documentSymbol(16)
+I[00:21:18.272] <-- $/cancelRequest
+I[00:21:18.300] <-- textDocument/inlayHint(17)
+I[00:21:18.305] <-- textDocument/foldingRange(18)
+I[00:21:18.307] --> reply:textDocument/foldingRange(18) 2 ms
+I[00:21:18.362] <-- textDocument/documentSymbol(19)
+I[00:21:18.472] --> textDocument/publishDiagnostics
+I[00:21:18.472] --> textDocument/inactiveRegions
+I[00:21:18.474] --> reply:textDocument/documentLink(1) 3590 ms, error: Task was cancelled.
+I[00:21:18.475] --> reply:textDocument/inlayHint(2) 3586 ms, error: Task was cancelled.
+I[00:21:18.475] --> reply:textDocument/codeAction(3) 3279 ms, error: Task was cancelled.
+I[00:21:18.475] --> reply:textDocument/documentSymbol(5) 3089 ms, error: Task was cancelled.
+I[00:21:18.475] --> reply:textDocument/semanticTokens/full(6) 3089 ms
+I[00:21:18.476] --> reply:textDocument/codeAction(7) 2916 ms, error: Task was cancelled.
+I[00:21:18.476] --> reply:textDocument/documentLink(8) 2878 ms, error: Task was cancelled.
+I[00:21:18.476] --> reply:textDocument/documentSymbol(9) 1564 ms, error: Task was cancelled.
+I[00:21:18.476] --> reply:textDocument/documentLink(10) 1439 ms, error: Task was cancelled.
+I[00:21:18.476] --> reply:textDocument/codeAction(11) 1295 ms, error: Task was cancelled.
+I[00:21:18.476] --> reply:textDocument/codeAction(12) 1289 ms, error: Task was cancelled.
+I[00:21:18.476] --> reply:textDocument/codeAction(13) 604 ms
+I[00:21:18.476] --> reply:textDocument/documentLink(14) 574 ms, error: Task was cancelled.
+I[00:21:18.476] --> reply:textDocument/documentLink(15) 424 ms
+I[00:21:18.483] --> reply:textDocument/documentSymbol(16) 260 ms
+[Error - 12:21:18 AM] Request textDocument/documentLink failed.
+[object Object]
+I[00:21:18.494] --> reply:textDocument/inlayHint(17) 194 ms
+I[00:21:18.494] --> reply:textDocument/documentSymbol(19) 132 ms
+I[00:21:18.495] --> textDocument/clangd.fileStatus
+[Error - 12:21:18 AM] Request textDocument/inlayHint failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/documentSymbol failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/documentLink failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/documentSymbol failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/documentLink failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/codeAction failed.
+[object Object]
+[Error - 12:21:18 AM] Request textDocument/documentLink failed.
+[object Object]
+I[00:21:18.797] <-- textDocument/codeAction(20)
+I[00:21:18.799] --> reply:textDocument/codeAction(20) 1 ms
+I[00:21:18.799] --> textDocument/clangd.fileStatus
+I[00:21:20.619] <-- textDocument/semanticTokens/full/delta(21)
+I[00:21:20.620] --> reply:textDocument/semanticTokens/full/delta(21) 1 ms
+I[00:21:20.622] --> textDocument/clangd.fileStatus
+I[00:21:25.107] Indexed c++17 standard library (incomplete due to errors): 14348 symbols, 10015 filtered
+I[00:21:44.311] <-- textDocument/hover(22)
+I[00:21:44.314] --> reply:textDocument/hover(22) 3 ms
+I[00:21:44.314] --> textDocument/clangd.fileStatus
+I[00:21:44.605] <-- textDocument/codeAction(23)
+I[00:21:44.606] --> reply:textDocument/codeAction(23) 0 ms
+I[00:21:44.606] --> textDocument/clangd.fileStatus
+I[00:21:45.860] <-- textDocument/inlayHint(24)
+I[00:21:45.863] --> reply:textDocument/inlayHint(24) 2 ms
+I[00:21:45.863] --> textDocument/clangd.fileStatus
+I[00:21:47.576] <-- textDocument/inlayHint(25)
+I[00:21:47.578] --> reply:textDocument/inlayHint(25) 1 ms
+I[00:21:47.578] --> textDocument/clangd.fileStatus
+I[00:21:48.199] <-- textDocument/inlayHint(26)
+I[00:21:48.200] --> reply:textDocument/inlayHint(26) 1 ms
+I[00:21:48.201] --> textDocument/clangd.fileStatus
+I[00:21:48.433] <-- textDocument/inlayHint(27)
+I[00:21:48.435] --> reply:textDocument/inlayHint(27) 1 ms
+I[00:21:48.435] --> textDocument/clangd.fileStatus
+I[00:21:49.876] <-- textDocument/inlayHint(28)
+I[00:21:49.878] --> reply:textDocument/inlayHint(28) 1 ms
+I[00:21:49.878] --> textDocument/clangd.fileStatus
+I[00:21:50.797] <-- textDocument/inlayHint(29)
+I[00:21:50.799] --> reply:textDocument/inlayHint(29) 1 ms
+I[00:21:50.799] --> textDocument/clangd.fileStatus
+I[00:21:50.918] <-- textDocument/inlayHint(30)
+I[00:21:50.920] --> reply:textDocument/inlayHint(30) 1 ms
+I[00:21:50.920] --> textDocument/clangd.fileStatus
+I[00:21:50.970] <-- textDocument/inlayHint(31)
+I[00:21:50.972] --> reply:textDocument/inlayHint(31) 2 ms
+I[00:21:50.973] --> textDocument/clangd.fileStatus
+I[00:21:51.355] <-- textDocument/inlayHint(32)
+I[00:21:51.356] --> reply:textDocument/inlayHint(32) 1 ms
+I[00:21:51.357] --> textDocument/clangd.fileStatus
+I[00:21:51.649] <-- textDocument/inlayHint(33)
+I[00:21:51.650] --> reply:textDocument/inlayHint(33) 1 ms
+I[00:21:51.651] --> textDocument/clangd.fileStatus
+I[00:21:54.482] <-- textDocument/inlayHint(34)
+I[00:21:54.483] --> reply:textDocument/inlayHint(34) 1 ms
+I[00:21:54.484] --> textDocument/clangd.fileStatus
+I[00:21:54.520] <-- textDocument/inlayHint(35)
+I[00:21:54.523] --> reply:textDocument/inlayHint(35) 2 ms
+I[00:21:54.525] --> textDocument/clangd.fileStatus
+I[00:21:54.999] <-- textDocument/inlayHint(36)
+I[00:21:55.001] --> reply:textDocument/inlayHint(36) 1 ms
+I[00:21:55.005] --> textDocument/clangd.fileStatus
+I[00:21:55.348] <-- textDocument/inlayHint(37)
+I[00:21:55.349] --> reply:textDocument/inlayHint(37) 1 ms
+I[00:21:55.350] --> textDocument/clangd.fileStatus
+I[00:21:55.617] <-- textDocument/inlayHint(38)
+I[00:21:55.618] --> reply:textDocument/inlayHint(38) 1 ms
+I[00:21:55.620] --> textDocument/clangd.fileStatus
+I[00:21:55.834] <-- textDocument/inlayHint(39)
+I[00:21:55.836] --> reply:textDocument/inlayHint(39) 2 ms
+I[00:21:55.840] --> textDocument/clangd.fileStatus
+I[00:21:55.898] <-- textDocument/inlayHint(40)
+I[00:21:55.899] --> reply:textDocument/inlayHint(40) 1 ms
+I[00:21:55.900] --> textDocument/clangd.fileStatus
+I[00:21:56.615] <-- textDocument/inlayHint(41)
+I[00:21:56.616] --> reply:textDocument/inlayHint(41) 1 ms
+I[00:21:56.617] --> textDocument/clangd.fileStatus
+I[00:21:57.538] <-- textDocument/inlayHint(42)
+I[00:21:57.540] --> reply:textDocument/inlayHint(42) 2 ms
+I[00:21:57.543] --> textDocument/clangd.fileStatus
+I[00:21:57.615] <-- textDocument/inlayHint(43)
+I[00:21:57.616] --> reply:textDocument/inlayHint(43) 1 ms
+I[00:21:57.617] --> textDocument/clangd.fileStatus
+I[00:21:58.132] <-- textDocument/inlayHint(44)
+I[00:21:58.133] --> reply:textDocument/inlayHint(44) 1 ms
+I[00:21:58.134] --> textDocument/clangd.fileStatus
+I[00:21:58.181] <-- textDocument/inlayHint(45)
+I[00:21:58.183] --> reply:textDocument/inlayHint(45) 1 ms
+I[00:21:58.183] --> textDocument/clangd.fileStatus
+I[00:21:58.281] <-- textDocument/inlayHint(46)
+I[00:21:58.282] --> reply:textDocument/inlayHint(46) 1 ms
+I[00:21:58.283] --> textDocument/clangd.fileStatus
+I[00:21:59.466] <-- textDocument/inlayHint(47)
+I[00:21:59.467] --> reply:textDocument/inlayHint(47) 1 ms
+I[00:21:59.468] --> textDocument/clangd.fileStatus
+I[00:21:59.530] <-- textDocument/inlayHint(48)
+I[00:21:59.532] --> reply:textDocument/inlayHint(48) 2 ms
+I[00:21:59.533] --> textDocument/clangd.fileStatus
+I[00:21:59.925] <-- textDocument/inlayHint(49)
+I[00:21:59.926] --> reply:textDocument/inlayHint(49) 1 ms
+I[00:21:59.927] --> textDocument/clangd.fileStatus
+I[00:22:00.136] <-- textDocument/inlayHint(50)
+I[00:22:00.138] --> reply:textDocument/inlayHint(50) 1 ms
+I[00:22:00.139] --> textDocument/clangd.fileStatus
+I[00:22:01.098] <-- textDocument/inlayHint(51)
+I[00:22:01.100] --> reply:textDocument/inlayHint(51) 1 ms
+I[00:22:01.100] --> textDocument/clangd.fileStatus
+I[00:22:01.534] <-- textDocument/inlayHint(52)
+I[00:22:01.535] --> reply:textDocument/inlayHint(52) 1 ms
+I[00:22:01.536] --> textDocument/clangd.fileStatus
+I[00:22:02.173] <-- textDocument/inlayHint(53)
+I[00:22:02.174] --> reply:textDocument/inlayHint(53) 1 ms
+I[00:22:02.175] --> textDocument/clangd.fileStatus
+I[00:22:04.179] <-- textDocument/documentHighlight(54)
+I[00:22:04.179] --> reply:textDocument/documentHighlight(54) 0 ms
+I[00:22:04.179] --> textDocument/clangd.fileStatus
+I[00:22:04.687] <-- textDocument/codeAction(55)
+I[00:22:04.688] --> reply:textDocument/codeAction(55) 0 ms
+I[00:22:04.688] --> textDocument/clangd.fileStatus
+I[00:22:05.167] <-- textDocument/codeAction(56)
+I[00:22:05.167] --> reply:textDocument/codeAction(56) 0 ms
+I[00:22:05.167] --> textDocument/clangd.fileStatus
+I[00:22:06.173] <-- textDocument/codeAction(57)
+I[00:22:06.173] --> reply:textDocument/codeAction(57) 0 ms
+I[00:22:06.173] --> textDocument/clangd.fileStatus
+I[00:22:06.253] <-- textDocument/documentHighlight(58)
+I[00:22:06.253] --> reply:textDocument/documentHighlight(58) 0 ms
+I[00:22:06.253] --> textDocument/clangd.fileStatus
+I[00:22:06.453] <-- textDocument/codeAction(59)
+I[00:22:06.453] --> reply:textDocument/codeAction(59) 0 ms
+I[00:22:06.453] --> textDocument/clangd.fileStatus
+I[00:22:06.599] <-- textDocument/hover(60)
+I[00:22:06.600] --> reply:textDocument/hover(60) 0 ms
+I[00:22:06.600] --> textDocument/clangd.fileStatus
+I[00:22:08.457] <-- textDocument/codeAction(61)
+I[00:22:08.457] --> reply:textDocument/codeAction(61) 0 ms
+I[00:22:08.457] --> textDocument/clangd.fileStatus
+I[00:22:08.996] <-- textDocument/codeAction(62)
+I[00:22:08.996] --> reply:textDocument/codeAction(62) 0 ms
+I[00:22:08.996] --> textDocument/clangd.fileStatus
+I[00:22:09.410] <-- textDocument/documentHighlight(63)
+I[00:22:09.410] --> reply:textDocument/documentHighlight(63) 0 ms
+I[00:22:09.410] --> textDocument/clangd.fileStatus
+I[00:22:09.610] <-- textDocument/codeAction(64)
+I[00:22:09.610] --> reply:textDocument/codeAction(64) 0 ms
+I[00:22:09.610] --> textDocument/clangd.fileStatus
+I[00:22:10.521] <-- textDocument/hover(65)
+I[00:22:10.522] --> reply:textDocument/hover(65) 1 ms
+I[00:22:10.522] --> textDocument/clangd.fileStatus
+I[00:22:11.311] <-- textDocument/hover(66)
+I[00:22:11.312] --> reply:textDocument/hover(66) 0 ms
+I[00:22:11.312] --> textDocument/clangd.fileStatus
+I[00:22:13.423] <-- textDocument/hover(67)
+I[00:22:13.424] --> reply:textDocument/hover(67) 0 ms
+I[00:22:13.424] --> textDocument/clangd.fileStatus
+I[00:22:14.688] <-- textDocument/hover(68)
+I[00:22:14.689] --> reply:textDocument/hover(68) 0 ms
+I[00:22:14.689] --> textDocument/clangd.fileStatus
+I[00:22:16.217] <-- textDocument/hover(69)
+I[00:22:16.218] --> reply:textDocument/hover(69) 1 ms
+I[00:22:16.218] --> textDocument/clangd.fileStatus
+I[00:22:17.005] <-- textDocument/hover(70)
+I[00:22:17.006] --> reply:textDocument/hover(70) 1 ms
+I[00:22:17.006] --> textDocument/clangd.fileStatus
+I[00:22:17.371] <-- textDocument/hover(71)
+I[00:22:17.373] --> reply:textDocument/hover(71) 2 ms
+I[00:22:17.373] --> textDocument/clangd.fileStatus
+I[00:22:18.032] <-- textDocument/documentHighlight(72)
+I[00:22:18.032] --> reply:textDocument/documentHighlight(72) 0 ms
+I[00:22:18.032] --> textDocument/clangd.fileStatus
+I[00:22:18.232] <-- textDocument/codeAction(73)
+I[00:22:18.232] --> reply:textDocument/codeAction(73) 0 ms
+I[00:22:18.232] --> textDocument/clangd.fileStatus
+I[00:22:18.250] <-- textDocument/hover(74)
+I[00:22:18.251] --> reply:textDocument/hover(74) 1 ms
+I[00:22:18.251] --> textDocument/clangd.fileStatus
+I[00:22:18.680] <-- textDocument/hover(75)
+I[00:22:18.681] --> reply:textDocument/hover(75) 1 ms
+I[00:22:18.681] --> textDocument/clangd.fileStatus
+I[00:22:18.979] <-- textDocument/codeAction(76)
+I[00:22:18.979] --> reply:textDocument/codeAction(76) 0 ms
+I[00:22:18.979] --> textDocument/clangd.fileStatus
+I[00:22:19.334] <-- textDocument/codeAction(77)
+I[00:22:19.334] --> reply:textDocument/codeAction(77) 0 ms
+I[00:22:19.334] --> textDocument/clangd.fileStatus
+I[00:22:19.649] <-- textDocument/codeAction(78)
+I[00:22:19.650] --> reply:textDocument/codeAction(78) 0 ms
+I[00:22:19.650] --> textDocument/clangd.fileStatus
+I[00:22:19.860] <-- textDocument/documentHighlight(79)
+I[00:22:19.860] --> reply:textDocument/documentHighlight(79) 0 ms
+I[00:22:19.860] --> textDocument/clangd.fileStatus
+I[00:22:20.060] <-- textDocument/codeAction(80)
+I[00:22:20.060] --> reply:textDocument/codeAction(80) 0 ms
+I[00:22:20.060] --> textDocument/clangd.fileStatus
+I[00:22:20.551] <-- textDocument/hover(81)
+I[00:22:20.552] --> reply:textDocument/hover(81) 1 ms
+I[00:22:20.552] --> textDocument/clangd.fileStatus
+I[00:22:21.823] <-- textDocument/documentHighlight(82)
+I[00:22:21.823] --> reply:textDocument/documentHighlight(82) 0 ms
+I[00:22:21.823] --> textDocument/clangd.fileStatus
+I[00:22:22.725] <-- textDocument/codeAction(83)
+I[00:22:22.725] --> reply:textDocument/codeAction(83) 0 ms
+I[00:22:22.725] --> textDocument/clangd.fileStatus
+I[00:22:22.894] <-- textDocument/documentHighlight(84)
+I[00:22:22.895] --> reply:textDocument/documentHighlight(84) 0 ms
+I[00:22:22.895] --> textDocument/clangd.fileStatus
+I[00:22:23.094] <-- textDocument/codeAction(85)
+I[00:22:23.094] --> reply:textDocument/codeAction(85) 0 ms
+I[00:22:23.094] --> textDocument/clangd.fileStatus
+I[00:22:23.328] <-- textDocument/hover(86)
+I[00:22:23.329] --> reply:textDocument/hover(86) 0 ms
+I[00:22:23.329] --> textDocument/clangd.fileStatus
+I[00:22:23.523] <-- textDocument/hover(87)
+I[00:22:23.524] --> reply:textDocument/hover(87) 0 ms
+I[00:22:23.524] --> textDocument/clangd.fileStatus
+I[00:22:23.583] <-- textDocument/documentHighlight(88)
+I[00:22:23.583] --> reply:textDocument/documentHighlight(88) 0 ms
+I[00:22:23.583] --> textDocument/clangd.fileStatus
+I[00:22:23.782] <-- textDocument/codeAction(89)
+I[00:22:23.783] --> reply:textDocument/codeAction(89) 0 ms
+I[00:22:23.783] --> textDocument/clangd.fileStatus
+I[00:22:24.296] <-- textDocument/didChange
+I[00:22:24.296] --> textDocument/clangd.fileStatus
+I[00:22:24.339] <-- textDocument/inlayHint(90)
+I[00:22:24.340] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[00:22:24.343] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 2 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[00:22:24.345] --> textDocument/clangd.fileStatus
+I[00:22:24.447] <-- textDocument/didChange
+I[00:22:24.450] <-- $/cancelRequest
+I[00:22:24.460] --> textDocument/publishDiagnostics
+I[00:22:24.460] --> textDocument/inactiveRegions
+I[00:22:24.461] --> reply:textDocument/inlayHint(90) 121 ms, error: Task was cancelled.
+I[00:22:24.461] --> textDocument/clangd.fileStatus
+[Error - 12:22:24 AM] Request textDocument/inlayHint failed.
+[object Object]
+I[00:22:24.490] <-- textDocument/inlayHint(91)
+I[00:22:24.490] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[00:22:24.492] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 3 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[00:22:24.494] --> textDocument/clangd.fileStatus
+I[00:22:24.595] --> textDocument/publishDiagnostics
+I[00:22:24.596] --> textDocument/inactiveRegions
+I[00:22:24.597] --> reply:textDocument/inlayHint(91) 107 ms
+I[00:22:24.597] --> textDocument/clangd.fileStatus
+I[00:22:24.644] <-- textDocument/didChange
+I[00:22:24.644] --> textDocument/clangd.fileStatus
+I[00:22:24.683] <-- textDocument/inlayHint(92)
+I[00:22:24.683] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[00:22:24.685] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 4 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[00:22:24.687] --> textDocument/clangd.fileStatus
+I[00:22:24.789] --> textDocument/publishDiagnostics
+I[00:22:24.789] --> textDocument/inactiveRegions
+I[00:22:24.790] --> reply:textDocument/inlayHint(92) 107 ms
+I[00:22:24.790] --> textDocument/clangd.fileStatus
+I[00:22:24.858] <-- textDocument/foldingRange(93)
+I[00:22:24.859] --> reply:textDocument/foldingRange(93) 0 ms
+I[00:22:24.998] <-- textDocument/documentSymbol(94)
+I[00:22:24.998] <-- textDocument/documentSymbol(95)
+I[00:22:24.999] --> reply:textDocument/documentSymbol(94) 0 ms
+I[00:22:24.999] --> reply:textDocument/documentSymbol(95) 0 ms
+I[00:22:24.999] --> textDocument/clangd.fileStatus
+I[00:22:25.044] <-- textDocument/codeAction(96)
+I[00:22:25.044] --> reply:textDocument/codeAction(96) 0 ms
+I[00:22:25.044] --> textDocument/clangd.fileStatus
+I[00:22:25.448] <-- textDocument/inlayHint(97)
+I[00:22:25.448] --> reply:textDocument/inlayHint(97) 0 ms
+I[00:22:25.449] --> textDocument/clangd.fileStatus
+I[00:22:25.658] <-- textDocument/documentLink(98)
+I[00:22:25.659] --> reply:textDocument/documentLink(98) 0 ms
+I[00:22:25.659] --> textDocument/clangd.fileStatus
+I[00:22:25.702] <-- textDocument/didSave
+I[00:22:25.702] File version went from 4 to 4
+I[00:22:25.702] --> textDocument/clangd.fileStatus
+I[00:22:25.816] Failed to find compilation database for /home/zokz/coding/c++/opengl/main.cpp
+I[00:22:25.816] ASTWorker building file /home/zokz/coding/c++/opengl/main.cpp version 4 with command clangd fallback
+[/home/zokz/coding/c++/opengl]
+/usr/bin/clang -resource-dir=/usr/lib/clang/19 -- /home/zokz/coding/c++/opengl/main.cpp
+I[00:22:25.817] --> textDocument/clangd.fileStatus
+I[00:22:25.817] --> textDocument/clangd.fileStatus
+I[00:22:25.820] --> textDocument/clangd.fileStatus
+I[00:22:25.820] --> textDocument/clangd.fileStatus
+I[00:22:25.919] <-- textDocument/semanticTokens/full/delta(99)
+I[00:22:25.920] --> reply:textDocument/semanticTokens/full/delta(99) 0 ms
+I[00:22:25.920] --> textDocument/clangd.fileStatus
+I[00:22:26.248] <-- textDocument/definition(100)
+I[00:22:26.248] --> reply:textDocument/definition(100) 0 ms
+I[00:22:26.248] --> textDocument/clangd.fileStatus
+I[00:23:41.062] <-- textDocument/inlayHint(101)
+I[00:23:41.064] --> reply:textDocument/inlayHint(101) 2 ms
+I[00:23:41.069] --> textDocument/clangd.fileStatus
+I[00:23:46.582] <-- textDocument/inlayHint(102)
+I[00:23:46.583] --> reply:textDocument/inlayHint(102) 1 ms
+I[00:23:46.584] --> textDocument/clangd.fileStatus

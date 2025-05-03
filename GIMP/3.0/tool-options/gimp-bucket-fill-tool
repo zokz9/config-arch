@@ -1,7 +1,13 @@
 # GIMP gimp-bucket-fill-tool options
 
+(foreground
+    (color "R'G'B'A u8" 4 "\230\43\271\377" 0))
 (pattern "Pine")
 (brush-size 51)
 (brush-hardness 0.5)
+(fill-mode pattern)
+(fill-area line-art)
+(line-art-max-grow 4)
+(line-art-max-gap-length 3)
 
 # end of gimp-bucket-fill-tool options

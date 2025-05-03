@@ -2,6 +2,8 @@
 # 
 # This file holds a list of recently used colors.
 
-(color-history)
+(color-history
+    (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0)
+    (color "R'G'B'A u8" 4 "\230\43\271\377" 0))
 
 # end of colorrc
