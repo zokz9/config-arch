@@ -2,8 +2,21 @@
 application/x-ms-dos-executable;application/x-wine-extension-msp;application/x-msi;application/x-msdos-program;text/win-bat;=PortProton.desktop
 application/x-msdownload=ru.linux_gaming.PortProton.desktop
 x-scheme-handler/terminal=org.kde.konsole.desktop
+x-scheme-handler/http=firefox.desktop
+application/xhtml+xml=firefox.desktop
+text/html=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/hydralauncher=hydralauncher.desktop
+application/x-shellscript=org.gnome.TextEditor.desktop
+text/x-python=code.desktop
 
 [Added Associations]
 application/vnd.microsoft.portable-executable=ru.linux_gaming.PortProton.desktop;
 application/x-msdownload=ru.linux_gaming.PortProton.desktop;
 application/x-desktop=nvim.desktop;
+x-scheme-handler/http=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+text/html=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+application/x-shellscript=org.gnome.TextEditor.desktop;
+text/x-python=code.desktop;

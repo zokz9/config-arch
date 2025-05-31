@@ -1,0 +1,1 @@
+{Intel/Mesa Intel(R) UHD Graphics 605 (GLK 3)/4.6 (Core Profile) Mesa 25.0.5-arch1.1}=SUPPORTED

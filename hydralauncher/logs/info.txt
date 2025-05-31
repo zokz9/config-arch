@@ -1,0 +1,20 @@
+[2025-05-04 20:02:24.981] [info]  (main)         Checking for update
+[2025-05-04 20:02:25.015] [info]  (main)         Generated new staging user ID: 90be0f6c-8a39-577c-9ee7-b0197af538a6
+[2025-05-04 20:02:26.534] [info]  (main)         Checking for update (already in progress)
+[2025-05-04 20:02:28.720] [info]  (renderer)     Initializing Hydra Resources
+[2025-05-04 20:02:32.015] [info]  (renderer)     [Featurebase SDK] Initializing SDK!
+[2025-05-04 20:02:33.729] [info]  (main)         Update for version 3.4.7 is not available (latest version: 3.4.7, downgrade is disallowed).
+[2025-05-04 20:02:33.730] [info]  (main)         Check for updates result: [object Object]
+[2025-05-04 20:02:33.731] [info]  (main)         Check for updates result: [object Object]
+[2025-05-04 20:57:17.794] [info]  (main)         Checking for update
+[2025-05-04 20:57:19.801] [info]  (main)         Update for version 3.4.7 is not available (latest version: 3.4.7, downgrade is disallowed).
+[2025-05-04 20:57:19.802] [info]  (main)         Check for updates result: [object Object]
+[2025-05-04 21:50:49.753] [info]  (main)         Checking for update
+[2025-05-04 21:50:51.328] [info]  (main)         Update for version 3.4.7 is not available (latest version: 3.4.7, downgrade is disallowed).
+[2025-05-04 21:50:51.329] [info]  (main)         Check for updates result: [object Object]
+[2025-05-04 22:44:18.679] [info]  (main)         Checking for update
+[2025-05-04 22:44:24.074] [info]  (main)         Update for version 3.4.7 is not available (latest version: 3.4.7, downgrade is disallowed).
+[2025-05-04 22:44:24.075] [info]  (main)         Check for updates result: [object Object]
+[2025-05-04 23:38:34.883] [info]  (main)         Checking for update
+[2025-05-04 23:38:36.458] [info]  (main)         Update for version 3.4.7 is not available (latest version: 3.4.7, downgrade is disallowed).
+[2025-05-04 23:38:36.459] [info]  (main)         Check for updates result: [object Object]

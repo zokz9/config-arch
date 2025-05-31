@@ -1,0 +1,431 @@
+[2025-05-04 20:04:19.017] [error]                Unhandled rejection {
+  message: 'read EHOSTUNREACH',
+  name: 'Error',
+  stack: 'Error: read EHOSTUNREACH\n' +
+    '    at AxiosError.from (file:///opt/Hydra/resources/app.asar/node_modules/axios/lib/core/AxiosError.js:92:14)\n' +
+    '    at RedirectableRequest.handleRequestError (file:///opt/Hydra/resources/app.asar/node_modules/axios/lib/adapters/http.js:620:25)\n' +
+    '    at RedirectableRequest.emit (node:events:519:28)\n' +
+    '    at eventHandlers.<computed> (/opt/Hydra/resources/app.asar/node_modules/follow-redirects/index.js:49:24)\n' +
+    '    at ClientRequest.emit (node:events:519:28)\n' +
+    '    at emitErrorEvent (node:_http_client:101:11)\n' +
+    '    at TLSSocket.socketErrorListener (node:_http_client:504:5)\n' +
+    '    at TLSSocket.emit (node:events:519:28)\n' +
+    '    at emitErrorNT (node:internal/streams/destroy:169:8)\n' +
+    '    at emitErrorCloseNT (node:internal/streams/destroy:128:3)\n' +
+    '    at Axios.request (file:///opt/Hydra/resources/app.asar/node_modules/axios/lib/core/Axios.js:45:41)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n' +
+    '    at async CommonRedistManager.downloadCommonRedist (file:///opt/Hydra/resources/app.asar/out/main/index.js:10710:30)',
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [ 'xhr', 'http', 'fetch' ],
+    transformRequest: [
+      '[function] function transformRequest(data, headers) {\n' +
+        "    const contentType = headers.getContentType() || '';\n" +
+        "    const hasJSONContentType = contentType.indexOf('application/json') > -1;\n" +
+        '    const isObjectPayload = utils.isObject(data);\n' +
+        '\n' +
+        '    if (isObjectPayload && utils.isHTMLForm(data)) {\n' +
+        '      data = new FormData(data);\n' +
+        '    }\n' +
+        '\n' +
+        '    const isFormData = utils.isFormData(data);\n' +
+        '\n' +
+        '    if (isFormData) {\n' +
+        '      return hasJSONContentType ? JSON.stringify(formDataToJSON(data)) : data;\n' +
+        '    }\n' +
+        '\n' +
+        '    if (utils.isArrayBuffer(data) ||\n' +
+        '      utils.isBuffer(data) ||\n' +
+        '      utils.isStream(data) ||\n' +
+        '      utils.isFile(data) ||\n' +
+        '      utils.isBlob(data) ||\n' +
+        '      utils.isReadableStream(data)\n' +
+        '    ) {\n' +
+        '      return data;\n' +
+        '    }\n' +
+        '    if (utils.isArrayBufferView(data)) {\n' +
+        '      return data.buffer;\n' +
+        '    }\n' +
+        '    if (utils.isURLSearchParams(data)) {\n' +
+        "      headers.setContentType('application/x-www-form-urlencoded;charset=utf-8', false);\n" +
+        '      return data.toString();\n' +
+        '    }\n' +
+        '\n' +
+        '    let isFileList;\n' +
+        '\n' +
+        '    if (isObjectPayload) {\n' +
+        "      if (contentType.indexOf('application/x-www-form-urlencoded') > -1) {\n" +
+        '        return toURLEncodedForm(data, this.formSerializer).toString();\n' +
+        '      }\n' +
+        '\n' +
+        "      if ((isFileList = utils.isFileList(data)) || contentType.indexOf('multipart/form-data') > -1) {\n" +
+        '        const _FormData = this.env && this.env.FormData;\n' +
+        '\n' +
+        '        return toFormData(\n' +
+        "          isFileList ? {'files[]': data} : data,\n" +
+        '          _FormData && new _FormData(),\n' +
+        '          this.formSerializer\n' +
+        '        );\n' +
+        '      }\n' +
+        '    }\n' +
+        '\n' +
+        '    if (isObjectPayload || hasJSONContentType ) {\n' +
+        "      headers.setContentType('application/json', false);\n" +
+        '      return stringifySafely(data);\n' +
+        '    }\n' +
+        '\n' +
+        '    return data;\n' +
+        '  }'
+    ],
+    transformResponse: [
+      '[function] function transformResponse(data) {\n' +
+        '    const transitional = this.transitional || defaults.transitional;\n' +
+        '    const forcedJSONParsing = transitional && transitional.forcedJSONParsing;\n' +
+        "    const JSONRequested = this.responseType === 'json';\n" +
+        '\n' +
+        '    if (utils.isResponse(data) || utils.isReadableStream(data)) {\n' +
+        '      return data;\n' +
+        '    }\n' +
+        '\n' +
+        '    if (data && utils.isString(data) && ((forcedJSONParsing && !this.responseType) || JSONRequested)) {\n' +
+        '      const silentJSONParsing = transitional && transitional.silentJSONParsing;\n' +
+        '      const strictJSONParsing = !silentJSONParsing && JSONRequested;\n' +
+        '\n' +
+        '      try {\n' +
+        '        return JSON.parse(data);\n' +
+        '      } catch (e) {\n' +
+        '        if (strictJSONParsing) {\n' +
+        "          if (e.name === 'SyntaxError') {\n" +
+        '            throw AxiosError.from(e, AxiosError.ERR_BAD_RESPONSE, this, null, this.response);\n' +
+        '          }\n' +
+        '          throw e;\n' +
+        '        }\n' +
+        '      }\n' +
+        '    }\n' +
+        '\n' +
+        '    return data;\n' +
+        '  }'
+    ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    env: {
+      FormData: '[function] function FormData(options) {\n' +
+        '  if (!(this instanceof FormData)) {\n' +
+        '    return new FormData(options);\n' +
+        '  }\n' +
+        '\n' +
+        '  this._overheadLength = 0;\n' +
+        '  this._valueLength = 0;\n' +
+        '  this._valuesToMeasure = [];\n' +
+        '\n' +
+        '  CombinedStream.call(this);\n' +
+        '\n' +
+        '  options = options || {};\n' +
+        '  for (var option in options) {\n' +
+        '    this[option] = options[option];\n' +
+        '  }\n' +
+        '}',
+      Blob: '[function] class Blob {\n' +
+        '  /**\n' +
+        '   * @typedef {string|ArrayBuffer|ArrayBufferView|Blob} SourcePart\n' +
+        '   */\n' +
+        '\n' +
+        '  /**\n' +
+        '   * @param {SourcePart[]} [sources]\n' +
+        '   * @param {{\n' +
+        '   *   endings? : string,\n' +
+        '   *   type? : string,\n' +
+        '   * }} [options]\n' +
+        '   * @constructs {Blob}\n' +
+        '   */\n' +
+        '  constructor(sources = [], options) {\n' +
+        '    if (sources === null ||\n' +
+        "        typeof sources[SymbolIterator] !== 'function' ||\n" +
+        "        typeof sources === 'string') {\n" +
+        "      throw new ERR_INVALID_ARG_TYPE('sources', 'a sequence', sources);\n" +
+        '    }\n' +
+        "    validateDictionary(options, 'options');\n" +
+        '    let {\n' +
+        "      type = '',\n" +
+        "      endings = 'transparent',\n" +
+        '    } = options ?? kEmptyObject;\n' +
+        '\n' +
+        '    endings = `${endings}`;\n' +
+        "    if (endings !== 'transparent' && endings !== 'native')\n" +
+        "      throw new ERR_INVALID_ARG_VALUE('options.endings', endings);\n" +
+        '\n' +
+        '    let length = 0;\n' +
+        '    const sources_ = ArrayFrom(sources, (source) => {\n' +
+        '      const { 0: len, 1: src } = getSource(source, endings);\n' +
+        '      length += len;\n' +
+        '      return src;\n' +
+        '    });\n' +
+        '\n' +
+        '    if (length > kMaxLength)\n' +
+        '      throw new ERR_BUFFER_TOO_LARGE(kMaxLength);\n' +
+        '\n' +
+        '    this[kHandle] = _createBlob(sources_, length);\n' +
+        '    this[kLength] = length;\n' +
+        '\n' +
+        '    type = `${type}`;\n' +
+        '    this[kType] = RegExpPrototypeExec(disallowedTypeCharacters, type) !== null ?\n' +
+        "      '' : StringPrototypeToLowerCase(type);\n" +
+        '\n' +
+        '    // eslint-disable-next-line no-constructor-return\n' +
+        '    return makeTransferable(this);\n' +
+        '  }\n' +
+        '\n' +
+        '  [kInspect](depth, options) {\n' +
+        '    if (depth < 0)\n' +
+        '      return this;\n' +
+        '\n' +
+        '    const opts = {\n' +
+        '      ...options,\n' +
+        '      depth: options.depth == null ? null : options.depth - 1,\n' +
+        '    };\n' +
+        '\n' +
+        '    return `Blob ${inspect({\n' +
+        '      size: this.size,\n' +
+        '      type: this.type,\n' +
+        '    }, opts)}`;\n' +
+        '  }\n' +
+        '\n' +
+        '  [kClone]() {\n' +
+        '    if (this[kNotCloneable]) {\n' +
+        '      // We do not currently allow file-backed Blobs to be cloned or passed across\n' +
+        '      // worker threads.\n' +
+        "      throw new ERR_INVALID_STATE.TypeError('File-backed Blobs are not cloneable');\n" +
+        '    }\n' +
+        '    const handle = this[kHandle];\n' +
+        '    const type = this[kType];\n' +
+        '    const length = this[kLength];\n' +
+        '    return {\n' +
+        '      data: { handle, type, length },\n' +
+        "      deserializeInfo: 'internal/blob:ClonedBlob',\n" +
+        '    };\n' +
+        '  }\n' +
+        '\n' +
+        '  [kDeserialize]({ handle, type, length }) {\n' +
+        '    this[kHandle] = handle;\n' +
+        '    this[kType] = type;\n' +
+        '    this[kLength] = length;\n' +
+        '  }\n' +
+        '\n' +
+        '  /**\n' +
+        '   * @readonly\n' +
+        '   * @type {string}\n' +
+        '   */\n' +
+        '  get type() {\n' +
+        '    if (!isBlob(this))\n' +
+        "      throw new ERR_INVALID_THIS('Blob');\n" +
+        '    return this[kType];\n' +
+        '  }\n' +
+        '\n' +
+        '  /**\n' +
+        '   * @readonly\n' +
+        '   * @type {number}\n' +
+        '   */\n' +
+        '  get size() {\n' +
+        '    if (!isBlob(this))\n' +
+        "      throw new ERR_INVALID_THIS('Blob');\n" +
+        '    return this[kLength];\n' +
+        '  }\n' +
+        '\n' +
+        '  /**\n' +
+        '   * @param {number} [start]\n' +
+        '   * @param {number} [end]\n' +
+        '   * @param {string} [contentType]\n' +
+        '   * @returns {Blob}\n' +
+        '   */\n' +
+        "  slice(start = 0, end = this[kLength], contentType = '') {\n" +
+        '    if (!isBlob(this))\n' +
+        "      throw new ERR_INVALID_THIS('Blob');\n" +
+        '    if (start < 0) {\n' +
+        '      start = MathMax(this[kLength] + start, 0);\n' +
+        '    } else {\n' +
+        '      start = MathMin(start, this[kLength]);\n' +
+        '    }\n' +
+        '\n' +
+        '    if (end < 0) {\n' +
+        '      end = MathMax(this[kLength] + end, 0);\n' +
+        '    } else {\n' +
+        '      end = MathMin(end, this[kLength]);\n' +
+        '    }\n' +
+        '\n' +
+        '    contentType = `${contentType}`;\n' +
+        '    if (RegExpPrototypeExec(disallowedTypeCharacters, contentType) !== null) {\n' +
+        "      contentType = '';\n" +
+        '    } else {\n' +
+        '      contentType = StringPrototypeToLowerCase(contentType);\n' +
+        '    }\n' +
+        '\n' +
+        '    const span = MathMax(end - start, 0);\n' +
+        '\n' +
+        '    return createBlob(\n' +
+        '      this[kHandle].slice(start, start + span),\n' +
+        '      span,\n' +
+        '      contentType);\n' +
+        '  }\n' +
+        '\n' +
+        '  /**\n' +
+        '   * @returns {Promise<ArrayBuffer>}\n' +
+        '   */\n' +
+        '  arrayBuffer() {\n' +
+        '    if (!isBlob(this))\n' +
+        "      return PromiseReject(new ERR_INVALID_THIS('Blob'));\n" +
+        '\n' +
+        '    const { promise, resolve, reject } = createDeferredPromise();\n' +
+        '    const reader = this[kHandle].getReader();\n' +
+        '    const buffers = [];\n' +
+        '    const readNext = () => {\n' +
+        '      reader.pull((status, buffer) => {\n' +
+        '        if (status === 0) {\n' +
+        '          // EOS, concat & resolve\n' +
+        '          // buffer should be undefined here\n' +
+        '          resolve(concat(buffers));\n' +
+        '          return;\n' +
+        '        } else if (status < 0) {\n' +
+        '          // The read could fail for many different reasons when reading\n' +
+        '          // from a non-memory resident blob part (e.g. file-backed blob).\n' +
+        '          // The error details the system error code.\n' +
+        "          const error = lazyDOMException('The blob could not be read', 'NotReadableError');\n" +
+        '          reject(error);\n' +
+        '          return;\n' +
+        '        }\n' +
+        '        if (buffer !== undefined)\n' +
+        '          buffers.push(buffer);\n' +
+        '        queueMicrotask(() => readNext());\n' +
+        '      });\n' +
+        '    };\n' +
+        '    readNext();\n' +
+        '    return promise;\n' +
+        '  }\n' +
+        '\n' +
+        '  /**\n' +
+        '   * @returns {Promise<string>}\n' +
+        '   */\n' +
+        '  async text() {\n' +
+        '    if (!isBlob(this))\n' +
+        "      throw new ERR_INVALID_THIS('Blob');\n" +
+        '\n' +
+        '    dec ??= new TextDecoder();\n' +
+        '\n' +
+        '    return dec.decode(await this.arrayBuffer());\n' +
+        '  }\n' +
+        '\n' +
+        '  /**\n' +
+        '   * @returns {Promise<Uint8Array>}\n' +
+        '   */\n' +
+        '  bytes() {\n' +
+        '    if (!isBlob(this))\n' +
+        "      throw new ERR_INVALID_THIS('Blob');\n" +
+        '\n' +
+        '    return PromisePrototypeThen(\n' +
+        '      this.arrayBuffer(),\n' +
+        '      (buffer) => new Uint8Array(buffer));\n' +
+        '  }\n' +
+        '\n' +
+        '  /**\n' +
+        '   * @returns {ReadableStream}\n' +
+        '   */\n' +
+        '  stream() {\n' +
+        '    if (!isBlob(this))\n' +
+        "      throw new ERR_INVALID_THIS('Blob');\n" +
+        '\n' +
+        '    const reader = this[kHandle].getReader();\n' +
+        '    return new lazyReadableStream({\n' +
+        "      type: 'bytes',\n" +
+        '      start(c) {\n' +
+        '        // There really should only be one read at a time so using an\n' +
+        '        // array here is purely defensive.\n' +
+        '        this.pendingPulls = [];\n' +
+        '      },\n' +
+        '      pull(c) {\n' +
+        '        const { promise, resolve, reject } = createDeferredPromise();\n' +
+        '        this.pendingPulls.push({ resolve, reject });\n' +
+        '        const readNext = () => {\n' +
+        '          reader.pull((status, buffer) => {\n' +
+        '            // If pendingPulls is empty here, the stream had to have\n' +
+        "            // been canceled, and we don't really care about the result.\n" +
+        '            // We can simply exit.\n' +
+        '            if (this.pendingPulls.length === 0) {\n' +
+        '              return;\n' +
+        '            }\n' +
+        '            if (status === 0) {\n' +
+        '              // EOS\n' +
+        '              c.close();\n' +
+        '              // This is to signal the end for byob readers\n' +
+        '              // see https://streams.spec.whatwg.org/#example-rbs-pull\n' +
+        '              c.byobRequest?.respond(0);\n' +
+        '              const pending = this.pendingPulls.shift();\n' +
+        '              pending.resolve();\n' +
+        '              return;\n' +
+        '            } else if (status < 0) {\n' +
+        '              // The read could fail for many different reasons when reading\n' +
+        '              // from a non-memory resident blob part (e.g. file-backed blob).\n' +
+        '              // The error details the system error code.\n' +
+        "              const error = lazyDOMException('The blob could not be read', 'NotReadableError');\n" +
+        '              const pending = this.pendingPulls.shift();\n' +
+        '              c.error(error);\n' +
+        '              pending.reject(error);\n' +
+        '              return;\n' +
+        '            }\n' +
+        '            // ReadableByteStreamController.enqueue errors if we submit a 0-length\n' +
+        '            // buffer. We need to check for that here.\n' +
+        '            if (buffer !== undefined && buffer.byteLength !== 0) {\n' +
+        '              c.enqueue(new Uint8Array(buffer));\n' +
+        '            }\n' +
+        '            // We keep reading until we either reach EOS, some error, or we\n' +
+        '            // hit the flow rate of the stream (c.desiredSize).\n' +
+        '            queueMicrotask(() => {\n' +
+        '              if (c.desiredSize < 0) {\n' +
+        '                // A manual backpressure check.\n' +
+        '                if (this.pendingPulls.length !== 0) {\n' +
+        '                  // A case of waiting pull finished (= not yet canceled)\n' +
+        '                  const pending = this.pendingPulls.shift();\n' +
+        '                  pending.resolve();\n' +
+        '                }\n' +
+        '                return;\n' +
+        '              }\n' +
+        '              readNext();\n' +
+        '            });\n' +
+        '          });\n' +
+        '        };\n' +
+        '        readNext();\n' +
+        '        return promise;\n' +
+        '      },\n' +
+        '      cancel(reason) {\n' +
+        '        // Reject any currently pending pulls here.\n' +
+        '        for (const pending of this.pendingPulls) {\n' +
+        '          pending.reject(reason);\n' +
+        '        }\n' +
+        '        this.pendingPulls = [];\n' +
+        '      },\n' +
+        '    // We set the highWaterMark to 0 because we do not want the stream to\n' +
+        '    // start reading immediately on creation. We want it to wait until read\n' +
+        '    // is called.\n' +
+        '    }, new CountQueuingStrategy({ highWaterMark: 0 }));\n' +
+        '  }\n' +
+        '}'
+    },
+    validateStatus: '[function] function validateStatus(status) {\n' +
+      '    return status >= 200 && status < 300;\n' +
+      '  }',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'User-Agent': 'axios/1.7.9',
+      'Accept-Encoding': 'gzip, compress, deflate, br'
+    },
+    responseType: 'arraybuffer',
+    method: 'get',
+    url: 'https://github.com/hydralauncher/hydra-common-redist/raw/refs/heads/main/directx_Jun2010_redist.exe'
+  },
+  code: 'EHOSTUNREACH'
+}

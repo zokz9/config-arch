@@ -9,15 +9,21 @@
                 "folderUri": "file:///home/zokz/coding/c%2B%2B/opengl"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1748689392421"
+            }
+        ]
     },
-    "windowControlHeight": 35,
+    "windowControlHeight": 42,
     "profileAssociations": {
         "workspaces": {
             "file:///home/zokz/coding/c%2B%2B/opengl": "__default__profile__",
             "file:///home/zokz/coding/c%2B%2B/pattern": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1748689392421": "__default__profile__"
+        }
     },
     "theme": "vs-dark",
     "themeBackground": "#1f1f1f",
@@ -42,8 +48,8 @@
             "sideBarSide": "right",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
-            "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
             "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -58,7 +64,8 @@
                 "x": 25,
                 "y": 68,
                 "width": 1870,
-                "height": 987
+                "height": 987,
+                "zoomLevel": 1
             }
         },
         "openedWindows": []

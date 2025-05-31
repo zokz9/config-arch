@@ -1,0 +1,1650 @@
+[2025-05-04 20:02:26.510] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:02:26.513] [info]  (network)      get /catalogue/hot?take=12&skip=0 {} {}
+[2025-05-04 20:02:26.538] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:02:26.545] [info]  (network)      get /games/trending { language: 'ru' } {}
+[2025-05-04 20:02:28.733] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:02:28.734] [info]  (network)      200 get /catalogue/hot?take=12&skip=0 [
+  { title: 'Schedule I', shop: 'steam', objectId: '3164500' },
+  {
+    title: 'Clair Obscur: Expedition 33',
+    shop: 'steam',
+    objectId: '1903340'
+  },
+  {
+    title: 'Drive Beyond Horizons',
+    shop: 'steam',
+    objectId: '2625420'
+  },
+  {
+    title: 'The Last of Us™ Part II Remastered',
+    shop: 'steam',
+    objectId: '2531310'
+  },
+  {
+    title: 'Red Dead Redemption 2',
+    shop: 'steam',
+    objectId: '1174180'
+  },
+  { title: 'ELDEN RING', shop: 'steam', objectId: '1245620' },
+  {
+    title: 'The Last of Us™ Part I',
+    shop: 'steam',
+    objectId: '1888930'
+  },
+  { title: 'Cuphead', shop: 'steam', objectId: '268910' },
+  { title: 'Cyberpunk 2077', shop: 'steam', objectId: '1091500' },
+  {
+    title: 'The Elder Scrolls IV: Oblivion Remastered',
+    shop: 'steam',
+    objectId: '2623190'
+  },
+  { title: 'Raft', shop: 'steam', objectId: '648800' },
+  { title: 'God of War Ragnarök', shop: 'steam', objectId: '2322010' }
+]
+[2025-05-04 20:02:30.373] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:02:30.373] [info]  (network)      200 get /games/trending [
+  {
+    id: 33,
+    documentId: 'tefoa7k0xivr8ypcwk58mak9',
+    uri: '/game/steam/2623190?title=The Elder Scrolls IV: Oblivion Remastered',
+    background: 'https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2623190/library_hero.jpg',
+    logo: 'https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2623190/1507cb98b36badb1735fbdf19df0c1eb15acd1ed/logo.png',
+    description: 'The Elder Scrolls IV: Oblivion™ Remastered modernizes the 2006 Game of the Year with all new stunning visuals and refined gameplay. Explore the vast landscape of Cyrodiil like never before and stop the forces of Oblivion from overtaking the land in one of the greatest RPGs ever from the award-winning Bethesda Game Studios.',
+    createdAt: '2025-01-01T13:10:31.168Z',
+    updatedAt: '2025-04-23T08:09:00.906Z',
+    publishedAt: '2025-04-23T08:09:00.941Z',
+    locale: 'ru'
+  }
+]
+[2025-05-04 20:02:31.584] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:02:31.585] [info]  (network)      get /features null {}
+[2025-05-04 20:02:32.568] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:02:32.572] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:04:44.408] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:04:44.414] [info]  (network)      put /download-sources undefined {
+  objectIds: [
+    '1261040', '2890830', '3023470', '3295160', '365360',  '660880',
+    '1007870', '3339410', '3557230', '1179580', '1371980', '2200560',
+    '113200',  '250900',  '1080290', '1302420', '2795580', '3006140',
+    '3083890', '527150',  '952700',  '1018110', '2797350', '3228590',
+    '2254890', '244850',  '1901360', '2020540', '2110740', '3010200',
+    '1558760', '1574240', '1044720', '1876590', '2006570', '511230',
+    '1105670', '275530',  '1279810', '1481170', '1622450', '2880970',
+    '899770',  '1903340', '1222670', '1430540', '1481340', '1721060',
+    '2365550', '1750030', '3278480', '2183900', '2490930', '3425720',
+    '602960',  '2568050', '61500',   '1566990', '1669000', '2618190',
+    '2980690', '203770',  '1158310', '1527950', '257510',  '2806640',
+    '792470',  '2878960', '1167630', '2256940', '699130',  '497060',
+    '497380',  '3396850', '1340990', '2186680', '271590',  '1854900',
+    '2117300', '3240220', '1534840', '810200',  '1569580', '2931340',
+    '3368230', '2144640', '2443090', '2727210', '528580',  '690830',
+    '1604030', '2535800', '3551060', '228280',  '257350',  '2810370',
+    '1486920', '2680550', '2966850', '1887840',
+    ... 3548 more items
+  ]
+}
+[2025-05-04 20:04:45.084] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:04:45.091] [info]  (network)      200 put /download-sources {
+  fingerprint: 'd79bc63651d50536353b4acc42b98083a7246f58299d94173aa7c34c4c9ae29e'
+}
+[2025-05-04 20:05:03.332] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:03.333] [info]  (network)      put /download-sources undefined {
+  objectIds: [
+    '1422130', '3023470', '3295160', '3273290', '2019760', '930410',
+    '1430540', '1481340', '1712700', '1790880', '2228280', '1484280',
+    '298480',  '1551120', '1674830', '2535800', '3551060', '2452820',
+    '411880',  '1904880', '3199890', '3664510', '1034140', '2183830',
+    '301280',  '1373850', '1488400', '2518410', '2216190', '2820020',
+    '703600',  '1280930', '1363810', '1522190', '1566990', '1768480',
+    '2691830', '2980690', '9960',    '260550',  '1816530', '1917850',
+    '1942330', '2376540', '2393880', '2405060', '1872520', '3281090',
+    '1604030', '1062520', '3278480', '3476060', '1576190', '2272900',
+    '2905630', '2707070', '1205970', '2618190', '768200',  '553260',
+    '1819300', '1902790', '2727700', '2298690', '3396850', '2055050',
+    '269670',  '660880',  '1007870', '1714350', '2078230', '3339410',
+    '1080290', '1302420', '2113030', '2410170', '2795580', '3006140',
+    '3083890', '1164910', '1839430', '2335220', '1750770', '2351330',
+    '1286580', '933390',  '1752260', '2430410', '1527950', '2490930',
+    '3425720', '975410',  '1862960', '2511780', '203770',  '1158310',
+    '578800',  '3049990', '3270240', '1515230',
+    ... 6817 more items
+  ]
+}
+[2025-05-04 20:05:03.899] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:03.903] [info]  (network)      200 put /download-sources {
+  fingerprint: 'bf278ca66599e02ea6a80c018d8cd89ced9d8faa65d156a21d6a2aac27017521'
+}
+[2025-05-04 20:05:11.526] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:11.527] [info]  (network)      post /catalogue/search undefined {
+  title: '',
+  downloadSourceFingerprints: [],
+  tags: [],
+  publishers: [],
+  genres: [],
+  developers: [],
+  take: 20,
+  skip: 0
+}
+[2025-05-04 20:05:11.910] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:11.910] [info]  (network)      200 post /catalogue/search {
+  count: 135236,
+  edges: [
+    {
+      id: 'zglqqVnB',
+      objectId: '1790600',
+      title: 'DRAGON BALL: Sparking! ZERO',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:40:21.352Z',
+      installCount: 352399,
+      achievementCount: 50,
+      iconHash: '2d1c57d795bb393289b0b73612363804d917f096',
+      achievementsPointsTotal: 70610,
+      developer: 'Spike Chunsoft Co., Ltd.',
+      genres: [ 'Action' ],
+      publisher: 'Bandai Namco Entertainment',
+      reviewScore: 51276,
+      tags: [
+        '4085', '19',   '3859',
+        '6506', '7368', '1743',
+        '1775', '3993', '6915',
+        '4182', '3878', '4191',
+        '3968', '1697', '4975',
+        '1685', '6730', '4106',
+        '1695', '4777'
+      ]
+    },
+    {
+      id: 'xgWb5eop',
+      objectId: '1174180',
+      title: 'Red Dead Redemption 2',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:39:47.920Z',
+      installCount: 297128,
+      achievementCount: 51,
+      iconHash: '5bf6edd7efb1110b457da905e7ac696c6c619ed1',
+      achievementsPointsTotal: 91780,
+      developer: 'Rockstar Games',
+      genres: [ 'Action', 'Adventure' ],
+      publisher: 'Rockstar Games',
+      reviewScore: 607446,
+      tags: [
+        '1695', '1742', '1647',
+        '21',   '3859', '19',
+        '4175', '4182', '1774',
+        '4166', '6041', '5411',
+        '5611', '3814', '1756',
+        '1697', '4345', '3810',
+        '3839', '1663'
+      ]
+    },
+    {
+      id: 'yovrmJoV',
+      objectId: '1245620',
+      title: 'ELDEN RING',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:40:26.500Z',
+      installCount: 258262,
+      achievementCount: 42,
+      iconHash: '2e048bfc2073ca30804ed5b8c454a9ca0e2f98de',
+      achievementsPointsTotal: 36790,
+      developer: 'FromSoftware, Inc.',
+      genres: [ 'Action', 'RPG' ],
+      publisher: 'FromSoftware, Inc., Bandai Namco Entertainment',
+      reviewScore: 898364,
+      tags: [
+        '29482', '1695', '4604',
+        '122',   '4026', '4231',
+        '1697',  '3859', '1684',
+        '4182',  '3843', '19',
+        '1685',  '4166', '1775',
+        '1756',  '4667', '4191',
+        '5350',  '4747'
+      ]
+    },
+    {
+      id: 'WKq0Yd9n',
+      objectId: '2322010',
+      title: 'God of War Ragnarök',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:38:29.901Z',
+      installCount: 192441,
+      achievementCount: 48,
+      iconHash: '3c7629ad56ac95b1314512861a01bfb186701c97',
+      achievementsPointsTotal: 56570,
+      developer: 'Santa Monica Studio, Jetpack Interactive',
+      genres: [ 'Action', 'Adventure', 'RPG' ],
+      publisher: 'PlayStation Publishing LLC',
+      reviewScore: 22086,
+      tags: [
+        '19',   '21',    '4106',
+        '122',  '1646',  '4231',
+        '4145', '1697',  '16094',
+        '4191', '4166',  '1742',
+        '5608', '1684',  '5984',
+        '4182', '3993',  '1695',
+        '4345', '29482'
+      ]
+    },
+    {
+      id: '6oxywdg9',
+      objectId: '271590',
+      title: 'Grand Theft Auto V',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:39:51.850Z',
+      installCount: 190495,
+      achievementCount: 77,
+      iconHash: '06b52e09e284542dd99eea45f9f85f68440dbcaf',
+      achievementsPointsTotal: 134190,
+      developer: 'Rockstar North',
+      genres: [ 'Action', 'Adventure' ],
+      publisher: 'Rockstar Games',
+      reviewScore: 1481887,
+      tags: [
+        '1695', '19',      '3859',
+        '6378', '1100687', '1697',
+        '3839', '5611',    '1774',
+        '21',   '4182',    '3814',
+        '699',  '1685',    '3810',
+        '4166', '4136',    '1756',
+        '1719', '1669'
+      ]
+    },
+    {
+      id: 'anM1x2nE',
+      objectId: '1888930',
+      title: 'The Last of Us™ Part I',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:40:24.804Z',
+      installCount: 172381,
+      achievementCount: 29,
+      iconHash: 'd96ad9122c1a297b00efe2f8ae911be21c7b66c1',
+      achievementsPointsTotal: 46960,
+      developer: 'Naughty Dog LLC, Iron Galaxy Studios',
+      genres: [ 'Action', 'Adventure' ],
+      publisher: 'PlayStation Publishing LLC',
+      reviewScore: 44397,
+      tags: [
+        '1742', '3835', '1774',
+        '4106', '1667', '1659',
+        '3814', '1697', '1662',
+        '4182', '19',   '3978',
+        '4145', '4064', '21',
+        '5608', '4166', '5984',
+        '5708', '7948'
+      ]
+    },
+    {
+      id: 'NoZjAwo2',
+      objectId: '1817070',
+      title: 'Marvel’s Spider-Man Remastered',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:36:55.719Z',
+      installCount: 168625,
+      achievementCount: 78,
+      iconHash: '17c356390aee122b2bb73d3e11a4654ed8dd5927',
+      achievementsPointsTotal: 86630,
+      developer: 'Insomniac Games, Nixxes Software',
+      genres: [ 'Action', 'Adventure', 'Casual' ],
+      publisher: 'PlayStation Publishing LLC',
+      reviewScore: 102436,
+      tags: [
+        '1695', '1671', '19',
+        '4182', '1742', '21',
+        '3993', '4106', '1697',
+        '4036', '1751', '3834',
+        '5411', '1687', '1756',
+        '4136', '4166', '3942',
+        '3859', '7481'
+      ]
+    },
+    {
+      id: 'wgLZYLK2',
+      objectId: '268910',
+      title: 'Cuphead',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:39:22.461Z',
+      installCount: 159971,
+      achievementCount: 42,
+      iconHash: 'a93a66a6089ceb8e34243335ac1222f23df5f5f5',
+      achievementsPointsTotal: 75220,
+      developer: 'Studio MDHR Entertainment Inc.',
+      genres: [ 'Action', 'Indie' ],
+      publisher: 'Studio MDHR Entertainment Inc.',
+      reviewScore: 169702,
+      tags: [
+        '4026', '4562',  '1685',
+        '1625', '1756',  '3841',
+        '3871', '6815',  '3859',
+        '492',  '4004',  '4195',
+        '4885', '19',    '4255',
+        '4182', '3798',  '4305',
+        '4136', '29482'
+      ]
+    },
+    {
+      id: 'aKBA2Znd',
+      objectId: '1593500',
+      title: 'God of War',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:40:08.564Z',
+      installCount: 141327,
+      achievementCount: 37,
+      iconHash: '13a56d5a2f9248b14f6d2cc0486e2b05b19d9554',
+      achievementsPointsTotal: 40960,
+      developer: 'Santa Monica Studio, Jetpack Interactive',
+      genres: [ 'Action', 'Adventure', 'RPG' ],
+      publisher: 'PlayStation Publishing LLC',
+      reviewScore: 144441,
+      tags: [
+        '19',   '4182',  '1742',
+        '21',   '16094', '3993',
+        '1697', '122',   '1646',
+        '4667', '1695',  '1684',
+        '3834', '4166',  '4345',
+        '4231', '29482', '5608',
+        '4191', '6730'
+      ]
+    },
+    {
+      id: '1gD0d4gG',
+      objectId: '1091500',
+      title: 'Cyberpunk 2077',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:39:10.383Z',
+      installCount: 118921,
+      achievementCount: 57,
+      iconHash: '3d642f225dfb69962f5d8d36f7868caf9febf90d',
+      achievementsPointsTotal: 89270,
+      developer: 'CD PROJEKT RED',
+      genres: [ 'RPG' ],
+      publisher: 'CD PROJEKT RED',
+      reviewScore: 572463,
+      tags: [
+        '4115', '1695', '6650',
+        '122',  '4182', '3942',
+        '1663', '4295', '5611',
+        '1742', '3839', '4166',
+        '3834', '19',   '4667',
+        '1756', '4231', '21',
+        '4747', '9204'
+      ]
+    },
+    {
+      id: 'xgWZ58op',
+      objectId: '990080',
+      title: 'Hogwarts Legacy',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:37:13.694Z',
+      installCount: 116788,
+      achievementCount: 45,
+      iconHash: 'a734421278d0fe3aadea50dc72c45630afe2e891',
+      achievementsPointsTotal: 62270,
+      developer: 'Avalanche Software',
+      genres: [ 'Action', 'Adventure', 'RPG' ],
+      publisher: 'Warner Bros. Games',
+      reviewScore: 256286,
+      tags: [
+        '4057', '1684', '1695',
+        '4182', '21',   '122',
+        '4747', '3834', '1742',
+        '1697', '4106', '4166',
+        '4231', '19',   '3993',
+        '6426', '1664', '1756',
+        '4342', '5350'
+      ]
+    },
+    {
+      id: 'VKyvr4ov',
+      objectId: '431960',
+      title: 'Wallpaper Engine',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:40:00.532Z',
+      installCount: 116585,
+      achievementCount: 17,
+      iconHash: '5b3bd0d9e5800b933245b5308089a688804787eb',
+      achievementsPointsTotal: 29950,
+      developer: 'Wallpaper Engine Team',
+      genres: [
+        'Casual',
+        'Indie',
+        'Animation & Modeling',
+        'Design & Illustration',
+        'Photo Editing',
+        'Utilities'
+      ],
+      publisher: 'Wallpaper Engine Team',
+      reviewScore: 851742,
+      tags: [
+        '5611',  '87',     '4085',
+        '8013',  '84',     '872',
+        '24904', '3839',   '492',
+        '10397', '4726',   '19',
+        '4182',  '4136',   '493',
+        '809',   '3810',   '1667',
+        '13906', '150626'
+      ]
+    },
+    {
+      id: 'Aga5e3gx',
+      objectId: '2215430',
+      title: "Ghost of Tsushima DIRECTOR'S CUT",
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:40:21.427Z',
+      installCount: 110595,
+      achievementCount: 77,
+      iconHash: '5ba81045bcf5da2a289fdba801f5a639758663d4',
+      achievementsPointsTotal: 108330,
+      developer: 'Sucker Punch Productions, Nixxes Software',
+      genres: [ 'Action', 'Adventure' ],
+      publisher: 'PlayStation Publishing LLC',
+      reviewScore: 55697,
+      tags: [
+        '19',   '1695', '21',
+        '1742', '4182', '1687',
+        '3993', '1697', '1688',
+        '4106', '4231', '29482',
+        '4345', '3987', '3859',
+        '4667', '4166', '3843',
+        '3834', '1685'
+      ]
+    },
+    {
+      id: 'QgA3y2KB',
+      objectId: '1326470',
+      title: 'Sons Of The Forest',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:37:00.877Z',
+      installCount: 110176,
+      achievementCount: 32,
+      iconHash: 'a1b0a6604ddae05512fc53d930838466784d4f3c',
+      achievementsPointsTotal: 52650,
+      developer: 'Endnight Games Ltd',
+      genres: [ 'Action', 'Adventure', 'Indie', 'Simulation' ],
+      publisher: 'Newnight',
+      reviewScore: 189505,
+      tags: [
+        '1662', '1695', '3859',
+        '1685', '3978', '1667',
+        '1702', '3839', '3834',
+        '1643', '21',   '4182',
+        '4166', '4106', '3810',
+        '19',   '599',  '9204',
+        '493'
+      ]
+    },
+    {
+      id: 'GKQPGdn9',
+      objectId: '2050650',
+      title: 'Resident Evil 4',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:40:11.591Z',
+      installCount: 109925,
+      achievementCount: 46,
+      iconHash: 'ef2c95ca72f92116c5d76e0d1478ecf884cd32e4',
+      achievementsPointsTotal: 56000,
+      developer: 'CAPCOM Co., Ltd.',
+      genres: [ 'Action', 'Adventure' ],
+      publisher: 'CAPCOM Co., Ltd.',
+      reviewScore: 169924,
+      tags: [
+        '1667', '19',    '3978',
+        '3814', '4182',  '1659',
+        '1742', '1662',  '4145',
+        '4342', '5708',  '4175',
+        '8945', '4345',  '1697',
+        '21',   '4667',  '4106',
+        '1721', '21978'
+      ]
+    },
+    {
+      id: 'VKyeZWKv',
+      objectId: '1811260',
+      title: 'EA SPORTS™ FIFA 23',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:40:02.001Z',
+      installCount: 108088,
+      achievementCount: 39,
+      iconHash: '4d6028e21416035a489e483278bddba622a4f8b8',
+      achievementsPointsTotal: 73750,
+      developer: 'EA Canada &amp; EA Romania',
+      genres: [ 'Simulation', 'Sports' ],
+      publisher: 'Electronic Arts',
+      reviewScore: 20920,
+      tags: [
+        '1254546', '701',   '7481',
+        '1775',    '12472', '599',
+        '5711',    '4175',  '1697',
+        '9204',    '3859',  '7368',
+        '3841',    '1685',  '4182',
+        '3843',    '6730',  '113',
+        '44868'
+      ]
+    },
+    {
+      id: 'GKQ7xag9',
+      objectId: '648800',
+      title: 'Raft',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:38:47.665Z',
+      installCount: 105174,
+      achievementCount: 104,
+      iconHash: '5d02897be07521435a513bdde6505b5e1177e3fa',
+      achievementsPointsTotal: 162100,
+      developer: 'Redbeet Interactive',
+      genres: [ 'Adventure', 'Indie', 'Simulation' ],
+      publisher: 'Axolot Games',
+      reviewScore: 298140,
+      tags: [
+        '1662', '3859', '1100689',
+        '1685', '1702', '1695',
+        '1643', '3843', '21',
+        '3810', '3839', '4182',
+        '9157', '493',  '599',
+        '19',   '492',  '9',
+        '128'
+      ]
+    },
+    {
+      id: 'wo6alRKY',
+      objectId: '1551360',
+      title: 'Forza Horizon 5',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:38:12.579Z',
+      installCount: 103765,
+      achievementCount: 164,
+      iconHash: 'cf2cee9ce3d0d8688d0c661e5363aabd1f359c3a',
+      achievementsPointsTotal: 326650,
+      developer: 'Playground Games',
+      genres: [ 'Action', 'Adventure', 'Racing', 'Simulation', 'Sports' ],
+      publisher: 'Xbox Game Studios',
+      reviewScore: 171049,
+      tags: [
+        '699',  '1695',    '1644',
+        '3859', '1100687', '4175',
+        '599',  '21',      '1773',
+        '3834', '3839',    '1685',
+        '701',  '1775',    '4166',
+        '3843', '4182',    '5411',
+        '19',   '21978'
+      ]
+    },
+    {
+      id: 'aKBDE3Xg',
+      objectId: '2668510',
+      title: 'Red Dead Redemption',
+      shop: 'steam',
+      createdAt: '2024-10-29T17:28:07.349Z',
+      updatedAt: '2025-02-08T23:39:01.957Z',
+      installCount: 97504,
+      achievementCount: 51,
+      iconHash: '13dcc8c3726aebd6431596f8d8adf5d6e3ead73d',
+      achievementsPointsTotal: 95750,
+      developer: 'Rockstar Games, Double Eleven',
+      genres: [ 'Action' ],
+      publisher: 'Rockstar Games',
+      reviewScore: 8359,
+      tags: [
+        '1695', '1647',  '1742',
+        '4182', '19',    '1659',
+        '4106', '3814',  '4166',
+        '4191', '1756',  '1697',
+        '21',   '1774',  '5094',
+        '1693', '12095', '4345',
+        '5228', '6650'
+      ]
+    },
+    {
+      id: 'Romk8YLn',
+      objectId: '2651280',
+      title: "Marvel's Spider-Man 2",
+      shop: 'steam',
+      createdAt: '2024-10-29T17:28:07.349Z',
+      updatedAt: '2025-02-08T23:40:26.941Z',
+      installCount: 91760,
+      achievementCount: 43,
+      iconHash: 'caacb46c5fff724d6d0a0f3b4512df6347b3de7c',
+      achievementsPointsTotal: 71140,
+      developer: 'Insomniac Games, Nixxes Software',
+      genres: [ 'Action', 'Adventure' ],
+      publisher: 'PlayStation Publishing LLC',
+      reviewScore: 8985,
+      tags: [
+        '19',    '1671', '1695',
+        '4182',  '21',   '4106',
+        '44868', '1697', '1742',
+        '4853',  '1751', '4754',
+        '4166',  '1756', '1687',
+        '7481',  '3834', '4158',
+        '3859',  '3993'
+      ]
+    }
+  ]
+}
+[2025-05-04 20:05:15.251] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:15.252] [info]  (network)      post /catalogue/search undefined {
+  title: 'u',
+  downloadSourceFingerprints: [],
+  tags: [],
+  publishers: [],
+  genres: [],
+  developers: [],
+  take: 20,
+  skip: 0
+}
+[2025-05-04 20:05:15.427] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:15.427] [info]  (network)      200 post /catalogue/search {
+  count: 3752,
+  edges: [
+    {
+      id: 'VKy0zqGn',
+      objectId: '1111770',
+      title: 'UP UP UP UP',
+      shop: 'steam',
+      createdAt: '2025-04-25T03:00:32.391Z',
+      updatedAt: '2025-04-25T03:00:32.391Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '944b709fcadd6984cb2c7cbf51f3dc827c952106',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: [],
+      shopData: null
+    },
+    {
+      id: '7nNJJMJn',
+      objectId: '2392290',
+      title: 'UP UP UP',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-01-03T20:08:13.453Z',
+      installCount: 12,
+      achievementCount: 0,
+      iconHash: 'd9e6151aad731e0155a7a3ac0d4c6aa173cc0cd6',
+      achievementsPointsTotal: 0,
+      developer: 'BGS Games Inc.',
+      genres: [ 'Casual', 'Strategy' ],
+      publisher: 'BGS Games Inc.',
+      reviewScore: 0,
+      tags: [
+        '597',    '4562',   '1664',
+        '176733', '5611',   '7208',
+        '6650',   '4434',   '9',
+        '1665',   '615955', '3871',
+        '4085',   '5608',   '4947',
+        '6129',   '4182',   '7250'
+      ]
+    },
+    {
+      id: 'VKGxV4o4',
+      objectId: '869930',
+      title: 'Up And Up',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '4d4cb8627b315be14f407109e654c5059fd9a443',
+      achievementsPointsTotal: 0,
+      developer: 'Junitre Works',
+      genres: [ 'Casual', 'Indie' ],
+      publisher: 'Junitre Works',
+      reviewScore: -1,
+      tags: [ '492', '597', '1625', '3798' ]
+    },
+    {
+      id: 'GKQx39n9',
+      objectId: '470220',
+      title: 'UNO',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:25:30.054Z',
+      installCount: 2531,
+      achievementCount: 0,
+      iconHash: '2fcfa3032873a60ddb603304feeb87091f2a305f',
+      achievementsPointsTotal: 0,
+      developer: 'Ubisoft Entertainment',
+      genres: [ 'Casual' ],
+      publisher: 'Ubisoft Entertainment',
+      reviewScore: 22750,
+      tags: [
+        '1666', '3859', '17389',
+        '1770', '597',  '5350',
+        '4136', '9',    '1685',
+        '3843', '4182', '1693',
+        '7782', '7368', '4711',
+        '5711', '19',   '7178',
+        '1775', '3878'
+      ]
+    },
+    {
+      id: 'RnRMz2qg',
+      objectId: '3048690',
+      title: 'Up Up & Down!',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: 'a0c386fe0ebe8aa76cbaf88997655241f1c4cc9b',
+      achievementsPointsTotal: 0,
+      developer: 'Up & Down',
+      genres: [ 'Adventure', 'Casual', 'Indie', 'Simulation', 'Sports' ],
+      publisher: 'Up & Down',
+      reviewScore: 8,
+      tags: [
+        '21',   '597',     '599',
+        '701',  '872',     '1773',
+        '4158', '1023537', '4885',
+        '5652', '1720',    '4400',
+        '4562', '1751',    '1714',
+        '4252', '1697',    '4182',
+        '492'
+      ]
+    },
+    {
+      id: '7nNJrjdn',
+      objectId: '3106560',
+      title: 'Uncle Unco',
+      shop: 'steam',
+      createdAt: '2024-11-11T18:01:27.839Z',
+      updatedAt: '2024-12-22T02:50:37.034Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: 'ffb113f0cc5230d5c300f45b0c9739866a76390d',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: 'Aga6Z2mn',
+      objectId: '2723660',
+      title: 'Uber Urban',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-11-30T07:44:20.721Z',
+      installCount: 0,
+      achievementCount: 11,
+      iconHash: 'e5080ad5d7dc577d0f9b94ab4871d3457fc7b106',
+      achievementsPointsTotal: 26800,
+      developer: 'J.F',
+      genres: [ 'Casual', 'Indie', 'Simulation', 'Strategy' ],
+      publisher: 'J.F',
+      reviewScore: 5,
+      tags: [
+        '4328',  '3810', '1643',
+        '5125',  '599',  '4695',
+        '12472', '4191', '5851',
+        '4845',  '597',  '9',
+        '6426',  '492',  '493',
+        '1695',  '4252', '4182',
+        '26921'
+      ]
+    },
+    {
+      id: 'WKq0lqen',
+      objectId: '2504630',
+      title: 'Ur',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: 'b68966d36f6e3520c197e36e9fb9025e98bae75b',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: '1gDkG35o',
+      objectId: '3369920',
+      title: 'upg',
+      shop: 'steam',
+      createdAt: '2024-12-18T06:00:29.523Z',
+      updatedAt: '2024-12-18T06:00:29.523Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '3c262771ab37d8ac6439e987b97bcd409fdd3b93',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: '2nd4exnA',
+      objectId: '1585040',
+      title: 'Death Upon Us',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-12-29T21:22:30.427Z',
+      installCount: 0,
+      achievementCount: 12,
+      iconHash: 'dfdb037e2e915476c37e258ddc7372ecd382d657',
+      achievementsPointsTotal: 27480,
+      developer: 'Julian Lewis',
+      genres: [ 'Action', 'Adventure', 'Indie', 'Strategy' ],
+      publisher: 'Julian Lewis',
+      reviewScore: -1,
+      tags: [
+        '19',   '1774', '1663',
+        '4175', '1659', '1695',
+        '3841', '9',    '4345',
+        '492',  '21',   '4182',
+        '4255', '4191', '3839',
+        '1667', '3835', '3978',
+        '3993', '4667'
+      ]
+    },
+    {
+      id: 'ZgYrdNnX',
+      objectId: '1556150',
+      title: 'UPH!',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '612fd89f798ec99121c8e2b1cacf3d396dbaf336',
+      achievementsPointsTotal: 0,
+      developer: 'Abdullah Akbas, Gorkem Kutlu',
+      genres: [ 'Action', 'Adventure', 'Casual' ],
+      publisher: 'TBV',
+      reviewScore: 13,
+      tags: [
+        '19',   '597',  '21',
+        '1625', '5379', '3877',
+        '3871', '4094', '3964',
+        '1684', '7250', '4182'
+      ]
+    },
+    {
+      id: '3oX7XD2K',
+      objectId: '2323550',
+      title: 'UDO',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 21,
+      iconHash: '39e86eaea56e57f088c8da763958a7c5480d3b49',
+      achievementsPointsTotal: 36750,
+      developer: 'Blue Firefly Studio',
+      genres: [ 'Adventure', 'Indie' ],
+      publisher: 'Short N Sweet',
+      reviewScore: 11,
+      tags: [
+        '3834', '4295', '21006',
+        '3798', '5379', '1773',
+        '6276', '3871', '7250',
+        '3964', '3942', '5981',
+        '21',   '4004', '4182',
+        '492',  '1734', '3877'
+      ]
+    },
+    {
+      id: 'MKzW3Nox',
+      objectId: '1795370',
+      title: 'UZO',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '9db67b186dc53d17d72af431037a9e482930b892',
+      achievementsPointsTotal: 0,
+      developer: 'Nigel Gregory',
+      genres: [ 'Indie' ],
+      publisher: 'cavegames.uk',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: 'NoZQE7K2',
+      objectId: '1195140',
+      title: 'URG',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-01-07T20:18:51.588Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '9469d5e965aff228a9dd5604db48fea9565316b7',
+      achievementsPointsTotal: 0,
+      developer: 'Jani Penttinen',
+      genres: [ 'Action', 'Casual' ],
+      publisher: 'Utopos Games',
+      reviewScore: 4,
+      tags: [
+        '19',   '597',  '3798',
+        '4758', '1773', '1774',
+        '4637', '4255', '4975',
+        '4191', '4305', '4115',
+        '3916', '3942', '4182',
+        '1755', '1685', '3841',
+        '4004', '4840'
+      ]
+    },
+    {
+      id: 'kn7WmEne',
+      objectId: '895850',
+      title: 'URO',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 14,
+      iconHash: 'e5ace3c0a569248b4212dd1d78d7ee02d3c3b83a',
+      achievementsPointsTotal: 21310,
+      developer: 'AECRNIA',
+      genres: [ 'Adventure', 'Casual', 'Indie' ],
+      publisher: 'AnelaGamesStudio',
+      reviewScore: 4,
+      tags: [
+        '597',  '492',  '21',
+        '1752', '1621', '4085',
+        '4115', '4726', '7208',
+        '1742', '1684', '1756',
+        '3871', '19',   '4166',
+        '4182', '4305', '4975',
+        '5350', '7948'
+      ]
+    },
+    {
+      id: 'Rn3PqPYK',
+      objectId: '2837160',
+      title: 'USG',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 2,
+      iconHash: 'b49daa37add3b17e39827fc0c48321b62e20794b',
+      achievementsPointsTotal: 3600,
+      developer: 'Pollapee',
+      genres: [ 'Action', 'Indie' ],
+      publisher: 'Pollapee',
+      reviewScore: 6,
+      tags: [
+        '4255', '19',   '6815',
+        '1710', '4885', '3871',
+        '4637', '4791', '1774',
+        '1673', '492',  '1684',
+        '5765', '5154', '4182'
+      ]
+    },
+    {
+      id: 'vnrOR8jK',
+      objectId: '3568290',
+      title: 'UZG',
+      shop: 'steam',
+      createdAt: '2025-03-19T03:00:47.329Z',
+      updatedAt: '2025-03-19T03:00:47.329Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '3c70a562e69c4b6205e4762e65608977f82aa748',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: [],
+      shopData: '{}'
+    },
+    {
+      id: 'NoZbZp5o',
+      objectId: '3134540',
+      title: 'UFO',
+      shop: 'steam',
+      createdAt: '2024-10-21T23:28:49.112Z',
+      updatedAt: '2025-01-02T20:54:09.703Z',
+      installCount: 0,
+      achievementCount: 17,
+      iconHash: '0314fafc36418ed10f222288ef344faaa755945f',
+      achievementsPointsTotal: 19331,
+      developer: 'jiangli',
+      genres: [ 'Indie' ],
+      publisher: 'gooodmon',
+      reviewScore: 23,
+      tags: [
+        '597',    '122',  '11014',
+        '9551',   '1698', '615955',
+        '379975', '3871', '4400',
+        '31275',  '1714', '4252',
+        '5984',   '1673', '1684',
+        '5186',   '4947', '5673',
+        '16094',  '4137'
+      ]
+    },
+    {
+      id: 'zgl4vmgB',
+      objectId: '1011300',
+      title: 'UNI',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: 'a45626958cc4df5edfe3b878e8aabd6379da5b8e',
+      achievementsPointsTotal: 0,
+      developer: 'Game Museum',
+      genres: [ 'Action', 'Casual', 'Indie' ],
+      publisher: 'Game Museum',
+      reviewScore: 81,
+      tags: [ '492', '19', '597', '8093', '7178', '7368' ]
+    },
+    {
+      id: 'kn7xm5rK',
+      objectId: '3023930',
+      title: 'UFL',
+      shop: 'steam',
+      createdAt: '2024-10-21T23:28:49.112Z',
+      updatedAt: '2025-01-02T00:40:12.191Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '23aca04598175615a84c2a7bae483e108c85683b',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    }
+  ]
+}
+[2025-05-04 20:05:17.414] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:17.415] [info]  (network)      post /catalogue/search undefined {
+  title: 'undertale',
+  downloadSourceFingerprints: [],
+  tags: [],
+  publishers: [],
+  genres: [],
+  developers: [],
+  take: 20,
+  skip: 0
+}
+[2025-05-04 20:05:17.588] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:17.588] [info]  (network)      200 post /catalogue/search {
+  count: 3752,
+  edges: [
+    {
+      id: 'VKG79LK4',
+      objectId: '391540',
+      title: 'Undertale',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T23:39:54.518Z',
+      installCount: 23515,
+      achievementCount: 0,
+      iconHash: '60e1002598c4aacebe1e0818964117d1d8da13af',
+      achievementsPointsTotal: 0,
+      developer: 'tobyfox',
+      genres: [ 'Indie', 'RPG' ],
+      publisher: 'tobyfox',
+      reviewScore: 250228,
+      tags: [
+        '1756', '1742', '6426',
+        '6971', '3964', '4136',
+        '122',  '4182', '492',
+        '1719', '3871', '4711',
+        '4885', '4726', '10397',
+        '4004', '4342', '1721',
+        '9551', '1667'
+      ]
+    },
+    {
+      id: '3oXEEjg4',
+      objectId: '653050',
+      title: "Undertaker's",
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-01-17T20:27:04.067Z',
+      installCount: 0,
+      achievementCount: 7,
+      iconHash: 'd7613d42151c901f1cc0d3df39511c2d1209674e',
+      achievementsPointsTotal: 11010,
+      developer: 'Hyeson',
+      genres: [ 'Indie', 'Simulation', 'Strategy' ],
+      publisher: 'Hyeson',
+      reviewScore: 0,
+      tags: [
+        '599',   '492',
+        '9',     '4182',
+        '4695',  '4845',
+        '12472', '3871'
+      ]
+    },
+    {
+      id: 'wgLDDmg2',
+      objectId: '1967680',
+      title: 'Undertow',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-12-17T23:54:53.811Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '87014c41f425fd93b6e144b0aa2a13b9c9435d93',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: 'GKP0Y1K7',
+      objectId: '1087190',
+      title: 'Underture',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-12-17T23:54:46.863Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '2c36e61bb5f05e292e39e3c44f918be6111f80f7',
+      achievementsPointsTotal: 0,
+      developer: 'Ben Schwartz',
+      genres: [ 'Casual', 'Free To Play' ],
+      publisher: 'Ben Schwartz',
+      reviewScore: 9,
+      tags: [ '113', '597', '21978' ]
+    },
+    {
+      id: '2ndv7xoA',
+      objectId: '2183220',
+      title: 'UNDERTUNNEL',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-12-01T21:51:19.064Z',
+      installCount: 1,
+      achievementCount: 0,
+      iconHash: '59dccda28c9146ad2b9ea7021d72c34f44dc0d2e',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: '0gVwl5nM',
+      objectId: '1729410',
+      title: "Earthling's Undertaking",
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-11-29T01:49:06.019Z',
+      installCount: 0,
+      achievementCount: 82,
+      iconHash: '2740b3b07ed952580d59742f884605f2ebeb6bd3',
+      achievementsPointsTotal: 152190,
+      developer: 'Masses Studio',
+      genres: [ 'Casual', 'Indie', 'RPG', 'Simulation', 'Strategy' ],
+      publisher: 'IndieArk',
+      reviewScore: 317,
+      tags: [
+        '122',   '16094', '4486',
+        '5984',  '1741',  '4325',
+        '599',   '21725', '4747',
+        '17305', '14139', '4182',
+        '597',   '21',    '3834',
+        '1684',  '3871',  '6915',
+        '4598',  '493'
+      ]
+    },
+    {
+      id: 'woOMqxAn',
+      objectId: '2457770',
+      title: 'UnderTheStars : 阿兰若',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: 'd0b80426ae71bc0cffa798645e226069254f4916',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: 'GKQ74wg9',
+      objectId: '656350',
+      title: 'UnderMine',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-06T16:53:37.124Z',
+      installCount: 219,
+      achievementCount: 96,
+      iconHash: '754f5bbe3f5cdffa6480c40ea8f76c553b37e571',
+      achievementsPointsTotal: 116000,
+      developer: 'Thorium',
+      genres: [ 'Action', 'Adventure', 'Indie', 'RPG' ],
+      publisher: 'Thorium',
+      reviewScore: 7487,
+      tags: [
+        '42804', '3964', '1720',
+        '122',   '19',   '492',
+        '21',    '4182', '4791',
+        '3871',  '5125', '1684',
+        '6426',  '4136', '5981',
+        '4004',  '1742', '3859'
+      ]
+    },
+    {
+      id: 'NoZbmyo2',
+      objectId: '250520',
+      title: 'UnderRail',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-03T17:42:12.058Z',
+      installCount: 64,
+      achievementCount: 55,
+      iconHash: '1df253262bb55b5998b8718e426bd39259f5b772',
+      achievementsPointsTotal: 100370,
+      developer: 'Stygian Software',
+      genres: [ 'Indie', 'RPG' ],
+      publisher: 'Stygian Software',
+      reviewScore: 4765,
+      tags: [
+        '122',  '3835', '5851',
+        '1677', '4474', '4325',
+        '492',  '4182', '3942',
+        '1695', '4166', '1702',
+        '3916', '4115', '4026',
+        '3964', '21',   '3834',
+        '3871', '3810'
+      ]
+    },
+    {
+      id: 'VKGDGlBo',
+      objectId: '3025290',
+      title: 'UNDERWARD',
+      shop: 'steam',
+      createdAt: '2024-10-29T17:28:07.349Z',
+      updatedAt: '2025-02-08T23:37:58.016Z',
+      installCount: 64,
+      achievementCount: 0,
+      iconHash: 'b416560962f267e7b541a68cdd67db73495a215b',
+      achievementsPointsTotal: 0,
+      developer: 'INTENSE',
+      genres: [ 'Action', 'Adventure', 'Indie' ],
+      publisher: 'INTENSE',
+      reviewScore: 227,
+      tags: [
+        '1667', '3834', '3843',
+        '3859', '1759', '4106',
+        '3839', '4136', '5125',
+        '4236', '19',   '1659',
+        '1687', '4064', '9541',
+        '21',   '1673', '3978',
+        '4295', '5673'
+      ]
+    },
+    {
+      id: 'zglA1A5n',
+      objectId: '2441700',
+      title: 'UNDERDOGS',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-01-10T09:32:21.782Z',
+      installCount: 56,
+      achievementCount: 21,
+      iconHash: 'e575c29c1502f89e611964b8ae8fc780764a0a02',
+      achievementsPointsTotal: 41530,
+      developer: 'One Hamsa',
+      genres: [ 'Action', 'Adventure', 'Indie', 'Simulation' ],
+      publisher: 'One Hamsa',
+      reviewScore: 2071,
+      tags: [
+        '4106', '21978', '3968',
+        '3810', '19',    '4667',
+        '3993', '21',    '3839',
+        '6506', '1743',  '7948',
+        '599',  '4747',  '42804',
+        '4821', '4345',  '4182'
+      ]
+    },
+    {
+      id: 'Rn3P7OOK',
+      objectId: '2682600',
+      title: 'Undergod',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-01-29T08:04:34.475Z',
+      installCount: 1,
+      achievementCount: 27,
+      iconHash: '6f85dcbc40efbf2d6d2954794699062537089b91',
+      achievementsPointsTotal: 63010,
+      developer: 'Linkas',
+      genres: [ 'Action', 'RPG', 'Early Access' ],
+      publisher: 'Sad Socket',
+      reviewScore: 24,
+      tags: [
+        '19',   '42804',
+        '1646', '5379',
+        '3871', '29482',
+        '493',  '9541',
+        '122',  '4342',
+        '4182', '15045'
+      ]
+    },
+    {
+      id: '6oxDxLo9',
+      objectId: '726160',
+      title: 'The Under',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-08T04:00:37.983Z',
+      installCount: 1,
+      achievementCount: 0,
+      iconHash: '5109662df242a06ac457c8703be7d7bf712fa5ba',
+      achievementsPointsTotal: 0,
+      developer: 'Iconic Games, Adham Jaber',
+      genres: [ 'Indie' ],
+      publisher: 'Iconic Games',
+      reviewScore: 3,
+      tags: [ '492', '1625' ]
+    },
+    {
+      id: 'wgLZmOLK',
+      objectId: '2824410',
+      title: 'Underdog',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-12-27T04:30:04.870Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '822345ce9839907584472d4cc3a8ed717fd677c3',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: 'kn76N8ge',
+      objectId: '1867760',
+      title: 'Underlab',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-09-12T22:47:03.448Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '5b87398d21665403a1bccd112ee8b4575046b561',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: 'wo5zN5g9',
+      objectId: '2070120',
+      title: 'Underway',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-12-20T03:21:23.439Z',
+      installCount: 0,
+      achievementCount: 0,
+      iconHash: '42766dabf8e9940ba86012db0ca9065acb309c81',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: 'vnr7x3Kd',
+      objectId: '1296340',
+      title: 'Undercat',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-12-31T19:25:03.588Z',
+      installCount: 0,
+      achievementCount: 12,
+      iconHash: '643ab06b467ab80137cea3d38bd8fb6a8dd32f67',
+      achievementsPointsTotal: 11620,
+      developer: 'SparkyTailGames',
+      genres: [ 'Action', 'Adventure', 'Indie' ],
+      publisher: 'SparkyTailGames',
+      reviewScore: 52,
+      tags: [
+        '5350', '3841', '4726',
+        '5379', '21',   '492',
+        '3964', '4004', '1719',
+        '1638', '1775', '3871',
+        '1685', '19',   '1625',
+        '3859', '7368', '4182',
+        '9204', '1687'
+      ]
+    },
+    {
+      id: 'NoZLWyn2',
+      objectId: '1154810',
+      title: 'Going Under',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2024-12-28T19:18:02.424Z',
+      installCount: 39,
+      achievementCount: 23,
+      iconHash: 'da7b3da3acee8243f3f3d36b3f6b155db7a3a30e',
+      achievementsPointsTotal: 42380,
+      developer: 'Aggro Crab',
+      genres: [ 'Action', 'Indie' ],
+      publisher: 'Team17 Digital',
+      reviewScore: 3011,
+      tags: [
+        '42804', '1720', '4158',
+        '1646',  '7208', '4026',
+        '29482', '4231', '4726',
+        '4136',  '4106', '1697',
+        '4305',  '5125', '1742',
+        '5030',  '4115', '19'
+      ]
+    },
+    {
+      id: 'GKPEpDo7',
+      objectId: '1869780',
+      title: 'UnderMine 2',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-02-04T00:28:16.508Z',
+      installCount: 34,
+      achievementCount: 0,
+      iconHash: '1f6c72f1ba4145f345c462bb44a47ca2205fe28f',
+      achievementsPointsTotal: 0,
+      developer: '',
+      genres: [],
+      publisher: '',
+      reviewScore: 0,
+      tags: []
+    },
+    {
+      id: 'WKjL02gY',
+      objectId: '573320',
+      title: 'Underhero',
+      shop: 'steam',
+      createdAt: '2024-09-12T22:47:03.448Z',
+      updatedAt: '2025-01-22T03:33:35.225Z',
+      installCount: 2,
+      achievementCount: 44,
+      iconHash: 'f417e37792f8705248158a65d60a98a0157008e7',
+      achievementsPointsTotal: 63370,
+      developer: 'Paper Castle Games',
+      genres: [ 'Adventure', 'Indie', 'RPG' ],
+      publisher: 'Paper Castle Games',
+      reviewScore: 840,
+      tags: [
+        '122',   '1625', '1742',
+        '4182',  '3964', '4325',
+        '11333', '3871', '7250',
+        '4434',  '4136', '4305',
+        '4726',  '492',  '21',
+        '5379',  '1756', '1664',
+        '1719',  '3798'
+      ]
+    }
+  ]
+}
+[2025-05-04 20:05:19.436] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:19.436] [info]  (network)      get /features null {}
+[2025-05-04 20:05:19.438] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:19.439] [info]  (network)      get /features null {}
+[2025-05-04 20:05:19.441] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:19.442] [info]  (network)      get /games/stats { objectId: '391540', shop: 'steam' } {}
+[2025-05-04 20:05:19.494] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:19.495] [info]  (network)      get /games/stats { objectId: '391540', shop: 'steam' } {}
+[2025-05-04 20:05:19.533] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:19.537] [info]  (network)      get /games/how-long-to-beat?objectId=391540&shop=steam null {}
+[2025-05-04 20:05:19.650] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:19.651] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:05:19.806] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:19.808] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:05:19.812] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:19.814] [info]  (network)      200 get /games/stats {
+  playerCount: 29,
+  downloadCount: 40653,
+  friendsCurrentlyPlaying: null
+}
+[2025-05-04 20:05:19.894] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:19.894] [info]  (network)      200 get /games/stats {
+  playerCount: 29,
+  downloadCount: 40653,
+  friendsCurrentlyPlaying: null
+}
+[2025-05-04 20:05:19.911] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:19.912] [info]  (network)      200 get /games/how-long-to-beat?objectId=391540&shop=steam [
+  { title: 'Main Story', accuracy: '100', duration: '7 Hours' },
+  { title: 'Main + Sides', accuracy: '100', duration: '11 Hours' },
+  { title: 'Completionist', accuracy: '100', duration: '20½ Hours' },
+  { title: 'All Styles', accuracy: '100', duration: '10 Hours' }
+]
+[2025-05-04 20:05:52.505] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:05:52.507] [info]  (network)      post /games/download undefined { objectId: '391540', shop: 'steam' }
+[2025-05-04 20:05:58.031] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:05:58.033] [info]  (network)      200 post /games/download {
+  objectId: '391540',
+  shop: 'steam',
+  createdAt: '2025-05-04T17:05:57.947Z',
+  updatedAt: '2025-05-04T17:05:57.947Z'
+}
+[2025-05-04 20:07:39.006] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:07:39.008] [info]  (network)      get /features null {}
+[2025-05-04 20:07:39.019] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:07:39.020] [info]  (network)      get /features null {}
+[2025-05-04 20:07:39.024] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:07:39.025] [info]  (network)      get /games/stats { objectId: '391540', shop: 'steam' } {}
+[2025-05-04 20:07:39.383] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:07:39.384] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:07:39.414] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:07:39.420] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:07:39.450] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:07:39.451] [info]  (network)      get /games/stats { objectId: '391540', shop: 'steam' } {}
+[2025-05-04 20:07:39.467] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:07:39.468] [info]  (network)      200 get /games/stats {
+  playerCount: 29,
+  downloadCount: 40653,
+  friendsCurrentlyPlaying: null
+}
+[2025-05-04 20:07:39.615] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:07:39.617] [info]  (network)      200 get /games/stats {
+  playerCount: 29,
+  downloadCount: 40653,
+  friendsCurrentlyPlaying: null
+}
+[2025-05-04 20:07:55.259] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:07:55.260] [info]  (network)      post /games/download undefined { objectId: '391540', shop: 'steam' }
+[2025-05-04 20:07:55.842] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:07:55.844] [info]  (network)      200 post /games/download {
+  objectId: '391540',
+  shop: 'steam',
+  createdAt: '2025-05-04T17:07:55.685Z',
+  updatedAt: '2025-05-04T17:07:55.685Z'
+}
+[2025-05-04 20:08:53.002] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:08:53.010] [info]  (network)      get /features null {}
+[2025-05-04 20:08:53.014] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:08:53.014] [info]  (network)      get /features null {}
+[2025-05-04 20:08:53.019] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:08:53.021] [info]  (network)      get /games/stats { objectId: '391540', shop: 'steam' } {}
+[2025-05-04 20:08:53.091] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:08:53.091] [info]  (network)      get /games/stats { objectId: '391540', shop: 'steam' } {}
+[2025-05-04 20:08:53.812] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:08:53.813] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:08:53.832] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:08:53.835] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:08:53.871] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:08:53.873] [info]  (network)      200 get /games/stats {
+  playerCount: 29,
+  downloadCount: 40653,
+  friendsCurrentlyPlaying: null
+}
+[2025-05-04 20:08:53.877] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:08:53.878] [info]  (network)      200 get /games/stats {
+  playerCount: 29,
+  downloadCount: 40653,
+  friendsCurrentlyPlaying: null
+}
+[2025-05-04 20:09:31.793] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:09:31.795] [info]  (network)      post /games/download undefined { objectId: '391540', shop: 'steam' }
+[2025-05-04 20:09:32.158] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:09:32.159] [info]  (network)      200 post /games/download {
+  objectId: '391540',
+  shop: 'steam',
+  createdAt: '2025-05-04T17:09:32.067Z',
+  updatedAt: '2025-05-04T17:09:32.067Z'
+}
+[2025-05-04 20:10:57.115] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:10:57.116] [info]  (network)      get /features null {}
+[2025-05-04 20:10:57.119] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:10:57.119] [info]  (network)      get /features null {}
+[2025-05-04 20:10:57.122] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:10:57.123] [info]  (network)      get /games/stats { objectId: '391540', shop: 'steam' } {}
+[2025-05-04 20:10:57.196] [info]  (network)       ---- REQUEST -----
+[2025-05-04 20:10:57.202] [info]  (network)      get /games/stats { objectId: '391540', shop: 'steam' } {}
+[2025-05-04 20:10:57.817] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:10:57.818] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:10:57.869] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:10:57.870] [info]  (network)      200 get /features [ 'CHECK_DOWNLOAD_WRITE_PERMISSION', 'TORBOX' ]
+[2025-05-04 20:10:58.124] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:10:58.125] [info]  (network)      200 get /games/stats {
+  playerCount: 29,
+  downloadCount: 40658,
+  friendsCurrentlyPlaying: null
+}
+[2025-05-04 20:10:58.126] [info]  (network)       ---- RESPONSE -----
+[2025-05-04 20:10:58.127] [info]  (network)      200 get /games/stats {
+  playerCount: 29,
+  downloadCount: 40658,
+  friendsCurrentlyPlaying: null
+}

@@ -1,0 +1,1521 @@
+[2025-05-05 00:01:55.812] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:01:55] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:01:55.925] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:01:55] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:01:57.589] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:01:57] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:01:57.596] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:01:57] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:01:57.689] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:01:57] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:01:59.342] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:01:59] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:01:59.347] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:01:59] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:01:59.443] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:01:59] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:01.049] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:01] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:01.052] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:01] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:01.125] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:01] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:02.738] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:02] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:02.758] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:02] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:03.054] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:03] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:04.738] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:04] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:04.752] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:04] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:05.046] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:05] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:06.745] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:06] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:06.759] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:06] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:06.860] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:06] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:08.465] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:08] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:08.478] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:08] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:08.581] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:08] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:10.205] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:10] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:10.209] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:10] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:10.297] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:10] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:11.915] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:11] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:11.927] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:11] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:12.012] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:12] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:13.596] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:13] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:13.602] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:13] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:13.702] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:13] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:15.363] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:15] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:15.372] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:15] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:15.625] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:15] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:17.381] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:17] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:17.448] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:17] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:17.597] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:17] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:19.315] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:19] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:19.322] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:19] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:19.407] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:19] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:21.009] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:21] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:21.015] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:21] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:21.095] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:21] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:22.695] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:22] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:22.701] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:22] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:22.816] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:22] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:24.431] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:24] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:24.438] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:24] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:24.538] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:24] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:26.156] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:26] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:26.158] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:26] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:26.244] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:26] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:27.880] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:27] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:27.890] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:27] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:28.289] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:28] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:30.095] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:30] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:30.109] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:30] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:30.365] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:30] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:32.036] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:32] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:32.053] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:32] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:32.372] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:32] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:34.037] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:34] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:34.044] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:34] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:34.171] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:34] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:35.786] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:35] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:35.795] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:35] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:35.906] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:35] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:37.505] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:37] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:37.511] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:37] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:37.598] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:37] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:39.220] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:39] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:39.223] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:39] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:39.310] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:39] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:40.943] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:40] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:40.951] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:40] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:41.051] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:41] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:42.673] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:42] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:42.678] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:42] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:42.786] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:42] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:44.436] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:44] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:44.443] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:44] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:44.635] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:44] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:46.294] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:46] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:46.303] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:46] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:46.524] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:46] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:48.275] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:48] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2025 00:02:48] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:48.554] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:48] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:50.154] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:50] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:50.158] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:50] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:50.267] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:50] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:51.886] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:51] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:51.896] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:51] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:51.999] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:51] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:53.619] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:53] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:53.624] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:53] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:53.720] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:53] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:55.335] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:55] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:55.340] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:55] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:55.420] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:55] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:57.036] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:57] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:57.040] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:57] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:57.127] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:57] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:02:58.751] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:58] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:58.755] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:58] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:02:58.849] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:02:58] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:00.516] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:00] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:00.524] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:00] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:00.725] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:00] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:02.460] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:02] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:02.466] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:02] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:02.657] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:02] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:04.356] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:04] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:04.371] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:04] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:04.548] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:04] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:06.163] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:06] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:06.171] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:06] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:06.276] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:06] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:07.886] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:07] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:07.891] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:07] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:07.983] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:07] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:09.612] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:09] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:09.616] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:09] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:09.712] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:09] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:11.320] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:11] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:11.330] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:11] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:11.424] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:11] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:13.060] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:13] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2025 00:03:13] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:13.166] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:13] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:14.789] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:14] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:14.799] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:14] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:14.875] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:14] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:16.522] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:16] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:16.531] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:16] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:16.808] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:16] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:18.529] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:18] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:18.534] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:18] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:18.747] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:18] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:20.439] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:20] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:20.444] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:20] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:20.545] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:20] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:22.167] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:22] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:22.174] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:22] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:22.260] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:22] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:23.873] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:23] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:23.878] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:23] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:23.979] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:23] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:25.623] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:25] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:25.629] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:25] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:25.719] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:25] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:27.347] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:27] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:27.353] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:27] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:27.452] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:27] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:29.111] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:29] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:29.114] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:29] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:29.216] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:29] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:30.830] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:30] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:30.838] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:30] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:31.033] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:31] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:32.761] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:32] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:32.769] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:32] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:32.959] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:32] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:34.647] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:34] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:34.654] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:34] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:34.754] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:34] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:36.386] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:36] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2025 00:03:36] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:36.488] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:36] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:38.130] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:38] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:38.134] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:38] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:38.208] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:38] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:39.812] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:39] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:39.814] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:39] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:39.907] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:39] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:41.525] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:41] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:41.528] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:41] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:41.610] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:41] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:43.219] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:43] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:43.225] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:43] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:43.312] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:43] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:44.942] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:44] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:44.952] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:44] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:45.165] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:45] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:46.867] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:46] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:46.874] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:46] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:47.064] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:47] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:48.735] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:48] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:48.742] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:48] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:48.825] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:48] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:50.413] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:50] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:50.426] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:50] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:50.520] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:50] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:52.121] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:52] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:52.126] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:52] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:52.210] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:52] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:53.810] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:53] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:53.819] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:53] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:53.907] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:53] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:55.526] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:55] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:55.532] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:55] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:55.690] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:55] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:57.327] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:57] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:57.335] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:57] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:57.455] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:57] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:03:59.081] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:59] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:59.089] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:59] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:03:59.335] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:03:59] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:01.077] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:01] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:01.106] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:01] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:01.403] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:01] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:03.129] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:03] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:03.135] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:03] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:03.230] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:03] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:04.873] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:04] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:04.880] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:04] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:04.986] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:04] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:06.606] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:06] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:06.614] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:06] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:06.708] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:06] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:08.396] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:08] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:08.405] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:08] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:08.512] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:08] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:10.153] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:10] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:10.164] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:10] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:10.271] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:10] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:11.958] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:11] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:11.979] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:11] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:12.290] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:12] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:14.023] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:14] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:14.039] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:14] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:14.228] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:14] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:15.971] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:15] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:15.976] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:15] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:16.057] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:16] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:17.693] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:17] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:17.697] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:17] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:17.773] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:17] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:19.383] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:19] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:19.388] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:19] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:19.470] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:19] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:21.109] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:21] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:21.115] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:21] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:21.208] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:21] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:22.869] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:22] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2025 00:04:22] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:23.049] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:23] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:24.678] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:24] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:24.684] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:24] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:24.771] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:24] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:26.378] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:26] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:26.384] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:26] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:26.479] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:26] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:28.176] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:28] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:28.184] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:28] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:28.409] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:28] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:30.149] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:30] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:30.159] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:30] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:30.364] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:30] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:32.119] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:32] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:32.128] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:32] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:32.308] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:32] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:33.952] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:33] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:33.974] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:33] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:34.061] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:34] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:35.681] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:35] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:35.688] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:35] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:35.766] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:35] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:37.381] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:37] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:37.386] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:37] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:37.471] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:37] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:39.100] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:39] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:39.106] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:39] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:39.185] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:39] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:40.788] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:40] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:40.801] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:40] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:40.897] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:40] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:42.523] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:42] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:42.528] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:42] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:42.701] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:42] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:44.419] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:44] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:44.425] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:44] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:44.727] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:44] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:46.477] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:46] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:46.491] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:46] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:46.639] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:46] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:48.297] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:48] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:48.310] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:48] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:48.408] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:48] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:50.050] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:50] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:50.052] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:50] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:50.144] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:50] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:51.750] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:51] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:51.762] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:51] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:51.867] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:51] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:53.504] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:53] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:53.508] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:53] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:53.587] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:53] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:55.208] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:55] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:55.214] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:55] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:55.307] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:55] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:56.969] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:56] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2025 00:04:56] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:57.591] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:57] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:04:59.295] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:59] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:59.304] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:59] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:04:59.495] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:04:59] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:01.251] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:01] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:01.254] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:01] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:01.334] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:01] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:02.953] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:02] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:02.963] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:02] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:03.041] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:03] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:04.667] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:04] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:04.684] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:04] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:04.753] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:04] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:06.369] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:06] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:06.380] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:06] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:06.470] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:06] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:08.068] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:08] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:08.075] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:08] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:08.157] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:08] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:09.775] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:09] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:09.783] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:09] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:09.864] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:09] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:11.509] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:11] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:11.512] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:11] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:11.593] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:11] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:13.363] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:13] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:13.372] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:13] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:13.559] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:13] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:15.262] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:15] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:15.272] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:15] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:15.536] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:15] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:17.183] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:17] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:17.186] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:17] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:17.268] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:17] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:18.953] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:18] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:18.960] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:18] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:19.057] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:19] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:20.681] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:20] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:20.692] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:20] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:20.775] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:20] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:22.433] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:22] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:22.439] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:22] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:22.521] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:22] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:24.175] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:24] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:24.178] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:24] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:24.259] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:24] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:25.931] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:25] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:25.952] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:25] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:26.160] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:26] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:27.941] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:27] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:27.951] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:27] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:28.171] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:28] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:29.907] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:29] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:29.918] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:29] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:30.011] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:30] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:31.620] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:31] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:31.632] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:31] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:31.741] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:31] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:33.384] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:33] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:33.387] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:33] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:33.495] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:33] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:35.116] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:35] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:35.121] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:35] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:35.213] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:35] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:36.850] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:36] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:36.854] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:36] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:37.075] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:37] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:38.806] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:38] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:38.813] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:38] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:38.896] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:38] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:40.540] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:40] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:40.547] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:40] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:40.684] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:40] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:42.416] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:42] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:42.430] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:42] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:42.647] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:42] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:44.355] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:44] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:44.374] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:44] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:44.599] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:44] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:46.277] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:46] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:46.282] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:46] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:46.362] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:46] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:47.993] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:47] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:47.999] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:47] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:48.094] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:48] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:49.727] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:49] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:49.732] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:49] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:49.815] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:49] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:51.428] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:51] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:51.431] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:51] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:51.493] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:51] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:53.110] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:53] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:53.129] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:53] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:53.204] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:53] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:54.818] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:54] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:54.834] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:54] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:54.979] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:54] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:56.651] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:56] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:56.657] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:56] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:56.743] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:56] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:05:58.438] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:58] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:58.451] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:58] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:05:58.773] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:05:58] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:00.570] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:00] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:00.577] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:00] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:01.133] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:01] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:02.912] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:02] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:02.914] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:02] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:02.973] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:02] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:04.573] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:04] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:04.575] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:04] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:04.691] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:04] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:06.284] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:06] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:06.294] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:06] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:06.377] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:06] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:07.994] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:07] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:07.998] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:07] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:08.074] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:08] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:09.706] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:09] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:09.715] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:09] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:09.808] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:09] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:11.410] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:11] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:11.415] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:11] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:11.511] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:11] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:13.208] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:13] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:13.255] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:13] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:13.468] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:13] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:15.210] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:15] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:15.217] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:15] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:15.465] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:15] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:17.200] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:17] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:17.211] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:17] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:17.291] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:17] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:18.915] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:18] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:18.927] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:18] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:19.044] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:19] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:20.682] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:20] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:20.694] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:20] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:20.815] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:20] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:22.431] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:22] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:22.442] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:22] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:22.603] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:22] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:24.249] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:24] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:24.262] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:24] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:24.345] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:24] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:25.991] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:25] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:26.005] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:25] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:26.237] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:26] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:27.997] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:27] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:28.015] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:27] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:28.270] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:28] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:30.000] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:29] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:30.012] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:30] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:30.197] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:30] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:31.891] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:31] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:31.895] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:31] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:32.042] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:32] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:33.647] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:33] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:33.658] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:33] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:33.753] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:33] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:35.365] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:35] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:35.366] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:35] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:35.452] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:35] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:37.046] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:37] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:37.050] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:37] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:37.109] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:37] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:38.710] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:38] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:38.715] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:38] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:38.789] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:38] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:40.396] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:40] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:40.401] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:40] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:40.489] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:40] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:42.090] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:42] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:42.091] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:42] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:42.165] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:42] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:43.748] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:43] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:43.750] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:43] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:43.813] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:43] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:45.401] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:45] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:45.418] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:45] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:45.493] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:45] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:47.085] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:47] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:47.086] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:47] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:47.154] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:47] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:48.747] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:48] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:48.752] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:48] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:48.828] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:48] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:50.436] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:50] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:50.437] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:50] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:50.518] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:50] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:52.134] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:52] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:52.136] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:52] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:52.220] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:52] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:53.836] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:53] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:53.839] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:53] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:53.928] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:53] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:55.524] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:55] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:55.530] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:55] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:55.589] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:55] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:57.179] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:57] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:57.185] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:57] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:57.255] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:57] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:06:58.860] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:58] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:58.863] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:58] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:06:58.945] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:06:58] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:00.545] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:00] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:00.552] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:00] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:00.632] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:00] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:02.245] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:02] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:02.248] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:02] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:02.328] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:02] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:03.931] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:03] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:03.935] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:03] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:04.102] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:04] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:05.775] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:05] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:05.782] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:05] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:05.866] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:05] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:07.489] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:07] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:07.508] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:07] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:07.710] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:07] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:09.416] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:09] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:09.423] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:09] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:09.610] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:09] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:11.333] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:11] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:11.337] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:11] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:11.412] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:11] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:13.015] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:13] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:13.019] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:13] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:13.086] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:13] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:14.671] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:14] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:14.683] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:14] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:14.755] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:14] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:16.348] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:16] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:16.350] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:16] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:16.408] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:16] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:17.982] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:17] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:17.988] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:17] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:18.045] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:18] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:19.621] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:19] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:19.623] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:19] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:19.685] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:19] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:21.263] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:21] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:21.266] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:21] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:21.317] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:21] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:22.874] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:22] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:22.876] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:22] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:22.926] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:22] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:24.482] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:24] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:24.485] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:24] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:24.535] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:24] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:26.108] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:26] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:26.110] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:26] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:26.163] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:26] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:27.719] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:27] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:27.722] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:27] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:27.772] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:27] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:29.336] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:29] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:29.340] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:29] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:29.398] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:29] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:30.975] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:30] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:30.977] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:30] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:31.056] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:31] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:32.668] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:32] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:32.674] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:32] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:32.761] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:32] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:34.367] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:34] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:34.376] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:34] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:34.449] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:34] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:36.147] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:36] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:36.171] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:36] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:36.254] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:36] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:37.860] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:37] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:37.862] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:37] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:37.930] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:37] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:39.509] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:39] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:39.511] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:39] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:39.565] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:39] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:41.134] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:41] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:41.139] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:41] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:41.225] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:41] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:42.808] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:42] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:42.813] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:42] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:42.875] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:42] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:44.470] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:44] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:44.473] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:44] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:44.532] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:44] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:46.104] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:46] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:46.106] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:46] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:46.168] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:46] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:47.740] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:47] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:47.744] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:47] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:47.803] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:47] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:49.368] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:49] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:49.373] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:49] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:49.422] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:49] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:50.998] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:50] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:51.001] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:51] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:51.078] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:51] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:52.692] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:52] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2025 00:07:52] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:52.772] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:52] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:54.405] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:54] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:54.410] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:54] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:54.470] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:54] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:56.047] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:56] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:56.050] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:56] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:56.116] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:56] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:57.694] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:57] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:57.701] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:57] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:57.805] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:57] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:07:59.380] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:59] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:59.382] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:59] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:07:59.434] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:07:59] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:01.000] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:00] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:01.001] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:01] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:01.060] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:01] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:02.639] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:02] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:02.645] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:02] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:02.710] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:02] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:04.282] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:04] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:04.283] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:04] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:04.339] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:04] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:05.912] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:05] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:05.916] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:05] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:05.972] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:05] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:07.545] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:07] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:07.547] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:07] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:07.602] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:07] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:09.190] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:09] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:09.200] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:09] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:09.384] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:09] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:11.016] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:11] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:11.018] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:11] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:11.090] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:11] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:12.662] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:12] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:12.665] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:12] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:12.724] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:12] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:14.306] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:14] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:14.313] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:14] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:14.378] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:14] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:15.965] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:15] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:15.974] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:15] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:16.070] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:16] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:17.725] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:17] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:17.729] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:17] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:17.785] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:17] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:19.361] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:19] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:19.364] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:19] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:19.423] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:19] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:20.996] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:20] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:20.999] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:20] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:21.060] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:21] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:22.639] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:22] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:22.641] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:22] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:22.699] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:22] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:24.272] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:24] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:24.275] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:24] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:24.348] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:24] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:25.920] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:25] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:25.922] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:25] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:25.971] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:25] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:27.525] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:27] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:27.527] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:27] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:27.587] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:27] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:29.151] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:29] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:29.153] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:29] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:29.247] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:29] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:30.820] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:30] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:30.822] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:30] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:30.882] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:30] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:32.450] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:32] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:32.452] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:32] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:32.513] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:32] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:34.084] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:34] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:34.092] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:34] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:34.146] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:34] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:35.713] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:35] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:35.716] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:35] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:35.769] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:35] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:37.386] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:37] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:37.399] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:37] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:37.487] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:37] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:39.084] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:39] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:39.091] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:39] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:39.161] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:39] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:40.725] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:40] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:40.730] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:40] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:40.784] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:40] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:42.344] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:42] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:42.346] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:42] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:42.403] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:42] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:43.963] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:43] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:43.964] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:43] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:44.020] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:44] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:45.603] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:45] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:45.607] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:45] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:45.669] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:45] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:47.240] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:47] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:47.244] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:47] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:47.299] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:47] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:48.899] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:48] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:48.901] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:48] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:48.958] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:48] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:50.523] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:50] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:50.525] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:50] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:50.574] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:50] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:52.130] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:52] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:52.132] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:52] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:52.194] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:52] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:53.788] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:53] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:53.794] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:53] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:53.882] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:53] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:55.471] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:55] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:55.473] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:55] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:55.526] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:55] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:57.099] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:57] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:57.103] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:57] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:57.167] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:57] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:08:58.736] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:58] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:58.738] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:58] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:08:58.801] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:08:58] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:00.369] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:00] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:00.370] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:00] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:00.428] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:00] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:01.991] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:01] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:01.994] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:01] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:02.049] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:02] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:03.625] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:03] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:03.627] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:03] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:03.685] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:03] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:05.250] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:05] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:05.253] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:05] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:05.357] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:05] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:06.989] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:06] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:06.990] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:06] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:07.050] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:07] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:08.624] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:08] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:08.626] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:08] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:08.676] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:08] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:10.255] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:10] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:10.355] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:10] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:10.471] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:10] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:12.110] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:12] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:12.113] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:12] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:12.185] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:12] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:13.764] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:13] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:13.774] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:13] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:13.831] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:13] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:15.423] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:15] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:15.425] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:15] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:15.484] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:15] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:17.064] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:17] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:17.070] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:17] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:17.178] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:17] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:18.763] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:18] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2025 00:09:18] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:18.827] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:18] "GET /process-list HTTP/1.1" 200 -
+
+[2025-05-05 00:09:20.425] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:20] "GET /status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:20.431] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:20] "GET /seed-status HTTP/1.1" 200 -
+
+[2025-05-05 00:09:20.510] [info]  (python-rpc)   127.0.0.1 - - [05/May/2025 00:09:20] "GET /process-list HTTP/1.1" 200 -
+

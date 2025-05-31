@@ -1,4 +1,4 @@
-# Recent settings file for Wireshark 4.4.5.
+# Recent settings file for Wireshark 4.4.6.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -11,7 +11,7 @@ gui.toolbar_main_show: true
 
 # Filter Toolbar show (hide).
 # true or false (case-insensitive).
-gui.filter_toolbar_show: true
+gui.filter_toolbar_show: false
 
 # Wireless Settings Toolbar show (hide).
 # true or false (case-insensitive).
@@ -95,11 +95,11 @@ gui.show_bytes_show: ASCII
 
 # Main window upper (or leftmost) pane size.
 # Decimal number.
-gui.geometry_main_upper_pane: 440
+gui.geometry_main_upper_pane: 238
 
 # Main window middle pane size.
 # Decimal number.
-gui.geometry_main_lower_pane: 325
+gui.geometry_main_lower_pane: 318
 
 # Main window master splitter state.
 # Hex byte string.
